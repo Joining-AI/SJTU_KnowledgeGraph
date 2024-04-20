@@ -1,0 +1,4954 @@
+- 外国语言文学类
+  - 文学
+    - 俄语
+      - 语言基础知识
+        - 语音
+        - 语法
+        - 词汇及言语训练
+      - 语言实践应用
+        - 句型及朗读调型
+        - 对话
+        - 课文
+      - 语言文化背景
+        - 言语礼仪
+        - 俄罗斯文化
+      - 综合能力提升
+        - 模拟试题
+        - 视听说
+      - 专业课程
+        - 名词变格
+        - 动词变位
+      - 生活与社会
+        - 大学生活
+        - 交通事情
+        - 健康生活
+        - 食生活
+        - 趣味
+        - 娱乐
+        - 交朋友
+        - 结婚与家庭
+        - 烦恼与压力
+        - 社会与科学
+        - 能源问题
+        - 为世界做贡献
+      - 科技与创新
+        - 人工知能
+        - エコカー
+        - ドローンと現代農業
+        - ホログラム
+        - ソロキャンブーム
+        - 世界遺産
+        - ゴミ収集
+        - ミニマルな暮らし
+      - 翻译基础
+      - 翻译技巧
+        - 词义处理
+          - 上下文中确定词义
+          - 词义的确定与引申
+        - 词语与短语翻译
+          - 句子内部调整
+          - 词类转换与成分变通
+          - 词量的增减
+          - 句构调整
+          - 拆句与并句
+          - 主动句与被动句的转换
+          - 肯定句与否定句的转换
+          - 副动词短语的翻译
+          - 形形容词短语的翻译
+        - 复杂句型翻译
+          - как连接的短语和从句的翻译
+          - если连接的从句的翻译
+          - что́бы连接的从句的翻译
+          - 长难句的翻译
+          - 句组的翻译
+          - 句子信息重点的翻译
+          - 链式联系句组的翻译
+          - 平行式联系句组的翻译
+          - 接续式联系句组的翻译
+      - 翻译实践
+        - 人名地名翻译
+          - 俄罗斯人名的翻译
+          - 非俄罗斯人名的翻译
+          - 俄罗斯地名的翻译
+          - 非俄罗斯地名的翻译
+        - 语体与风格
+          - 书面语词和口语词的翻译
+          - 词语褒贬色彩的传达
+      - 俄语视听说
+        - 中级教程
+          - Русские блины
+          - Секреты приготовления
+          - История одной картины
+          - Дом П.И. Чайковского
+          - Музыкальный музей
+          - Самые большие матрёшки
+          - Где они находятся?
+          - Символика цвета в одежде
+          - Древнерусские традиции
+          - Картины из кожи
+          - Вторая жизнь ненужных вещей
+          - Казань
+          - Взгляд в прошлое
+          - Моржевание
+          - Плюсы и минусы
+          - Снегурочка
+          - Есть ли у неё родина?
+          - Новый год
+          - Традиции празднования
+          - История китайских пельменей
+          - Кинотеатр-рекордсмен
+          - Гуанчжоу
+          - Символ города
+          - Панда
+          - Почему она стала символом?
+          - Священные крыши
+          - Легенда о Лю Тяне и его доме
+          - Пагода
+          - Сувенир и буддистский храм
+          - Тофу
+          - Что можно приготовить из него?
+          - Тигроферма в Харбине
+          - Самый большой парк тигров в Азии
+          - Фейерверк
+          - От бамбука до хлопушки
+          - Новогодние картины
+          - Подарок на все случаи жизни
+        - 基础教程
+          - 不要漂亮，要幸福
+          - 真正的朋友——切布拉шка
+          - 陀思妥耶夫斯基的肖像佳作
+          - 俏佳人——花木兰
+          - 中国式美人
+          - 人靠衣裳，马靠鞍
+          - 具有千年历史的盾形头饰
+          - 日常工装
+          - 中式旗袍趣史
+          - 时尚新宠——脸基尼
+          - 做运动，体强健
+          - 一起去滑冰吧！
+          - 奥运冠军成长之路
+          - 中国人何时喜欢上篮球运动？
+          - 冬季童话——北京 2022
+          - 一本好书，多人受益
+          - 俄罗斯童话——兄弟俩
+          - 俄罗斯人喜欢读的书
+          - 天津的未来图书馆
+          - 孙悟空是滑头还是智者？
+          - 一买一卖，谓之买卖
+          - 集市开张啦！
+          - 购物去 ГУМ，还是去 ЦУМ？
+          - 中式网购
+          - 新丝绸之路
+          - 书报之于人，犹如窗户之于房子
+          - 《消息报》——俄罗斯 20 世纪史书
+          - 俄罗斯的知名博主 Юрий Дудь
+          - CGTN——俄语频道：别样看世界
+          - 中国选出年度热词
+          - 民以食为天
+          - 俄罗斯美食之旅
+          - 最有名的海外俄餐厅
+          - 上海菜
+          - 会涮中式火锅吗？
+          - 俄式婚俗
+          - 在俄罗斯哪些礼物不能送？
+          - 单身汉的节日
+          - 哈尔滨冰雪节
+          - 总词汇表
+          - 同步课文
+      - 俄语经贸口译
+        - 翻译技巧与策略
+          - 特有事物的翻译
+          - 术语的翻译
+          - 数字的翻译
+          - 在上下文中确定词义
+          - 词义的确定
+          - 词义确定中的干扰因素
+          - 词义的引申
+          - 书面语词和口语词的翻译
+          - 词语褒贬色彩的传达
+          - “动词＋名词”的翻译
+          - “形容词＋名词”的翻译
+          - “副词＋动词”的翻译
+          - 俄语成语的识别
+          - 俄语成语的基本译法
+          - 俄语成语活用的翻译
+          - 汉语成语及四字格的恰当使用
+          - 词类转换与成分变通
+          - 词量的增减
+          - 句构调整
+          - 拆句与并句
+          - 主动句与被动句的转换
+          - 肯定句与否定句的转换
+          - 译成方式状语
+          - 译成时间状语
+          - 译成状语从句
+          - 译成谓语的一部分
+          - 译成并列分句
+          - 译成被说明词的定语
+          - 译成兼语式结构的一部分
+          - 译成状语或状语从句
+          - 连接同位语的翻译
+          - 连接比较短语和比较从句的翻译
+          - 连接其他从句的翻译
+          - 带 как 的常见句型的翻译
+          - 连接潜在条件句的翻译
+          - 连接虚拟条件句的翻译
+          - 连接现实条件句的翻译
+          - 连接对比句的翻译
+          - 其他用法的翻译
+          - 连接目的从句的翻译
+          - 连接说明从句的翻译
+          - 连接限定从句的翻译
+          - 连接限定－疏状从句的翻译
+          - 带 что́бы 的常见句型的翻译
+          - 顺序法
+          - 调位法
+          - 分译法
+          - 逆序法
+          - 句子信息重点的翻译
+          - 链式联系句组的翻译
+          - 平行式联系句组的翻译
+          - 接续式联系句组的翻译
+        - 经济贸易领域
+          - 世界贸易组织
+          - 跨国公司
+          - 电子商务
+          - 国际经济与贸易
+          - 国际金融与管理
+          - 经济全球化
+          - 亚太经合组织
+          - 20国集团
+          - 中俄经贸合作
+      - 翻译技巧与策略
+        - 口译技巧
+          - 俄汉经贸口译
+          - 迎接
+          - 宾馆
+          - 会谈
+          - 参观
+          - 游览
+          - 购物
+          - 宴请
+          - 送行
+          - 边境与海关
+          - 翻译的主要策略
+          - 直译与意译
+          - 归化与异化
+          - 功能对等
+          - 常用的翻译技巧
+          - 增译法
+          - 省译法
+          - 转换法
+          - 拆句法和合并法
+          - 正译法和反译法
+          - 倒置法
+          - 插入法
+          - 重组法
+          - 综合法
+      - 俄语经贸知识
+        - 国际经济与贸易
+          - 世界贸易组织
+          - 跨国公司
+          - 电子商务
+          - 国际经济与贸易
+          - 国际金融与管理
+          - 经济全球化
+          - 亚太经合组织
+          - 20国集团
+          - 中俄经贸合作
+        - 商业文书翻译
+          - 业务信函
+          - 商业广告
+          - 宣传材料
+          - 营业执照
+          - 企业章程
+          - 意向书
+          - 协议书
+          - 合同书
+          - 单据证明
+      - 俄罗斯文化与社会
+        - 俄罗斯文化
+          - 俄罗斯礼仪
+          - 俄罗斯节日
+          - 俄罗斯餐饮
+          - 俄罗斯宗教
+          - 俄罗斯文学
+          - 俄罗斯戏剧
+          - 俄罗斯音乐
+          - 俄罗斯芭蕾
+          - 俄罗斯绘画
+          - 俄罗斯马戏
+          - 俄罗斯建筑
+          - 俄罗斯名胜古迹
+          - 俄罗斯体育竞技
+          - 俄罗斯高等教育
+      - 外贸俄语会话
+        - 外贸流程
+          - 外贸准备
+          - 谈判技巧
+          - 商品询价与报价
+          - 价格讨论
+          - 货物供应
+          - 货物运输
+          - 海关手续
+          - 货物保险
+          - 投诉处理
+          - 合同签订
+          - 财务管理与投资
+          - 市场竞争与合作
+          - 国际市场
+      - 翻译基础与理论
+        - 翻译定义与过程
+          - 翻译的定义
+          - 翻译的种类
+          - 翻译的过程
+        - 翻译标准与素养
+          - 翻译的基本策略
+          - 翻译的标准
+          - 译者的基本素养
+        - 专有名词翻译
+          - 俄罗斯人名的翻译
+          - 非俄罗斯人名的翻译
+          - 俄罗斯地名的翻译
+          - 非俄罗斯地名的翻译
+          - 带“-ский”的地名形容词的翻译
+          - 其他专有名词的翻译
+    - 德语
+      - 法国文化与社会
+        - 法国地理概况
+        - 法国文化
+        - 法国葡萄酒
+        - 法国时装
+        - 法国建筑风格
+        - 巴黎大学
+        - 法国住房状况
+        - 法国的住房
+        - 法国主要文学奖
+        - 法国体育
+        - 环法自行车赛
+        - 法国高速列车
+        - 工业与环境
+        - 保留历史还是发展工业
+        - 马铃薯，2015年塑料袋的未来
+        - 百岁巴黎地铁
+        - 伟大女性
+        - 死亡游戏
+        - 玛丽•居里：妇女的典范
+        - 法兰西共和国
+        - 贝聿铭
+        - 保罗•安德鲁
+      - 德国文化与社会
+        - 德意志联邦共和国
+        - 德国教育
+        - 德国家庭与婚姻
+        - 德国名人
+        - 德国文化与艺术
+        - 德国品牌与经济
+      - 语言学习与应用
+        - 学习动机与目标
+        - 语法与词汇
+        - 听力与阅读理解
+        - 写作与表达
+        - 口语交际
+          - 问候与自我介绍
+          - 描述人物与物品
+          - 问路与指路
+          - 提议与邀请
+          - 表达饮食与餐馆点餐
+          - 表达喜好与情感
+          - 谈论天气与计划
+          - 电话与约会
+          - 给予建议与表达观点
+        - 文化差异与交流
+          - 中德文化差异
+          - 城市多样性
+          - 环保与循环经济
+      - 社会与生活
+        - 家庭与社会关系
+          - 家庭关系与社会期望
+          - 家庭与社会变迁
+        - 职业与教育
+          - 职业培训与中学教育
+          - 个人简历与名人生活
+        - 健康与环境
+          - 健康保险
+          - 环境污染与经济发展
+          - 运动与健康
+          - 吸烟危害与社会排斥
+        - 日常生活
+          - 住宅与邀请
+          - 交通事故与责任
+          - 阅读兴趣
+          - 学生自主与舞台表演
+      - 语言教学与评估
+        - 教学要求与评估
+        - 学生能力自评/互评
+        - 语法表与词汇表
+        - 功能意念与构词法
+      - 语法
+        - 动词
+          - 反身动词 Reflexive Verben
+          - 带 zu 不定式 Infinitiv mit zu
+          - sich lassen + Infinitiv
+          - 带情态动词的被动态 Passiv mit Modalverben
+          - 不带 zu 的不定式 Infinitiv ohne zu: 动词 gehen / lassen / helfen / hören / sehen
+          - 过程被动态 Vorgangspassiv
+          - 动词对格的支配关系 Rektion der Verben
+          - 条件句 Konditionalsätze mit wenn / falls
+          - 过去时 Präteritum
+        - 连词与从句
+          - 结果从句 Konsekutivsätze mit sodass / so , dass
+          - 状态被动态 Zustandspassiv
+          - 目的从句 Finalsätze mit damit / umzu
+          - 原因从句 Kausalsätze mit weil / da
+          - 让步从句 Konzessivsätze mit obwohl
+          - 时间从句 Temporalsätze
+          - 从句 Nebensätze
+          - 关系从句 Relativsätze
+          - 带介词的关系从句 Relativsätze mit Präpositionen
+          - 方式从句 Instrumentalsätze mit indem / dadurch, dass
+          - 比例从句 Proportionalsätze mit je, desto / umso
+          - 连词 Konjunktionen
+        - 代词与副词
+          - 人称代词第一格 Personalpronomen im Nominativ
+          - 复数形式 Pluralformen
+          - 否定词 kein 与 nicht Negation mit kein und nicht
+          - 情态动词 Modalverben möchten, wollen
+          - 情态动词 Modalverben können, müssen, dürfen, sollen
+          - 形容词词尾的变化 Deklination der Adjektive
+          - 形容词比较级与最高级 Komparativ und Superlativ der Adjektive
+          - 形容词作名词 Adjektive als Substantive
+        - 介词
+          - 搭配固定介词的动词 Verben mit festen Präpositionen
+      - 德语语法
+        - 名词与冠词
+          - 名词 Nomen
+          - 冠词 Artikel
+          - 定冠词与不定冠词的第一和第四格
+          - 物主代词第一格 Possessivpronomen im Nominativ
+          - 物主代词与人称代词的第一和第四格
+          - 人称代词第三格 Personalpronomen im Dativ
+          - 第三格 Dativ (Ⅰ)
+          - 第三格 Dativ (Ⅱ)
+          - 阳性弱变化名词 n-Deklination
+          - 弱变化名词 n-Deklination (Zusammenfassung)
+        - 动词与时态
+          - 现在时 Präsens
+          - 现在时 Präsens (Ⅰ)
+          - 过去时 Präteritum
+          - 现在完成时 Perfekt
+        - 句子与介词
+          - 德语句子的语序 Satzbau
+          - 零冠词 Nullartikel
+          - 合成词 Komposita
+          - 名词词性的规律
+          - 时间介词 temporale Präpositionen
+          - 介词 Präpositionen mit nach, bei, seit, ab, außer
+          - 介词 Präpositionen aus, von, zu, gegenüber
+          - 不可分动词 untrennbare Verben
+          - 命令式 Imperativ (Sie)
+          - 命令式 Imperativ (du / ihr)
+          - 方位介词 Wechselpräpositionen
+          - 介词 Präpositionen gegen, um, durch, für, ohne, bis
+          - 时间介词总结 temporale Präpositionen (Zusammenfassung)
+          - 地点介词总结 lokaler Präpositionen (Zusammenfassung)
+      - 德语口语考试
+        - 考题内容及形式
+        - 评分标准
+        - 解题与语速
+        - 5 级题解题策略
+        - 4 级题解题策略
+        - 3 级题解题策略
+        - Modelltest 1
+        - Modelltest 2
+        - Modelltest 3
+        - Modelltest 4
+        - Modelltest 5
+        - Modelltest 6
+        - Modelltest 7
+        - Modelltest 8
+        - Modelltest 9
+        - Modelltest 10
+      - 德语日常交流
+        - 生活与工作
+          - Reisen
+          - Beruf und Job
+          - Sport und Fitness
+          - Gesundheit
+          - Einkaufen
+          - Stadtverwaltung
+          - Mode und Aussehen
+        - 人际关系与沟通
+          - Beziehungen
+          - Lernen und Schule
+          - Kommunikation
+          - Geld
+          - Kultur
+      - 德语教学与写作
+        - 课程定位与性质
+        - 教学目标和教学要求
+        - 课程设置
+        - 评价与测试
+        - 教学方法与手段
+        - 教学资源
+        - 教学管理
+        - 教师发展
+        - 语法表
+        - 词汇表
+        - Inhaltsangabe
+        - Textzusammenfassung
+        - Offizielles Schreiben
+        - Bewerbungsschreiben
+        - Lebenslauf
+        - Motivationsschreiben
+        - Bericht - Erlebnisbericht
+        - Bericht über das Studium
+        - Diagramm-/Schaubildbeschreibung I
+        - Diagramm-/Schaubildbeschreibung II
+        - Eroteration in einfacher Form
+        - Eroteration in Pro- und Kontra-Form
+        - Protokoll
+        - Praesentation
+    - 商务英语
+      - 商务交际
+        - 市场调研
+        - 营销与销售
+        - 产品介绍
+        - 广告
+        - 娱乐与购物
+        - 国际商务
+      - 市场营销
+      - 企业管理
+        - 组织结构
+        - 人力资源
+        - 领导力
+        - 团队管理
+        - 企业战略
+        - 企业道德
+      - 个人发展
+        - 职业生涯规划
+        - 商务技能
+        - 工作压力管理
+        - 职业素养
+      - 行业知识
+        - 金融
+        - 咨询
+        - 项目管理
+        - 在线商务
+      - 商务交流
+        - 会面与沟通
+        - 电话沟通
+        - 商务谈判
+        - 建立商务关系
+        - 跨文化交流
+      - 商务文档
+        - 合同
+        - 信用证
+        - 商务信函
+        - 商品说明书
+        - 广告翻译
+      - 贸易操作
+        - 单证操作
+        - 审证与改证
+        - 商业发票与装箱单
+        - 订舱与报检
+        - 报关与保险
+        - 附属单据与汇票
+        - 单据审核与归档
+      - 职业技能
+        - 求职面试
+        - 职业发展
+        - 售后服务
+        - 投诉与索赔
+      - 电子工业
+        - 基础知识
+          - Electricity Basics
+          - Tools
+          - Soldering Tools
+          - Testers and Meters
+        - 工作环境与安全
+          - Workspace
+          - Actions
+          - Work Settings
+          - Electrical Safety
+        - 数学与测量
+          - Math
+          - Measurements
+          - Prefixes
+        - 产品评估与维修
+          - Causes of Product Failure
+          - Initial Evaluation
+          - External Evaluation
+          - Disassembling Devices
+          - Replacing Components
+          - Choosing Components
+          - Interior Reassembly
+          - Exterior Reassembly
+        - 电子元件
+          - Capacitors
+          - Crystals and Resonators
+          - Diodes
+          - Fuses
+          - Chips (Integrated Circuits)
+          - Resistors
+          - Potentiometers
+          - Relays and Switches
+          - Transistors
+          - Voltage Regulators
+        - 电路与信号
+          - Circuits
+          - Signals
+          - Power Supply
+          - Input/Output
+          - Signal Processing
+          - Heat Sinks
+        - 设备拆卸与处理
+          - Separating the Snaps
+          - Removing Ribbon Cables
+          - Layers
+          - Disposal of Electronics
+      - 营销
+        - 销售基础
+          - Sales
+          - Types of Sales 1
+          - Types of Sales 2
+          - Sales Presentations
+        - 营销组合与策略
+          - Marketing
+          - The Marketing Mix 1
+          - The Marketing Mix 2
+          - Marketing Strategies
+          - Campaign Assessment
+        - 客户关系与行为
+          - Customer Relations Management
+          - Consumer Behavior
+        - 市场分析与研究
+          - Marketing Research 1
+          - Marketing Research 2
+        - 营销渠道与推广
+          - Internet Sales
+          - Advertising
+          - Endorsements and Sponsors
+        - 产品与品牌
+          - Product Descriptions
+          - Product Details 1
+          - Product Details 2
+          - Branding
+        - 销售技巧与伦理
+          - The Marketing and Sales Force
+          - Opening
+          - Following Up
+          - Negotiating
+          - Closing
+          - Commissions
+          - Sales Forecasts
+          - Networking
+          - Motivation Techniques
+          - Sales Territories
+          - Sales Ethics
+        - 市场与竞争
+          - Markets and Competition
+          - Market Segmentation
+        - 技术与国际营销
+          - Marketing and Technology
+          - International Marketing
+        - 成本与收益
+          - Distribution and Pricing
+          - Payment Options
+          - Costs and Profit
+      - 体育与运动
+        - 场地与装备
+          - 足球场地
+          - 篮球场地
+          - 橄榄球场地
+          - 高尔夫球场
+          - 曲棍球场地与比赛规则
+          - 板球场地
+          - 网球场
+          - 棒球场地
+          - 乒乓球
+          - 排球
+        - 运动员与规则
+          - 足球运动员
+          - 篮球运动员
+          - 橄榄球运动员
+          - 高尔夫装备
+          - 曲棍球运动员
+          - 板球运动员
+          - 棒球运动员
+          - 体育损伤
+        - 联赛与锦标赛
+          - 足球联赛与锦标赛
+          - 篮球联赛与锦标赛
+          - 高尔夫巡回赛与锦标赛
+          - 板球联赛与锦标赛
+          - 棒球联赛与锦标赛
+      - 商务英语
+        - 商务英语介绍
+        - 工作与休闲
+        - 问题解决
+        - 商务旅行
+        - 餐饮与招待
+        - 购买与销售
+        - 人际关系
+        - 广告营销
+        - 公司运营
+        - 商务沟通
+        - 文化差异
+        - 职业发展
+        - 英语发音
+        - 使用词典
+        - 发音与拼写
+        - 跟读练习
+        - the sounds of english
+        - using a dictionary
+        - sounds and spelling
+        - shadowing
+        - 商务沟通与市场营销
+          - 商务沟通
+          - 国际市场营销
+          - 建立关系
+          - 客户服务
+          - 危机管理
+          - 并购
+        - 企业管理与团队建设
+          - 成功
+          - 工作满意度
+          - 风险管理
+          - 管理风格
+          - 团队建设
+          - 筹资
+          - 控制运营
+          - 商业关系
+          - 挑战
+        - 财务与投资
+          - 资产负债表
+          - 损益表
+          - 销售预测
+          - 股票市场
+          - 股票市场变动
+          - 投资类型
+          - 投资风格
+          - 个人投资与退休
+          - 保险基础
+          - 保险索赔
+        - 考试与真题
+          - 商务英语专业四级考试介绍
+          - 真题分析
+          - 模拟题练习
+          - 参考答案与听力原文
+          - 商务英语专业八级考试介绍
+          - 模拟试题
+        - 行业英语
+          - 行业英语——财经（十四五）
+          - 办公耗材
+          - 办公家具
+          - 办公设备
+          - 财务文件
+          - 现金
+          - 数字
+          - 价值变动
+          - 使用资金
+          - 银行账户
+          - 银行服务与费用
+          - 贷款
+          - 企业类型
+          - 成本类型
+          - 股票经纪人
+          - 交易员
+          - 供应、需求与价格
+          - 创业
+          - 中央银行
+          - 国际组织
+          - 经济指标
+          - 经济稳定
+          - 经济理论
+      - 商务英语实践
+        - communication
+        - international marketing
+        - building relationships
+        - success
+        - job satisfaction
+        - risk
+        - management styles
+        - team building
+        - raising finance
+        - customer service
+        - crisis management
+        - mergers and acquisitions
+        - World Economic Organization
+        - Office Work
+        - Hotel Service
+        - Finance
+        - Education & Culture
+        - Marketing
+        - Job Interview
+        - International Trade
+        - Global Market
+        - Trade Practice
+        - Trade Procedure
+        - Business Contract
+        - Management in International Business
+        - The Role of Culture in Business
+        - International Strategic Alliances
+        - Cross-Cultural Communication
+        - 商务概述
+        - 企业形式
+        - 商业计划
+        - 企业关系
+        - 零售业务
+        - 银行业务
+        - 客户服务
+        - 商务礼仪
+        - 商务信函
+        - 公司简介
+        - 会议记录
+        - 商务电话
+        - 商务备忘录
+        - 投诉信
+        - 处理投诉
+        - 优质银行礼仪
+        - 商务英语介绍
+        - 工作与休闲
+        - 问题解决
+        - 商务旅行
+        - 餐饮与招待
+        - 购买与销售
+        - 人际关系
+        - 广告营销
+        - 公司运营
+        - 商务沟通
+        - 文化差异
+        - 职业发展
+        - 英语发音
+        - 使用词典
+        - 发音与拼写
+        - 跟读练习
+        - the sounds of english
+        - using a dictionary
+        - sounds and spelling
+        - shadowing
+      - 商务英语进阶
+        - 国际商务
+        - 商务扩展
+        - 商业关系
+        - 市场营销
+        - 进出口贸易
+        - 投资
+        - 展览与贸易博览会
+        - 客户关系管理
+        - brands
+        - travel
+        - change
+        - organisation
+        - money
+        - human resources
+        - international markets
+        - ethics
+        - leadership
+        - competition
+        - careers
+        - companies
+        - selling
+        - great ideas
+        - stress
+        - entertaining
+        - new business
+        - planning
+        - managing people
+        - conflict
+        - products
+        - 商务英语介绍
+        - 工作与休闲
+        - 问题解决
+        - 商务旅行
+        - 餐饮与招待
+        - 购买与销售
+        - 人际关系
+        - 广告营销
+        - 公司运营
+        - 商务沟通
+        - 文化差异
+        - 职业发展
+        - 英语发音
+        - 使用词典
+        - 发音与拼写
+        - 跟读练习
+        - the sounds of english
+        - using a dictionary
+        - sounds and spelling
+        - shadowing
+      - 商务沟通
+        - 日常商务交流
+          - Introducing
+          - Greeting
+          - Requests and Offers
+          - Advice and Suggestion
+          - Agreement and Disagreement
+          - Like and Dislike
+          - Invitation
+          - On the Way
+          - Seeing the Doctor
+          - Sports and Exercises
+          - Entertainment
+          - Birthday and Holiday
+        - 商务谈判与合作
+          - 企业创新
+          - 战略管理
+          - 国际市场营销
+          - 电子商务
+          - 国际特许经营
+          - 全球供应链管理
+          - 风险投资
+          - 国际服务外包
+          - 跨文化商务沟通
+          - B2B沟通
+          - 询价与回复
+          - 报价与还价
+          - 商品条款
+          - 定价与付款
+          - 签订合同
+          - 报关声明
+          - 投诉与索赔
+          - 代理
+          - 投标与招标
+          - 国际贸易商务礼仪
+          - 演示技巧
+          - 成功谈判技巧
+          - 跨文化谈判变量
+          - 跨文化谈判模型与风格
+          - 跨文化谈判策略与指导
+          - 国际营销沟通
+          - 国际营销文化方法
+          - 营销与广告中的文化影响
+          - 全球营销与广告
+          - 跨文化商务礼仪与协议
+          - 商务礼仪与协议的重要性
+          - 商务礼仪与协议文化差异
+        - 跨文化交际
+          - 跨文化商务交际
+          - 人际沟通基础
+          - 商务沟通
+          - 跨文化沟通
+          - 跨文化商务沟通学习
+          - 文化与价值观
+          - 文化价值观基础
+          - 文化模式理解
+          - 言语沟通理解
+          - 语言基础
+          - 词汇意义
+          - 跨文化言语行为与礼貌
+          - 跨文化话语模式
+          - 言语风格
+          - 非言语沟通感知
+          - 非言语沟通基础
+          - 文化对非言语沟通的影响
+          - 跨文化商务写作
+          - 商务写作文化考虑
+          - 商务信息组织文化考虑
+          - 商务信函格式与布局文化考虑
+          - 跨文化商务伦理
+          - 国际商务沟通中的法律与伦理
+          - 国际商务沟通中的主要法律与伦理问题
+          - 国际商务沟通中的道德竞争力
+          - 跨国公司跨文化问题
+          - 组织文化
+          - 国际人力资源管理
+          - 国际管理培训
+      - 商务知识与技能
+        - 市场营销与就业
+          - Weather
+          - Food and Meal
+          - Shopping
+          - 营销
+          - 就业趋势
+        - 贸易实务
+          - Trade Practice
+          - Trade Policy
+          - Global Market Place
+          - Trade Procedure
+          - Business Contract
+          - Foreign Exchange
+          - Management in International Business
+          - The Role of Culture in Business
+          - International Strategic Alliances
+        - 财务管理
+          - Finance
+        - 项目管理
+          - Project Management
+        - 企业战略
+          - Strategy
+        - 在线商务
+          - Online Business
+          - New Business
+    - 日语
+      - 文化与交际
+      - 语言学
+      - 日语学习
+      - 环境与社会问题
+        - 环境保护
+        - 资源循环
+        - 气候变化
+        - 社会问题
+      - 科技与生活
+      - 语言学与文字
+        - 对比语言学
+          - 起源与定义
+          - 可比性与研究步骤
+          - 汉日对比研究
+          - 文字系统
+            - 中日文字系统形成
+            - 汉字性质对比
+            - 字音字形字义对比
+            - 汉字用法对比
+          - 词汇系统
+            - 构成
+            - 汉日词汇对比
+            - 同形词对比
+          - 语法对比
+            - 综述
+            - 词类对比
+            - 语序对比
+            - 语态对比
+            - 时体对比
+            - 语气对比
+        - 日语语法
+          - 日本語について
+          - 発音
+          - 寒暄用语
+          - 人物介绍
+          - 私は桜蘭高校の生徒です
+          - ここは教室です
+          - 机の上に本があります
+          - 授業は9 時から11 時までです
+          - 山田さんは日本へ帰ります
+          - キムさんはカレーを食べます
+          - 私はキムさんにお土産をあげます
+          - 中国は広いです
+          - この町はにぎやかです
+          - キムさんは寂しいです
+          - キムさんは林さんより背が高いです
+          - 林さんは毎日2 時間運動します
+          - 名词数词
+          - 代词
+          - 形式名词
+          - 动词活用分类
+          - 助动词
+            - 主要格助词用法
+            - 格助词选择比较
+          - 时体态
+          - 形容词形容动词
+          - 副词
+          - 接续词
+            - 顺态接续表达
+            - 逆态接续表达
+            - 条件表达
+          - 连体词感叹词
+          - れる·られる/せる·させる
+          - ようだ·みたいだ
+          - 提示助词
+          - 并列助词
+          - 终助词
+          - 敬语
+            - 敬语概说
+            - 尊敬语
+            - 自谦语
+            - 郑重语美化语
+            - 使用实例误用
+          - 句子种类构成
+          - 语篇语体
+      - 日语应用
+        - 写作教程
+          - エッセイ
+            - 阅读方法
+            - 写作技巧
+            - 修改建议
+          - 意見文
+            - 阅读方法
+            - 写作技巧
+            - 修改建议
+          - レポート
+            - 阅读方法
+            - 写作技巧
+            - 修改建议
+          - 論文
+            - 写作准备
+            - 写作技巧
+            - 确认修改
+          - 自己评价
+          - 相关用语表现
+        - 听力教程
+          - 生活话题
+            - 人类与自然
+            - 生物学
+            - 机器人
+            - 全球化
+            - 经济一体化
+            - 社会制度
+        - 综合教程
+          - 人物描写
+          - 名作分析
+          - 外见内涵
+          - 风景信仰
+          - 中日风景对比
+          - 人际交往
+          - 自然关系
+          - 日本制造
+          - 企业国际化
+          - 生活方式
+          - 工作现实
+          - 理想工作
+        - 专业领域
+          - 档案管理
+            - 概念
+            - 相关职业
+            - 未来趋势
+            - 虚拟现实
+          - 机器人工学
+            - 现状
+            - 医院应用
+            - 社会应用
+            - 拥有心灵目的
+          - 国际贸易
+            - 贸易概念
+            - 合同
+            - 价格
+            - 进出口
+            - 支付
+            - 包装
+            - 保险
+            - 通关
+            - 装载
+            - 投诉代理
+            - 实用练习
+            - 贸易用语
+      - 社会与文化
+        - 教育与就业
+          - 奨学金制度
+          - インターンシップ
+          - 大学生の就職
+          - 成長の悩み
+          - 働き方·生き方
+        - 家庭与人际关系
+          - 出産と育児
+          - 家族観
+          - カルチャーショック
+          - 人間関係
+        - 文化与传统
+          - 「箏」？「琴」？
+          - 伝統美術と現代テクノロジー
+          - 日本語の面白い表現
+      - 科技与经济
+        - 科技发展
+          - AI チャットボット
+          - バーチャルアイドル
+          - AI技術
+          - 人工知能
+          - 情報化社会
+        - 经济与生活
+          - チャイナファッションと和服
+          - 経済様態·ライフスタイル
+          - SNS世相·ネット世代
+          - デジタルディバイド
+          - モバイル決済
+          - 萌え経済
+      - 语言与交流
+        - 语言表达
+          - 言葉の力
+          - 言葉の多様性
+          - 文学と読書
+          - 日常スケジュールの表現
+          - 道を尋ねる表現
+          - 旅行の計画と話す方法
+          - 夏休みの計画と話す方法
+          - 問題が発生した時の対応
+          - 様々な挨拶の方法
+          - 仕事の終わりに使う表現
+          - 日本語の能力と李さんの日本語力
+        - 交流与沟通
+          - 自然と人間
+          - ストレス問題
+          - 文章の書き方
+          - 言語の変化
+          - 環境問題
+          - 生命倫理
+          - 法律の力
+          - 電話番号を教えてください
+          - 鈴木さんは寝ています
+          - 林さんは毎晩6 時に学校を出ます
+    - 英语
+      - 历史文化
+        - 重要事件与人物
+        - 艺术与文学作品
+        - 社会现象与变迁
+      - 自然科学
+        - 生态环境
+        - 自然现象
+        - 地球与宇宙
+      - 生活与社会
+        - 家庭与职业
+        - 健康与生活方式
+        - 消费与娱乐
+      - 语言与沟通
+        - 语言学习与交流
+        - 沟通技巧与方法
+      - 文化与社会
+      - 科技与教育
+      - 历史与经济
+        - 简要历史
+        - 政府与政治制度
+        - 战争与和平
+      - 工作与生活
+        - 职业与幸福感
+        - 远程工作
+        - 工作伦理
+        - 工作生活平衡
+        - 职场文化与管理
+        - 工作安全与应急
+        - 学习技巧与目标
+        - 学校生活与教育
+      - 英语语言与文化
+      - 城市遥感技术与应用
+        - 遥感数据特征与分类
+        - 遥感图像处理与解译
+        - 三维重建与建模
+        - 遥感监测与应用
+        - 遥感技术发展与前景
+      - 商业与经济
+        - 家族企业与跨国公司
+        - 政府与商业
+        - 爱沙尼亚劳动力
+        - 商界女性
+        - 经商指南
+        - 使用哪种语言
+        - 书面沟通
+        - 沟通方式
+        - 面对面
+        - 身体语言
+        - 媒体
+        - 服务
+      - 科技与艺术
+        - 科学与艺术
+        - 计算机与互联网
+      - 历史与哲学
+      - 生活与健康
+      - 汉英对比研究
+        - 语言共性和个性
+        - 语法和语义关系
+        - 构式功能与表达创新
+        - 句法结构对比
+        - 动词概念与被动式
+        - 形容词语义与句法差异
+        - 比较构式异同
+        - 否定性词语语义特征
+        - 进行体与将来时认知动因
+        - 疑问、感叹及焦点关系
+        - 语法特征历史发展
+      - 中国英语能力等级量表研究
+        - 公平效度与偏差分析
+        - 听力能力量表研究
+      - 听力理解能力研究
+        - 听力能力标准与框架
+        - 听力理解策略与影响因素
+        - 基于运用的听力理解能力
+        - 听力能力量表研制与应用
+      - 文学作品
+        - 古典文学
+          - Beowulf
+          - The Canterbury Tales
+          - Hamlet
+          - Romeo and Juliet
+          - Paradise Lost
+          - Robinson Crusoe
+          - Gulliver’s Travels
+          - The Lamb
+          - The Tyger
+          - The Sick Rose
+          - A Red, Red Rose
+          - Auld Lang Syne
+          - I Wandered Lonely as a Cloud
+          - Kubla Khan
+          - She Walks in Beauty
+          - When a Man Hath No Freedom to Fight for at Home
+          - Ode to the West Wind
+          - Ode on a Grecian Urn
+          - Pride and Prejudice
+          - Frankenstein
+          - Jane Eyre
+          - Silas Marner
+          - Great Expectations
+          - My Last Duchess
+          - Dover Beach
+          - Tess of the D’Urbervilles
+          - The Importance of Being Earnest
+          - Pygmalion
+          - Heart of Darkness
+          - The Waste Land
+          - Araby
+          - Mrs. Dalloway
+          - The Rocking-Horse Winner
+          - Howards End
+          - A Woman on a Roof
+          - The French Lieutenant’s Woman
+          - Fern Hill
+          - The Trees
+          - Hawk Roosting
+          - Bogland
+          - Rose-Coloured Teacups
+          - The Child in Time
+          - A History of the World in 10½ Chapters
+          - The Buried Giant
+        - 现代文学
+          - Of Marriage and Single Life
+          - Of Studies
+          - Sonnet 18
+          - The Eagle
+          - Break, Break, Break
+          - A Man on the Moon
+      - 语言与文化
+        - 英语语言
+          - The Way We Speak
+          - 真实测试的综合练习
+          - 英语初级教程（学前教育专业适用）
+          - 英语进阶教程（学前教育专业适用）
+          - 新导向职业英语学生用书1
+          - 新导向职业英语学生用书3
+        - 英国文化
+          - British and American Cultures
+        - 美国文化
+        - 性别平等
+          - Gender Equality
+        - 教育
+          - Learning to Write Well
+        - 记忆
+          - Memories
+        - 自然与环境
+          - Nature
+          - Wild Animals
+          - Man and Nature
+      - 社会与生活话题
+        - Life and Sports
+        - Higher Education and Diploma
+        - Transportation
+        - Employment for College Graduates
+        - City Life and Country Life
+        - Ideal Job
+        - Making Friends
+        - Part-time Jobs
+        - Advertising
+        - Education
+        - Competition and Cooperation
+        - IQ: Nature or Nurture?
+        - Stress in City Life
+        - Environmental Pollution and Protection
+        - Energy Crisis
+        - Earthquake and Rescue
+        - Money and Happiness
+        - Unforgettable Experiences
+        - Green Economy
+        - Driving or Not?
+        - Computer Games
+        - Online Chatting
+        - Online Friends
+        - Modern Communication and Mobile Phones
+        - Online Learning
+        - Mental Health
+        - Punctuality
+        - Travel and Vacation
+        - Honesty
+        - Success and Failure
+        - Copyright Protection
+        - Counterfeit Products
+        - Dictionaries and Children's Education
+        - Job Hunting and Interviews
+        - Reading vs Watching TV
+        - City Life and Traffic
+        - Industrial Product Introduction
+      - 社会与生活
+        - 家庭与爱情
+          - Family Love
+        - 成长与教育
+          - Growing Up
+          - The Great Minds
+        - 生活与消费
+          - The Food We Eat
+          - Bargains
+        - 职业与工作
+          - A Good Teacher
+        - 传统与习俗
+          - Customs and Traditions
+        - 代际关系
+          - Generation Gap
+        - 沟通与交流
+          - Greeting Visitors
+          - Helping Visitors
+          - Office Schedules
+          - Phone Calls
+          - Qualities of a Good Employee
+          - Departments
+          - Answering the Phone
+          - Making Appointments
+          - Business Letters
+          - Graphs and Charts
+          - Writing Invitations
+          - Making Travel Arrangements
+          - Booking a Hotel Room
+          - Travel Preparations
+        - 变迁与适应
+          - A Changing World
+      - 口语交流与演讲辩论
+        - 日常交流话题
+          - Campus Life
+          - Hobbies and Interests
+          - Movies and TV Programs
+          - Music
+          - Computers and the Internet
+          - Sports and Health
+          - Weekends and Holidays
+          - Customs, Festivals and Celebrations
+          - Sightseeing
+          - Love and Friendship
+          - Fashion
+          - Family Life
+          - 问候礼仪
+          - 如何开始对话
+          - Telephone Calls
+          - Appointment
+          - Going to a Party
+          - Refusal
+          - Opinion
+          - 驾驶礼仪
+          - 如何应对路怒
+          - 与不同性格的人合作的方法
+          - 问候语
+          - 道歉与感谢
+          - 问路与指路
+          - 守时与及时
+          - 描述天气
+          - 鼓励与激励
+          - 举办派对
+        - 演讲与辩论技巧
+          - 了解图表和开始演讲
+          - 明确任务
+          - 区分主要和次要信息
+          - 列举和分类
+          - 比较和对比
+          - 连贯性和连接性
+          - 图片描述
+          - 改变话题
+      - 语音与语言学
+        - 英语语音知识
+          - 英语单词音节
+          - 英语单词重音
+          - 语音与听力
+          - 英语听力中的语音辨析
+          - 英语语音与大学英语四级听力考试
+          - 英语语音教学歌曲
+          - 英国英语和美国英语主要发音差异
+        - 语言学研究主题
+          - 语言文化研究
+          - 名家访谈
+          - 中国符号学研究
+          - 海外汉学
+          - 社会语言学现实主义方向
+          - 城中村傣族语言生活
+          - 法律语言研究
+          - I Bičurin的Sanzijing版本
+          - 符号范畴与偶然性
+          - 翻译研究历史转向
+          - 文学与文化研究
+          - 境界创造性与学术创新
+          - 雅斯贝尔斯论道
+          - 庞德传译中国
+          - 澳大利亚原住民与蒙古族对比研究
+          - 术语
+          - 书讯
+      - 翻译能力研究
+      - 翻译教学与评估
+        - 新时期国家翻译能力培养规划
+        - 翻译测试改革
+        - 翻译教学发展
+        - 翻译学习成果的互认
+        - 学习者个性化和多样化的学习需求
+        - 《中国英语能力等级量表》框架下的笔译能力量表
+        - 外语教学视角下的翻译与翻译能力
+        - 翻译能力培养与评估
+        - 国内翻译教学现状
+        - 笔译能力量表的应用
+        - 关于量表应用的调查
+        - 关于量表应用可行性的教师问卷
+        - 问卷与访谈的结果
+        - 笔译能力量表的广泛应用
+        - 笔译能力量表的全方位应用
+        - 笔译能力量表在翻译能力测评中的应用
+        - 笔译能力量表在翻译教学与学习中的应用
+        - 笔译能力量表在BTI及MTI教学与测试中的应用
+        - 笔译能力量表的研究和应用展望
+      - 翻译任务难度与策略
+        - 影响笔译任务难度的因素
+        - 翻译（笔译）难度相关概念及理论框架
+        - 翻译（笔译）任务难度的影响因素
+        - 基于运用的笔译能力构念
+      - 翻译量表研制与效度验证
+        - 制定笔译能力量表的方法论
+        - 关于“描述”“描述语”和“量表”
+        - “描述”的本体论问题
+        - 描述的认识论问题
+        - 描述的方法论问题
+        - 笔译能力量表的研制过程
+        - 描述语的采集
+        - 笔译能力的直接描述与间接描述
+        - 文献法
+        - 采样法
+        - 编写与撰写法
+        - 描述语库的建立
+        - 描述语的修订
+        - 描述语的语义结构规范
+        - 描述语的质量规范
+        - 描述语的量表化
+        - 第一次大规模效度验证
+        - 第二次大规模效度验证
+      - 英语写作能力研究
+        - 写作能力量表研究
+          - 背景与概念
+            - 写作能力量表研究的背景
+            - 写作能力的定义和基本概念
+            - CSE写作能力的操作性定义
+          - 量表构建与验证
+            - 口语评分量表
+            - 口语能力量表的构念和描述框架
+            - 构念定义和描述框架
+            - 口头表达能力
+            - 口头表达策略
+            - 口语语言特征
+            - 口语能力描述语库的建立
+            - 口语能力描述语
+            - 口语能力描述语的收集
+            - 口语能力描述语的整理
+            - 口语能力描述语的修订和审定
+            - 口语能力描述语分级验证
+            - 第一次分级验证（定量分析）
+            - 第二次分级验证（定性分析）
+            - 口语能力总表
+            - 口语能力分量表
+            - 口头表达能力分量表
+            - 口头表达策略分量表
+            - 口语能力自我评价量表
+            - 口语能力量表的应用
+            - 教学中的应用
+            - 学习中的应用
+            - 测评中的应用
+            - 应用案例分析
+            - 研究目的
+            - 研究方法
+            - 结果分析
+            - 研究小结
+            - 量表应用所面临的挑战
+      - 口译能力研究
+        - 口译量表研究
+          - 生成原则
+          - 各级别差异与衔接
+          - 翻译各分量表与解读
+          - 口译策略量表与解读
+          - 口译能力自我评价量表与解读
+        - 口译策略与能力
+          - 口译认知能力
+          - 口译策略能力
+          - 口译知识能力
+          - 口译质量评估
+          - 口译测试现状
+      - 英语口语能力研究
+        - 口语能力量表研究
+          - 现状与目标
+            - 中国英语口语教学和测试的现状
+            - 基础教育
+            - 高中教育
+            - 大学英语
+            - 口语能力量表概况
+            - 建设目标
+            - 建设原则
+            - 主要贡献
+          - 能力定义与框架
+            - 口语能力定义和基本概念
+            - 认知视角下的口语能力定义
+            - 交际视角下的口语能力定义
+            - 评述与启示
+            - 国内外口语能力描述性框架
+            - 国外主要的口语能力量表
+            - 国内的英语教学指导文件
+      - 语法与结构
+        - 词法
+        - 句法
+        - 时态与语态
+        - 语气与否定
+        - 特殊结构
+      - 语用学与交际
+        - 语用学界面研究
+        - 语用学与语义界面
+        - 交际效果与策略
+        - 话语标记与言据策略
+        - 身份认知与建构
+        - 语用迁移与翻译
+      - 阅读理解与写作
+      - 教学与教育
+      - 材料力学性能
+        - 基本概念与公式
+        - 应力与应变分析
+        - 屈服准则
+        - 塑性应力-应变关系
+        - 材料特性试验
+      - 塑性变形与强化
+        - 成形工序分析
+        - 应力-应变顺序对应规律
+        - 典型成形工序的定位
+        - 应力-应变分布解析
+        - 数值模拟
+      - 语言学理论
+        - 系统功能语言学
+          - 系统功能语言学发展状况
+          - Halliday系统功能语言学40年发展述评
+          - 中国的系统功能语言学研究：发展与展望
+          - 中国系统功能语言学研究40年
+          - 系统功能语言学理论
+          - 系统功能语言学的发展阶段与特点
+          - 作为普通语言学的系统功能语言学
+          - 语篇分析与系统功能语言学理论的建构
+          - 系统功能语言学研究中的整合
+          - 功能句法分析
+          - 系统功能句法分析的目的和原则
+          - 功能句法分析中的分级成分分析
+          - 英语“John is easy/eager to please.”的系统功能语法分析
+          - 英语动词词组复合体的功能语法分析
+          - 英语比较结构的功能句法分析
+          - 介词结构研究
+          - 英语介词短语的系统功能语法分析
+          - 两类英语介词短语的功能语法分析
+          - 英语“介词+ -ing”结构的功能语法分析
+        - 构式语法
+          - 构式语法论要
+          - 语言象似性概说
+      - 语言现象与对比研究
+        - 英汉对比
+          - 名词短语可及性与关系化——一项类型学视野下的英汉对比研究
+          - 英汉属格语的句法可及性
+          - 英汉指称词语表达的可及性
+          - 话题引入与语篇回指——一项基于民间故事语料的英汉对比研究
+          - 英汉下指的篇章功能和语用分析——兼谈汉语第三人称代词照应的单向性问题
+          - 名词短语可及性与篇章回指—以汉语主语属格语为例
+        - 语言现象
+          - 语言使用建构语言知识
+          - 运动事件的词汇化模式——英汉比较研究
+          - 英汉语表达“实现”意义的词汇化模式
+          - 表状态变化句子的共核：变化复合体
+          - 限制性“X的”结构及其指代功能的实现
+          - 汉语没有“中动结构”
+          - 论汉语带“宾语”自致使动结式
+          - 论“字”对汉语词汇和语法的影响
+          - “字”的离散性剖析
+          - “字”作为基本结构单位的语义和语法属性
+          - “字”的即用和“字”义的衍生——汉语语义编码以少胜多的奥秘
+          - 英语X-able词的形态与语义特点
+          - 受限语言与局部语法理论
+          - 汉语晒太阳现象融合理论
+          - 英语轻动词构式与同源宾语构式对比
+          - 英语否定前缀in特殊变体
+          - 精神科医生身份建构合法化语码
+          - 学生个体内部多声性与视角转变
+          - 话语实践中意义磋商与互动
+          - 篇际互文性与公司简介批评性体裁分析
+      - 语言应用与教学
+        - 篇章与语用
+          - 言语交际的元语用探索
+          - 身份元话语
+          - 段落连贯元语用能力
+          - 广播节目主持人自我角色凸显
+          - 发话人元话语的形象管理功能
+          - 网店店主自我身份建构
+          - 刻意隐喻的本质与批评
+          - 心理空间体与祈使句标记
+          - 英国英语道歉回应行为
+          - 语言象征性与阿拉伯语世界的语言冲突
+          - 国内语言景观研究
+          - 中英民事裁决文书元话语的对比研究
+          - 教育评价语言的合作民族志
+          - 心智研究的模块论
+          - 概念转喻
+          - 实验语用学
+          - 北京大学外国语学院语言学沙龙活动
+        - 语言能力与评价
+          - 组构知识与组构知识运用能力
+          - 语音系统和书写形式知识
+          - 词汇知识
+          - 句法知识
+          - 篇章知识
+          - 组构知识学习策略
+          - 组构能力总表与两个分总表
+          - 建构描述语库
+          - 描述语分级与验证
+          - 教材分析
+          - 语音系统和书写形式知识运用能力描述语
+          - 词汇知识运用能力描述语
+          - 句法知识运用能力描述语
+          - 篇章知识运用能力描述语
+          - 组构知识学习策略描述语
+          - 组构知识运用效果描述语
+          - 组构知识运用能力自我评价量表
+          - 组构知识运用能力量表应用建议
+      - 英语语言学习
+        - 听力与口语
+        - 阅读与写作
+        - 英语基础知识
+        - 语法与词汇
+        - 英式与美式英语差异
+        - 口语与听力
+        - 词汇与短语
+        - 语音练习
+        - 应用语言学
+        - 交际能力
+        - 文化与跨文化交流
+        - 心理语言学与多语言处理
+        - 语料库语言学与应用语言学
+        - 会话分析与应用语言学
+        - 话语分析与语言教学
+        - 语言课程大纲设计
+        - 语言教师与教师发展
+        - 学习者因素与个体差异
+        - 基础英语
+          - Health
+          - Pre-school Education
+        - 旅游英语
+          - 联合国世界旅游组织及其旅游关键利益
+          - 联合国世界旅游组织主要机构与会员
+          - 全球旅游道德准则
+          - 旅游质量标准：概念框架
+          - 中国美食：地方美食与特色美食
+          - 旅游者服务：酒店服务与投诉回复
+          - 关于中国：中国节日与少数民族文化艺术
+          - 文化遗产景点：曲阜与布达拉宫
+          - 旅游交通方式
+        - 实用英语
+          - Unit 1
+          - Unit 2
+          - Unit 3
+          - Unit 4
+          - Unit 5
+          - Unit 6
+          - Unit 7
+          - Unit 8
+          - Unit 9
+          - Unit 10
+          - Unit 11
+          - Unit 12
+          - Unit 13
+          - Unit 14
+          - Language Review
+          - Glossary
+      - 日常交流与社交
+        - 问候语
+        - 个人介绍
+        - 询问与回答
+        - 请求与帮助
+      - 个人兴趣与生活
+        - 爱好
+        - 饮食
+        - 健康与锻炼
+        - 节日与庆祝活动
+      - 旅游与交通
+        - 旅行准备与出行
+        - 交通工具与安全
+      - 消费与信用
+        - Shopping
+        - Food
+        - Travel
+        - Credibility & Integrity
+      - 应急处理与客户服务
+        - Dealing with Miscellaneous Matters
+        - Dealing with Emergencies
+        - Handling Complaints
+        - Seeing off Guests and Farewell Speeches
+      - 英语文学作品
+        - 德伯家的苔丝
+          - 故事阶段
+          - 主要角色
+          - 主题与情节
+        - 巴斯克维尔的猎犬
+          - 侦探小说特点
+          - 夏洛克·福尔摩斯
+          - 巴斯克维尔家族
+          - 故事情节
+          - 华生医生
+      - 英语国家社会与文化
+        - 著名大学
+        - 职业与事业
+        - 广告
+        - 中国文化
+        - 成功之路
+        - 体育与健康
+        - 家庭关系
+        - 计算机与安全
+        - 英国
+          - 政治、经济与社会
+          - 文化、教育与外交
+          - 媒体、体育与节日
+        - 爱尔兰
+          - 土地、历史与政治
+          - 经济、文化与日常生活
+        - 澳大利亚
+          - 土地、人民与文化
+          - 工作、家庭与社会
+          - 国际关系与多元文化
+        - 美国
+          - 政治体系与经济
+          - 文学、教育与社交问题
+          - 妇女解放运动与外交政策
+          - 文化特点与环境问题
+        - 加拿大
+          - 国家与政治
+          - 多元文化与经济
+          - 文学与国际关系
+        - 新西兰
+          - 土地、历史与政治体系
+          - 教育、经济与国际关系
+      - 地理与历史
+      - 政治与经济
+        - 政府与政治
+        - 经济
+        - 爱沙尼亚在欧洲
+        - 爱沙尼亚在世界
+      - 生活与文化
+        - 家庭与生活
+        - 城市与旅游
+        - 节日与庆祝
+        - 餐饮与时尚
+        - 自然与环境
+        - 语言与身份
+        - 反权威主义
+        - 双极性
+        - 美好生活
+        - 挖苦的天赋
+        - 宽容
+        - 路德教遗产
+        - 多元文化爱沙尼亚
+        - 男女关系
+        - 对外国人的态度
+        - 幽默：黑色幽默
+        - 是否有国家认同
+      - 生活与教育
+        - 公共假期
+        - 节日日历
+        - 婚礼与其他成人礼
+        - 如何不做外籍人士
+        - 作为外国学生
+        - 俱乐部、课程与社区
+        - 闲逛
+        - 家庭生活
+        - 教育
+      - 日常与交通
+        - 日常生活
+        - 乡村生活
+        - 体育
+        - 艺术
+        - 食物与饮料
+        - 购物
+        - 火车
+        - 公交、电车和无轨电车
+        - 出租车
+        - 船只
+        - 驾驶
+        - 骑行
+        - 步行
+        - 住宿
+        - 健康
+        - 安全与保障
+      - 地理与气候
+        - 地理位置
+        - 气候特点
+      - 交际与沟通
+        - 表达可能性与不可能性
+        - 表达兴趣与厌倦
+        - 表达坚持与敦促
+        - 表达安慰与说服
+        - 表达条件与让步
+        - 表达义务与必要性
+        - 表达好奇与无知
+        - 表达犹豫与自信
+        - 表达希望与渴望
+        - 表达容忍与批评
+        - 纠正与解释
+        - 澄清与重复
+        - 谚语与成语
+        - 网络与媒体
+          - Email and Network
+          - 了解中国消费者
+          - 中国移动广告的更高接受度
+          - 信息时代的虚构故事
+          - 数字时代的手机
+        - 广告与营销
+          - Advertising
+          - 购物技巧
+          - 政治家
+          - 网上购物优势
+      - 口语与交流
+        - 交流技巧
+          - 问候礼仪
+          - 如何开始对话
+          - Telephone Calls
+          - Appointment
+          - Going to a Party
+          - Refusal
+          - Opinion
+          - 驾驶礼仪
+          - 如何应对路怒
+          - 与不同性格的人合作的方法
+          - 问候语
+          - 道歉与感谢
+          - 问路与指路
+          - 守时与及时
+          - 描述天气
+          - 鼓励与激励
+          - 举办派对
+        - 面试与交流
+          - 介绍、问候和邀请
+          - 确定角色和开始对话
+          - 解释和定义
+          - 举例说明；分类
+          - 提出投诉、表达道歉和同情
+          - 表达赞美、祝贺和鼓励
+          - 表达同意和不同意；谈判
+          - 提出和回答问题；改变话题
+          - 通过比较和对比进行分析
+      - 文化与娱乐
+        - 电影与戏剧
+          - 美国电影
+          - 戏剧大师曹禺
+          - 民间艺术盛宴
+        - 旅游与度假
+          - Traveling
+          - Planning the Summer Vacation
+          - 旅舍住宿的10个建议
+          - 民宿酒店
+          - 旅游
+          - 伦敦娱乐
+          - 浪漫海滩
+        - 体育与活动
+          - Sports Meet
+          - 巧克力的魅力
+          - 实现塑形目标
+          - 道路安全小贴士
+      - 生活与消费
+        - 饮食与健康
+          - Describing Objects
+          - Price
+          - Talking about TV Programs
+          - Hotel Reservation
+          - Meal Reservation
+          - Meal at Table
+          - 健康饮食策略
+          - 遏制暴饮暴食
+          - 塑造更好的身体形象
+          - 实现塑形目标
+          - 与食物的健康关系
+          - 水果和蔬菜与长寿的关联
+          - 吃什么与不吃什么：这是个问题
+        - 购物与消费
+          - 不同购物方式
+          - 网络购物风险
+          - 指纹购物
+          - 购物与娱乐
+          - 自动售货机
+          - 一年没有'中国制造'
+          - 购买销售商品
+      - 学习与成长
+        - 学习方法
+          - How to Learn English Well
+          - 学会学习
+          - 活到老，学到老
+          - 付出更少，收获更多
+          - 进入象牙塔
+          - 成功秘诀：牺牲睡眠？
+          - 有效管理时间、精力和注意力
+        - 个人发展
+          - Fellowship
+          - 个人形象与卫生
+          - 为什么外表如此重要
+          - 做出自己的生命选择：态度决定一切
+          - 做出最佳生活选择
+          - 成功，忘掉自尊
+          - 科菲·安南
+          - 美国总统趣事
+          - 梦想
+          - 浪漫男性
+          - 从童年玩具学习性别角色
+          - 梦想创造
+          - 不可能的梦想
+          - 消失的奇迹
+      - 社会与伦理
+        - 社会问题
+          - Global Warming
+          - A Warning of Danger
+          - The Chinese Greenhouse
+          - The Road to Prosperity
+          - Signboard Culture
+          - Signs and Commercials
+          - Organ Donation
+          - The Gift of Life
+          - Drunk-driving
+          - Who Is in Danger?
+          - Cheating Is the Worst Policy
+          - Job Hunting
+        - 职业与就业
+          - Employment
+          - Career Readiness
+          - 志愿服务
+          - 现代女性
+      - 职业与教育
+      - 日常生活
+        - 自我介绍与家庭
+        - 休闲活动与节日庆典
+        - 城市生活与文化
+        - 健康与生活方式
+      - 学习与工作
+        - 学校与教育
+        - 职业与工作
+        - 英语能力提升
+        - 职场文化与管理
+        - 工作安全与应急
+        - 学习技巧与目标
+        - 学校生活与教育
+      - 市场营销与经济
+        - 产品销售与推广
+        - 广告与市场分析
+        - 合同签订与合作
+      - 艺术与娱乐
+        - 文化
+        - 文学
+        - 艺术
+        - 娱乐
+        - 价值观
+      - 自然与环境
+        - 环境保护与生态
+        - 气候变化与适应
+      - 英语应用能力考试
+        - 模拟试题与专项训练
+          - 真题详解与全解
+          - 综合练习卷与强化训练
+        - 题型介绍与解题技巧
+      - 实用英语教程
+        - 综合教程3
+          - 学习单元
+          - 测验
+      - 职业英语
+        - 教师用书3
+          - 职业素养
+          - 团队协作
+          - 跨文化工作
+      - 拓展英语教程
+      - 环境保护与资源利用
+        - 水资源保护
+        - 绿色食品
+        - 白色污染
+        - 全球变暖的影响
+        - 野生动物保护
+        - 圣诞节鸟类统计
+        - 海豚圈养
+        - 飓风与龙卷风
+        - 地震
+      - 英语交流与社交
+        - 基础会话
+        - 职业交流
+        - 社交礼仪
+        - 商务交流
+          - 适应新环境
+          - 规划职业生涯
+          - 介绍公司
+          - 邀请和接待访客
+          - 管理日常办公
+          - 组织会议
+          - 商务旅行
+          - 发展人际关系技巧
+          - 面对面交流
+          - 购物经历
+          - 留学经历：兰卡斯特大学
+          - 持续学习
+          - 跨文化培训
+          - 采访：LCD设计公司总裁Michelle Nguyen
+          - 迈克尔·戴尔及其企业
+          - 全球思维，本土行动
+          - WTO成员国：双赢局面
+        - 电话与网络交流
+          - Phoning
+          - Making a Schedule
+          - Making Reservations
+          - Checking in at a Hotel
+          - At the Hospital
+          - Entertaining Activities
+          - Sightseeing and Traveling
+          - Asking for Directions
+          - At the Bank
+      - 英语听力与口语
+        - 基本礼仪
+          - Greeting and Farewell
+          - Thanks, Congratulations and Apologies
+          - Self-introduction
+          - Introducing People
+          - Meeting and Seeing Off People
+        - 生活场景
+          - 购物
+          - 便利性的重要性
+          - 旅行
+          - 健康
+          - 电子生活
+          - 时尚
+          - 环境保护
+          - 节日
+        - 旅行与住宿
+          - Checking in at a Hotel
+          - Entertaining Guests
+          - Shopping
+          - Sightseeing and Traveling
+      - 英语市场营销与品牌
+        - 市场营销
+          - 市场营销：打造畅销书的关键
+          - 全球商业行为是否一致？
+          - 品牌与广告
+          - 品牌名称
+          - 品牌中国
+          - 分担损失
+          - 保险
+          - 不要在保险覆盖上出错
+        - 公司与职业
+          - 公司简介
+          - 繁忙的议程与日程安排
+          - 热爱自然，创造绿色文化
+      - 英语文化与生活
+        - 文化
+          - 文学
+          - 音乐
+          - 神话
+          - 文化
+      - 文学作品与艺术
+        - 小说与戏剧
+        - 跨文化交流
+        - 音乐与艺术
+      - 办公与管理
+        - 办公设备与用品
+        - 员工素质与职责
+        - 办公室日常事务
+        - 商务沟通与文档
+      - 医疗与护理
+      - 铁路系统
+        - 铁路交通工具
+        - 铁路基础设施
+        - 铁路操作与维护
+        - 铁路信号与通信
+        - 铁路运输与票务
+        - 铁路安全与事故处理
+      - 机械与汽车
+      - 中国法律史
+        - 古代法律
+          - 夏商西周法律
+          - 春秋战国法律
+          - 秦汉法律
+          - 魏晋南北朝法律
+        - 中华法系
+          - 形成与特征
+        - 唐宋法律
+        - 元明清法律
+        - 近代法律变革
+          - 清末立法与立宪
+          - 民国立法与宪法
+          - 人民民主革命政权法律
+      - 生活与科技
+        - 节日与传统
+        - 灾难与应急
+        - 书籍与杂志
+        - 发明与科技
+        - 争议性问题
+      - 个人发展
+        - 自我认知
+        - 领导力培养
+        - 诚信推广
+        - 职业规划
+        - 研究生学习
+      - 物流管理
+        - 物流基础知识
+        - 物流操作与流程
+        - 物流安全与可持续性
+        - 物流信息系统
+      - 人力资源与就业
+        - 招聘与求职
+        - 员工培训与发展
+        - 薪酬与福利
+      - 财务管理
+        - 会计与审计
+        - 银行业务
+        - 资金管理
+      - 口语交际
+      - 建筑知识
+        - 建筑结构与类型
+        - 建筑组成部分
+        - 建筑形状与景观
+        - 建筑材料与描述
+        - 建筑教育与建筑师素质
+        - 建筑绘图与设计工具
+        - 建筑历史与风格
+        - 建筑可持续性
+      - 数学与测量
+        - 基础数学
+        - 测量与单位
+      - 设计与施工过程
+        - 设计概念与因素
+        - 建筑施工过程
+        - 建筑细节发展
+        - 预制建筑
+        - 成品建筑
+      - 建筑表现与展示
+        - 建筑模型
+        - 建筑图纸
+        - 建筑蓝图
+        - 建筑表现技巧
+      - 文学理论
+        - 短篇小说
+          - The Nature of Short Story
+          - Literary and Non-literary Writings, the Difference
+          - Character and Characterization
+          - The Setting and the Theme
+          - Story and Plot
+          - Irony
+          - Symbol
+          - Romantic Fiction
+          - Realistic Fiction
+          - Naturalistic Fiction
+          - Modernism
+          - Postmodernism
+      - 语音语调
+        - 音素与发音
+          - 单词重音
+          - 句子重音
+          - 语调
+          - 意义群和语言流
+          - 失去爆破和不完全爆破
+          - 连读
+          - 同化
+          - 美国口音和英国口音的差异
+          - 节奏
+        - 重音与节奏
+          - 句子重音的基本知识
+          - 英语爆破音的特别除阻方式
+          - 音节突出的四种表现
+          - 鼻腔除阻
+          - 简单词的重音模式
+          - 复合词的重音
+          - 辅音群
+          - 音节结构
+          - 舌侧除阻
+          - 首位辅音群
+          - 微声除阻
+          - 末位辅音群
+          - 各种词类在语句篇章中的重读规则
+        - 语调
+          - 语调对节奏的影响
+          - 用升调回答的Yes和No的升调
+          - 语气严肃或严厉的一般疑问句的降调
+          - 四种功能简介
+          - 表示不耐烦、抱怨、咕哝的升调
+          - 英语语调的形式
+          - 语调单位的结构分析
+          - 抒情表态功能
+          - 节奏对音长和重音的影响
+          - 高降调和低降调的区别对比
+          - 陈述疑问句的升调
+          - 部分符合的降升调
+          - 否定的降升调
+          - 凸显功能
+          - 什么是语调
+          - 表示安抚、鼓励、关心等的升调
+          - 意在言外的降升调
+          - 英语节奏的特点
+          - 交际功能
+          - 升调陈述语的升调
+          - 招呼语的语调模式
+          - 语调核心
+          - 降调、升调和降升调的区别对比
+          - 升调
+          - 降升调
+          - 一般疑问句的降调
+          - 位于句尾的人名的读法
+          - 降调和降升调的区别对比
+          - 道歉语的语调模式
+          - 疑问句的语调模式
+          - 告别语的语调模式
+          - 对比的降升调
+          - 补充语的升调
+          - 调冠
+          - 感叹句的语调模式
+          - 表示随便、敷衍、漫不经心的升调
+          - 热情、友好、礼貌、恭敬的询问和请求的升调
+          - 有所保留的降升调
+          - 重读音节中的元音及其后续非重读音节
+          - 各种语调模式功能的区别对比
+          - 祈使句的语调模式
+          - 降调
+          - 降调和升调的区别对比
+          - 语法功能
+          - 调首
+          - 陈述句的语调模式
+          - 婉转、含蓄、拐弯抹角的降升调
+          - 重读音节中的元音及其后续辅音
+          - 学习英语语调的重要性
+          - 功能词弱读式的语音特色
+          - 各种句子的语调模式
+          - 调尾
+          - 语调单位
+          - 礼貌的纠正的降升调
+          - 功能词的强读式
+          - 核心调型
+      - 口语实践
+        - 中国文化
+          - The Ancient City of Ping Yao
+          - China’s World Cultural Heritage
+          - Chinese Festivals and Social Customs
+          - Made in China
+          - A Visit to the China Import and Export Fair
+          - Chinese Fashion
+          - An Undying Shaft of Light Shining Through Time
+          - Ancient Chinese Architecture
+          - Classical Gardens
+        - 生活话题
+          - Dating Out
+          - Playing with Fire
+          - Drugs
+          - Integral Part of Chinese Culture
+          - Ever Changing Fashion
+          - A Good Movie or TV Show
+      - 语言学与翻译研究
+        - 语言学理论
+          - 受限语言与局部语法理论
+          - 汉语晒太阳现象融合理论
+          - 英语轻动词构式与同源宾语构式对比
+          - 英语否定前缀in特殊变体
+          - 精神科医生身份建构合法化语码
+          - 学生个体内部多声性与视角转变
+          - 话语实践中意义磋商与互动
+          - 篇际互文性与公司简介批评性体裁分析
+        - 翻译理论与实践
+          - 汉译英教学
+          - 翻译中的形式对等
+          - 文学文体学在翻译学科建设中的重要性
+          - 字本位理论
+          - 文章学翻译学
+          - 中西语言学接轨
+          - 中国译论与中国话语
+          - 翻译学研究
+          - 跨文化交际与社会符号学翻译法
+          - 符号学与文学翻译研究
+          - 奈达现象与中国翻译研究
+          - 方梦之应用翻译主体研究
+        - 语言与文字
+          - 哲学语言学
+          - 语言转向
+          - 汉字是汉语之魂
+          - 语言与文字关系的再思考
+          - 字本位理论的哲学思考
+          - 字与语素及其他
+          - 文章学
+          - 从文章正轨看中西译论的不同传统
+          - 译文三合：义、体、气
+      - 文学与文化研究
+        - 文学理论与批评
+          - 西方文论关键词：极简主义
+          - 现代主义与激进主义的对峙与姻联
+          - 20世纪二三十年代美国文学断代史研究
+          - 符号学课与叙述学课的互补性
+          - 小说艺术形式的两个不同层面
+        - 文学作品与主题
+          - 《了不起的盖茨比》
+          - 《五号屠场》
+          - 《红楼梦》
+          - 《海狼》
+          - 《诺斯托罗莫》
+          - 《马丁·伊登》
+          - 迷惘的一代作家
+        - 跨文化与社会问题
+          - 社会阶层与语言变异研究
+          - Pierre Bourdieu：资本理论
+          - Bonny Norton：二语投资理论
+          - Jan Blommaert：全球化语境下的语言移 动
+          - 初中生英语学习动机框架
+          - 家长投资观念
+          - 成绩动机
+          - 出国动机
+          - 个人发展动机
+          - 面子动机
+          - 内在兴趣动机
+          - 情境型动机
+          - 社会责任动机
+          - 信息媒介动机
+      - 英语教育与实践
+        - 教学方法与策略
+          - 大学创新英语
+          - 跨境电子商务
+          - 航空航天
+          - 一带一路倡议
+          - 智能制造
+          - 工艺
+          - 中国形象
+          - 合作项目
+          - Dream
+          - Friendship
+          - Interests & Hobbies
+          - Emotions
+          - Shopping
+          - Food
+          - Travel
+          - Credibility & Integrity
+      - 文化交流与社交
+        - 节日与习俗
+          - Christmas
+          - April Fool
+          - Different Cultures and Different Customs
+        - 旅行与交通
+          - Travel Manners
+          - Tourist Information
+          - Traveling in China (I)
+          - Traveling in China (II)
+        - 商务与职场
+          - Gender Bias in Majors
+          - The Stockbroker
+          - Stock
+          - The Power of Persuasion
+          - Advertising: The Selling of a Product
+          - The Professional Footballer
+          - Business Lunch and Culture
+          - personal selling
+          - job hunting
+          - overseas students
+          - a manager is wanted
+          - we need retraining
+          - conference
+          - making an apology
+          - welcoming
+          - saying goodbye
+          - first-name custom
+          - effective cross-cultural communication
+      - 教育与职业发展
+        - 教育经历与留学
+          - The Education I Received
+          - Your Résumé
+          - I Want to Further My Study Abroad
+        - 职业技能与培训
+          - Open Education
+          - Agog over Google
+          - Overload: More Time Is Less Time
+      - 信息技术与传媒
+        - 网络与通讯
+          - email and the internet
+          - Online Smiley Face
+        - 科技与创新
+          - If Microsoft Built Cars
+      - 金融与消费
+        - 银行与货币
+          - Banking Services
+          - US Monetary System
+      - 英语教材
+        - 教师参考书
+          - Unit 1-16
+          - Revision
+          - Task
+          - Culture Pages
+          - Grammar Reference
+          - British and American English
+          - Irregular Verbs
+          - New Words and Expressions
+          - Writing Reference
+        - 学生拓展教程
+          - 高级
+            - 世界各地文化差异
+            - 回顾历史事件
+            - 科学发现与创新
+            - 快速了解新技术
+            - 个人兴趣与爱好
+            - 面对指控与责任
+            - 自然环境保护
+            - 娱乐与休闲活动
+            - 美食与餐饮文化
+            - 宠物护理与动物保护
+            - 医学知识与健康
+            - 家乡与情感归属
+            - 艺术作品欣赏与创作
+            - 心理学与生活
+            - 购物与消费行为
+          - 中级
+            - Unit 1-15
+            - Self-assessment
+            - Workbook Key
+        - 初级教程
+          - Window on the world
+          - How strange!
+          - Food for thought
+          - Time on your hands
+          - Get the message
+          - Urban life
+          - Bon voyage!
+          - Down to earth
+          - Cash in hand
+          - Oldies but goodies
+          - A good sport
+          - Working your way
+          - Health matters
+          - Person
+          - Watch out!
+          - On holiday
+      - 阅读技巧与策略
+      - 写作技巧与实训
+      - 词汇与语言学习
+        - 2 000 Most Frequent Words in English Language Texts
+        - Academic Word List
+        - Record of Books Read
+        - Words and Expressions
+        - Glossary
+      - 数学与几何
+        - Vector Operations
+        - Plane Equations
+        - Space Straight Lines
+        - Surface Equations
+        - Coordinate Transformations
+        - Algebraic Surfaces (Lines) and Their Degrees
+        - Types of Quadratic Surfaces
+        - Intersections of Surfaces
+      - 数据可视化
+        - Bar Graph
+        - Pie Chart
+        - Line Graph
+        - Histogram
+      - 英语发音与语音学
+        - 辅音分类与特点
+          - 摩擦音
+          - 无擦通音
+          - 鼻辅音
+          - 英语辅音分类
+          - 破擦音
+          - 舌边音
+          - 爆破音
+        - 连读与同化
+          - 外加音／ｒ／
+          - 辅音与元音之间的连读(C+V）
+          - 元音与元音之间的连读(V+V)
+          - 连接音／ｒ／
+          - 元音的省略
+          - 发音方法的同化
+          - 连接音／ｊ／和／ｗ／
+          - 发音部位的同化
+          - 辅音的省略
+          - 声带状态的同化
+      - 英语写作与思辨能力
+        - 写作能力与方法
+          - 母语思维与外语写作能力的关系：对高中生英语看图作文过程的研究
+          - 英语学习成功者与不成功者在方法上的差异
+          - 快乐写作
+          - Writing Skill
+          - Writing Strategies
+          - RD系统简介
+          - 问题与对策
+          - 系统特征
+          - 科研帮手
+          - 文章攻略
+          - 秀才文章
+          - 朱笔圈点
+          - 作业要求
+          - 语法练习
+          - 文前文本数字生成
+          - 封面形式
+          - 致谢内容
+          - 论文摘要
+          - 全文目录
+          - 图表目录
+          - 缩略语表
+          - 正文文本数字生成
+          - 文后文本数字生成
+          - 参考书目
+          - 附录部分
+          - 写作课程介绍
+          - 避免悲剧
+          - 文章清晰度与读者关系
+          - 阅读难度与乐趣
+          - 编辑、反思与出版
+          - 研究中参考文献的作用
+          - 英语童话故事创作
+          - 学术项目大纲撰写
+          - 深入探讨学术项目
+          - 撰写高质量摘要的技巧
+          - 快乐写作过程
+          - エッセイの読み方
+          - エッセイの書き方
+          - エッセイの見直し方
+          - 意見文の読み方
+          - 意見文の書き方
+          - 意見文の見直し方
+          - レポートの読み方
+          - レポートの書き方
+          - レポートの見直し方
+          - 論文を書く前準備
+          - 論文の書き方
+          - 論文を書いた後の確認
+          - 写作技巧
+        - 思辨能力与教学
+          - 产出导向法与对外汉语教学
+          - 我国英语专业与其他文科类大学生思辨能力的对比研究
+          - 大学外语教师专业学习共同体建设的理论框架
+          - 构建产出导向法理论体系
+          - 输出驱动-输入促成假设：构建大学外语课堂教学理论的尝试
+          - 输出驱动假设与英语专业技能课程改革
+          - 构建我国外语类大学生思辨能力量具的理论框架
+          - 探究我国高校外语教师互动发展的新模式
+        - 国家语言能力
+          - 对“国家语言能力”的再解读——兼述中国国家语言能力70年的建设与发展
+          - 国家语言能力的内涵及其评价指标
+      - 英语语言测试
+        - 测试概述与发展
+          - 英语测试概述
+          - 近30年的发展动态
+          - 语言测试前景展望
+        - 测试方法与功能
+          - 四种英语语言测试法
+          - 考试功能及其类别
+          - 教学功能
+          - 科研功能
+          - 根据考试目的分类
+          - 根据考试方式分类
+          - 根据语言测量形式分类
+          - 根据评分方式分类
+          - 根据考分解释分类
+        - 考试要素与规范
+          - 考纲解读与命题趋势
+          - 听力理解与阅读理解
+          - 短文、段落信息匹配与翻译
+          - 高分作文与短篇新闻
+          - 篇章词汇与仔细阅读理解
+        - 测试评估手段
+          - 选择答题类评估方法
+          - 非选择答题类评估方法
+          - 个性化答题类评估方法
+          - 阅读测试
+          - 写作测试
+          - 听力测试
+          - 口语测试
+        - 考试成绩分析
+          - 考试成绩
+          - 原始分数
+          - 转换分数
+          - 成绩报告形式
+          - 及格标准
+          - 分数的频数分布
+          - 分数的集中量
+          - 算术平均数
+          - 中位数
+          - 众数
+          - 算术平均数、中位数、众数三者之间的关系
+          - 分数的差异量
+          - 全距
+          - 标准差
+          - 差异系数
+          - 题目易度
+          - 题区分度
+          - 选择项分析
+      - 语义学
+        - 语义学基础
+          - 语义学简介
+          - 基本术语
+          - 语义研究历史分期
+          - 主要语义学流派
+        - 语义学与其他学科
+          - 语义学与语用学
+          - 语义学与英语教学概述
+        - 词汇语义学
+          - 句子语义学概述
+          - 句义关系
+          - 情景类型
+          - 时体语态
+          - 论元结构
+        - 形式语义学
+          - 形式语义学概述
+          - 谓词演算
+          - 命题演算
+          - 语义公设
+          - 谓词的涵义特征
+          - TG学派的形式语言学
+          - 形式语义学的利与弊
+        - 模糊语义学
+          - 模糊语义学概述与定义
+          - 原型范畴理论
+          - 语义模糊的特征
+          - 语义模糊的成因
+        - 认知语义学
+          - 认知语义学概述
+          - 体认观
+          - 概念化
+          - 意象图式
+          - 隐喻和转喻
+          - 象似性
+          - 认知语义学与英语教学
+      - 英语写作
+        - 写作主题
+          - 科幻世界
+          - 果真如此
+          - 感受冲突
+          - 童心烂漫
+          - 学术初恋
+          - 妙思如泉
+          - 软件时代
+      - 科技论文写作
+        - 写作技巧与注意事项
+          - エッセイの読み方
+          - エッセイの書き方
+          - エッセイの見直し方
+          - 意見文の読み方
+          - 意見文の書き方
+          - 意見文の見直し方
+          - レポートの読み方
+          - レポートの書き方
+          - レポートの見直し方
+          - 論文を書く前準備
+          - 論文の書き方
+          - 論文を書いた後の確認
+          - 写作技巧
+        - 论文结构与写作规范
+          - 科技论文的定义与基本特征
+          - 科技论文类型与基本结构
+          - 文题、关键词与摘要
+          - 标点符号与数字用法
+          - 量符号、单位符号与图表规范
+          - 科学性、准确性与简明性
+          - 插图、表格与参考文献
+          - 语言与文字规范
+      - 商业与金融
+        - 投资与贷款
+          - 储蓄教育
+          - 安全投资
+          - 储蓄账户中的资金
+          - 汽车贷款
+          - 信用卡
+          - 个人税收简报
+        - 企业与市场
+          - 商业愿景
+          - 迈克尔·戴尔与弗雷德里克·史密斯
+          - 商业计划
+          - 名声与财富
+          - 短暂的名声
+          - 重大商业交易
+          - 贫富差距
+          - 成功智慧
+          - SWOT分析
+          - 提高行政形象
+          - 金融市场感受
+          - 商品市场
+          - 推特上市
+          - 道琼斯工业平均指数
+          - 市场营销与销售
+          - 销售对话
+        - 客户服务与关系
+          - 客户与服务
+          - 投诉与道歉
+          - 优质客户服务秘诀
+          - 星巴克的宏伟计划
+      - 健康与生活方式
+        - 家庭与教育
+          - 家庭生活的变化
+          - 房屋价格
+          - 学校教育
+          - 性别混合或分隔的学校
+        - 健康与运动
+          - 身体健康
+          - 免疫系统
+          - 压力与感冒
+          - 亚健康状况
+          - 运动精神与锦标赛
+          - 瑜伽锻炼
+        - 娱乐与文化
+          - 娱乐活动
+          - 儿童笑话
+          - 相信与否
+          - 提问与回答
+          - 英国之旅
+          - 社区与个人
+          - 百科全书的历史
+      - 翻译与语言
+        - 翻译技巧与方法
+          - 常识介绍
+          - 翻译的评价标准
+          - 翻译技巧一：词语增补
+          - 翻译技巧二：词类转换
+          - 翻译技巧三：“得”字句和“把”字句的译法
+          - 翻译技巧四：正说反译法、反说正译法
+          - 翻译技巧五：无主句的翻译
+          - 翻译技巧六：汉语长句的处理
+          - 翻译技巧七：段落翻译的技巧
+      - 文学与思想
+        - 爱默生作品与思想
+          - 爱默生诗文选
+          - 黄宗英
+          - The Sphinx
+          - 斯芬克斯
+          - Each and All
+          - 个体与全体
+          - The Problem
+          - 问题
+          - To Rhea
+          - 致雷亚
+          - Uriel
+          - 乌列
+          - The World-Soul
+          - 万物之灵
+          - The Rhodora
+          - 杜鹃
+          - The Humble-Bee
+          - 大黄蜂
+          - The Snow-Storm
+          - 暴风雪
+          - Woodnotes I
+          - 林中曲I
+          - Woodnotes II
+          - 林中曲II
+          - Monadnoc
+          - 莫纳德诺克山
+          - Concord Hymn
+          - 康科德颂歌
+          - Brahma
+          - 梵天
+          - Freedom
+          - 自由
+          - Days
+          - 日子
+          - Nature
+          - 自然
+          - The American Scholar
+          - 美国学者
+          - The Transcendentalist
+          - 超验主义者
+          - Self-Reliance
+          - 自助
+          - The Over-Soul
+          - 超灵
+          - The Poet
+          - 诗人
+          - Shakspeare, or the Poet
+      - 应用语言学研究
+        - 跨学科研究与评估
+          - 跨学科研究的必要性
+          - 基于形成性评估的英语精读任务设计
+          - 形成性评估与终结性评估相结合的网络听力教学实践
+          - 书面纠正性反馈与语言分析能力对英语类指名词短语习得的影响
+          - 书面纠正性反馈与语言分析能力对英语通用名词短语习得的影响
+        - 外语学习与教学
+          - 真实测试的综合练习
+          - 英语初级教程（学前教育专业适用）
+          - 英语进阶教程（学前教育专业适用）
+          - 新导向职业英语学生用书1
+          - 新导向职业英语学生用书3
+        - 语言障碍与特殊现象研究
+          - 4~5岁普通话特定型语言障碍儿童的筛检与诊断
+          - 失读症儿童磁共振脑成像体素形态学DARTEL研究
+        - 语料库与计算语言学
+          - Corpus linguistics和基于语料库的研究进展
+      - 认知语言学研究
+        - 现代汉语动词谓语句研究
+          - 研究背景
+          - 研究目标
+          - 研究理据
+          - 研究方法
+          - 研究视角与思路
+          - 研究意义
+          - 结构布局
+          - 主语、话题、起语、语义格
+          - 概念融合理论
+          - 认知参照点理论
+          - 自主依存理论
+          - RAB模型的理据
+          - RAB模型运作机制
+          - 基于RAB模型的主语构式
+          - 基于RAB模型的起语构式
+          - 基于RAB模型的动谓句类别
+          - 动前零自主动谓构式类别
+          - 动前零成分零自主构式
+          - 动前单介构式
+          - 动前单自主动谓构式类别
+          - 动前单成分单自主构式语料分布
+          - 动前主语构式句
+          - 动前起语构式句
+          - 动前双成分单自主构式
+          - 动前三成分单自主构式
+          - 动前双自主动谓构式界定
+          - 动前双自主动谓构式语料分布
+          - 动前双自主动谓构式语义特征
+          - 动前双自主动谓构式句法结构
+          - 动前双自主动谓构式语用价值
+          - 主要研究回顾
+          - 不足之处
+        - ‘把’字句的认知语法研究
+          - 动机
+          - 目的
+          - 理论指引
+          - 方法
+          - 语料
+          - 结构安排
+          - 文献述评
+          - ‘把’字句的结构研究
+          - ‘把’字句的形式研究
+          - ‘把’字句的功能研究
+          - ‘把’字句的认知研究
+          - 简评
+          - 研究假设
+          - ‘把’字句的句法特征
+          - ‘把’字句的语义特征
+          - ‘把’字句的语义建构
+          - 以使用为基础的模型观照下的‘把’字句
+          - ‘把’字句的交际功能
+          - ‘把’字句使用情况的统计分析
+          - ‘把’字句的语法知识网络
+          - 不同类型‘把’字句之间的扩展
+          - VP的允准
+          - ‘把’字句的主观性
+          - 主要发现
+          - 不足和展望
+          - 基于使用的象征模型
+          - 基于事件的语义框架
+          - 英汉结果构式的象征性
+      - 语言学研究
+        - 司法话语与功能语言学
+          - 司法话语功能语言学研究
+          - 系统功能语言学三重视角
+          - 判决文书情理分析
+          - 民事判决书事理性分析
+          - 诽谤话语与道歉声明分析
+        - 语言哲学与礼貌研究
+          - Leonard Talmy语言哲学思想
+          - 礼貌的默认-框架视角
+        - 外语学习与自主系统开发
+          - 外语词汇自主学习系统开发
+        - 句法与语言学理论
+          - 比较句法词序和句序
+          - 基础语言学理论
+          - 外国口音非母语现象研究
+      - 植物分类
+        - 外来入侵种和有待观察种
+        - 蕨类植物
+        - 被子植物
+          - 双子叶植物
+          - 单子叶植物
+        - 其他科属
+          - 槐叶蘋科
+          - 满江红科
+          - 桑科
+          - 荨麻科
+          - 蓼科
+          - 商陆科
+          - 紫茉莉科
+          - 番杏科
+          - 马齿苋科
+          - 落葵科
+          - 石竹科
+          - 藜科
+          - 苋科
+          - 仙人掌科
+          - 毛茛科
+          - 睡莲科
+          - 胡椒科
+          - 罂粟科
+          - 山柑科
+          - 十字花科
+          - 木犀草科
+          - 景天科
+          - 豆科
+          - 酢浆草科
+          - 牻牛儿苗科
+          - 大戟科
+          - 漆树科
+          - 凤仙花科
+          - 葡萄科
+          - 椴树科
+          - 锦葵科
+          - 梧桐科
+          - 西番莲科
+          - 秋海棠科
+          - 葫芦科
+          - 千屈菜科
+          - 桃金娘科
+          - 海桑科
+          - 野牡丹科
+          - 柳叶菜科
+          - 小二仙草科
+          - 伞形科
+          - 夹竹桃科
+          - 萝藦科
+          - 茜草科
+          - 旋花科
+          - 紫草科
+          - 马鞭草科
+          - 唇形科
+          - 茄科
+          - 玄参科
+          - 紫葳科
+          - 爵床科
+          - 角胡麻科
+          - 列当科
+          - 车前科
+          - 桔梗科
+          - 裸子蕨科
+          - 木麻黄科
+          - 木贼科
+          - 桑寄生科
+          - 建议排除种和中国国产种
+          - 泽泻科
+          - 花蔺科
+          - 水鳖科
+          - 百合科
+          - 石蒜科
+          - 雨久花科
+          - 鸢尾科
+          - 鸭跖草科
+          - 禾本科
+          - 天南星科
+          - 浮萍科
+          - 莎草科
+      - 跨文化交际与外语教育
+        - 跨文化交际研究
+        - 全球公民教育
+        - 文化话语
+        - 德国与东亚的跨文化理解
+        - 全球化组织文化
+        - 中国跨国公司挑战
+        - 影响全球意识信念因素
+        - 文化集群应用
+      - 美国文学史
+        - 殖民地与革命时期
+        - 1800-1865年文学塑造
+        - 1865-1900年文学发展
+        - 1900-1945年现代文学崛起
+        - 1945年以来文学
+      - 软件工程
+        - 基本概念
+          - 机械工程师
+          - 数字和基础数学
+          - 测量1
+          - 测量2
+          - 国际单位制
+          - 大数字
+          - 分析数量
+          - 表格和图表
+          - 简单机械
+          - 电学
+          - 基础物理
+          - 材料
+          - 材料性能
+          - 力
+          - 流体运动
+          - 张力和压缩
+        - 计算机基础
+          - 计算机类型
+          - 计算机配件与外设
+          - 计算机内部结构
+          - 系统软件1
+          - 系统软件2
+        - 编程与应用
+          - 编程软件
+          - 应用软件1
+          - 应用软件2
+        - 设计与架构
+          - 软件架构
+          - 架构风格
+          - 设计考虑
+          - 设计方法1
+          - 设计方法2
+          - 设计方法3
+        - 测试与维护
+          - 软件测试目标
+          - 软件测试技术
+          - 测试充分性标准
+          - 软件维护1
+          - 软件维护2
+        - 软件重用
+          - 软件重用1
+          - 软件重用2
+        - 软件质量
+          - 软件可靠性
+          - 软件工具1
+          - 软件工具2
+          - 配置管理
+          - 编程团队
+          - 软件质量控制
+        - 项目管理
+          - 开发与成本
+          - 项目管理
+          - 伦理
+        - 云计算
+          - 云计算：SaaS与PaaS
+      - 口腔医学
+        - 牙科基础
+          - 牙科
+          - 专业细分
+          - 牙齿解剖
+          - 牙齿类型
+          - 牙科清洁
+          - 牙科检查
+          - 充填物
+          - 根管治疗
+          - 拔牙
+          - 正畸治疗
+          - 龋齿
+          - 牙龈疾病
+          - 颞下颌关节问题
+          - 口腔感染
+          - 口腔癌
+          - 口腔颌面外科
+          - 麻醉
+          - 药物
+        - 牙科诊所运营
+          - 职业指南摘录
+          - 牙科诊所
+          - 广告
+          - 牙科人员
+          - 员工简介
+          - 牙科器械
+          - 患者预约
+          - 保险与费用
+          - 办公室政策
+          - 诊疗桌礼仪
+          - 患者手册
+          - 患者转诊
+          - 指南
+          - 患者健康史
+          - 健康史表格
+          - 口腔健康与慢性病
+          - 特殊需求患者
+          - 患者焦虑
+          - 与患者沟通
+          - 牙科可持续性
+          - 获得执照
+          - 职业手册摘录
+          - 建立牙科诊所
+          - 牙科伦理
+        - 宣传与教育
+          - 网页
+          - 宣传册
+          - 海报
+          - 教材摘录
+          - 文章
+          - 传单
+          - 儿童牙科
+          - 老年牙科
+          - 营养咨询
+          - 博客文章
+      - 大学英语四级考试
+      - 写作技巧与文体
+        - 英语写作基础
+          - 手稿形式
+          - 标点符号
+          - 单词类型
+          - 单词选择
+          - 同义词
+          - 好字典
+          - 正确句子
+          - 主谓一致
+          - 代词与先行词一致
+          - 代词清晰
+          - 用连词连接从句
+          - 复杂句中的主句
+          - 正确使用比较
+          - 正确使用时态
+          - 并列与从属关系
+          - 有效句子
+          - 段落特征
+          - 段落发展方式
+          - 摘要写作用途
+          - 摘要写作程序
+          - 作文标准
+          - 作文步骤
+          - 作文三大部分
+          - 写作类型
+          - 通知
+          - 问候、祝福和正式邀请
+          - 便签
+          - 信件
+          - 简历
+          - 研究论文准备
+          - 研究论文格式
+          - 论文引用
+          - 论文参考文献
+          - 开始和结束文章的写作技巧
+          - 写作过程简介
+          - 中英文写作对比
+          - 写作风格与语体
+          - 主题句与段落写作
+          - 段落连贯性与衔接手段
+          - 写作中的谬误与语法问题
+          - 修辞手法
+          - 描述性写作
+          - 叙述性写作
+          - 说明性写作
+          - 论证性写作
+          - 摘要
+          - 读书报告与书评
+          - 论文写作
+        - 实用英文写作
+          - 工作场所信函与电子邮件写作
+          - 传达事实、观点和情感
+          - 个人描述写作
+          - 解释性段落写作
+          - 申请书写作
+          - 叙述个人经历
+          - 个人陈述写作
+          - 问题-解决方案段落写作
+          - 提案写作
+          - 总结性写作
+          - 执行摘要写作
+          - 描述图表
+          - 工作场所调查报告写作
+          - 描述活动
+          - 海报与宣传册写作
+          - 演讲稿写作
+          - 写作过程简介
+          - 中英文写作对比
+          - 写作风格与语体
+          - 主题句与段落写作
+          - 段落连贯性与衔接手段
+          - 写作中的谬误与语法问题
+          - 修辞手法
+          - 描述性写作
+          - 叙述性写作
+          - 说明性写作
+          - 论证性写作
+          - 摘要
+          - 读书报告与书评
+          - 论文写作
+      - 阅读理解与文学欣赏
+        - 英语泛读技巧
+          - 参考译文
+          - 答案
+        - 莎士比亚戏剧欣赏
+          - The Comedy of Errors
+          - The Taming of the Shrew
+          - The Two Gentlemen of Verona
+          - Love's Labor's Lost
+          - A Midsummer Night's Dream
+          - The Merchant of Venice
+          - The Merry Wives of Windsor
+          - Much Ado About Nothing
+          - As You Like It
+          - Twelfth Night
+          - Troilus and Cressida
+          - All's Well That Ends Well
+          - Measure for Measure
+          - The First Part of Henry the Sixth
+          - The Second Part of Henry the Sixth
+          - The Third Part of Henry the Sixth
+          - King Richard the Third
+          - King John
+          - King Richard the Second
+          - The First Part of Henry the Fourth
+          - The Second Part of Henry the Fourth
+          - Henry the Fifth
+          - Henry the Eighth
+          - Titus Andronicus
+          - Romeo and Juliet
+          - Julius Caesar
+          - Hamlet
+          - Othello
+          - King Lear
+          - Macbeth
+          - Antony and Cleopatra
+          - Coriolanus
+          - Timon of Athens
+          - Pericles, Prince of Tyre
+          - Cymbeline
+          - The Winter's Tale
+          - The Tempest
+        - 文学作品阅读
+          - 爱情
+          - 小木屋
+          - 美国牛仔
+          - 年轻的威廉·莎士比亚
+          - 英格兰最佳剧作家
+          - 候鸟与咖啡
+          - 昆虫
+          - 作弊
+          - 愚人天堂
+          - 野性的呼唤（I）
+          - 野性的呼唤（II）
+          - 两箱黄金（I）
+          - 两箱黄金（II）
+          - 蒙娜丽莎的微笑技巧
+          - 上海世博会聚焦各国
+          - 伦敦
+          - 全美式的啜饮
+          - 晚宴派对
+          - 全球鸿沟的错误一侧
+          - 防范艾滋病
+          - 大学经历
+          - 美国生活中的美国大学
+          - 自信游戏
+          - 通往成功的我的路
+          - 85岁重新开始
+          - 神圣的Ms H
+      - 学术写作与研究
+        - 大学英语过程写作
+          - 立体造型的基本概念
+          - 立体造型课程的建立与发展
+          - 课程相关知识
+          - 课程评价标准
+          - 项目训练一——材料基础
+          - 项目训练二——立体造型基础
+          - 项目训练三——写实环境练习
+          - 项目训练四——环境创作练习
+          - 演出艺术中的立体造型应用
+          - 影视美术中的立体造型应用
+          - 展览展示中的立体造型应用
+      - 机械工程
+        - 设计与制造
+          - 轴承
+          - 联轴器
+          - 齿轮
+          - 驱动器
+          - 手动工具
+          - 机床
+          - 设计方法
+          - 专利
+          - 科学方法
+          - 失效理论1
+          - 失效理论2
+          - CAD
+          - 产品生命周期管理
+          - 机器人技术
+          - 结构分析
+        - 能源与动力
+          - 能量
+          - 热和热力学
+          - 内燃机
+          - 二冲程发动机
+          - 四冲程发动机
+          - 旋转运动
+          - 速度和扭矩
+          - 齿轮传动
+        - 职业发展
+          - 职业选择
+          - 职业生涯选择
+          - 撰写简历
+          - 工作面试
+      - 酒店与餐饮
+        - 服务与管理
+          - 酒店员工介绍
+          - 酒店行业培训手册
+          - 酒店设施宣传册
+          - 适合家庭的住宿
+          - 代客泊车服务
+          - 入住登记
+          - 餐厅员工介绍
+          - 预订餐厅
+          - 酒吧服务
+          - 厨房员工介绍
+          - 餐具
+          - 食品服务设备
+          - 食品准备
+          - 客房预订
+          - 忠诚度计划
+          - 确认预订
+          - 客房服务
+          - 餐饮卫生与安全
+          - 机场接送服务
+          - 紧急疏散
+          - 结账
+          - 迎接与安排客人就座
+          - 菜单解释
+          - 接收订单
+          - 客房服务菜单
+          - 宴会服务
+          - 食品储存
+          - 订购食品供应
+          - 特殊活动
+          - 商务旅行者
+          - 回应请求
+          - 预订问题
+          - 损坏物品
+          - 回应投诉
+          - 酒店安全
+          - 财务问题
+          - 提出建议
+          - 餐厅问题
+          - 支付方式
+          - 团队合作
+          - 厨房卫生与安全
+      - 英语写作与翻译
+        - 思辨式英文写作
+          - 批判性写作
+          - 批判性思维
+          - 发展批判性文章中的论点
+          - 文章结构
+          - 引言与结论的写作
+          - 撰写吸引人的引言
+          - 撰写有效的论文陈述
+          - 撰写有力的结论
+          - 撰写主体段落
+          - 推理与段落写作的联系
+          - 在主体段落中融入推理
+          - 评估主体段落的质量
+          - 应用演绎推理于写作
+          - 演绎推理
+          - 通过原则发展演绎论点
+          - 通过定义发展演绎论点
+          - 应用归纳推理于写作
+          - 归纳推理
+          - 进行归纳概括
+          - 通过类比发展归纳论点
+          - 通过因果关系发展归纳论点
+          - 修订文章
+          - 评估论点的一般方法
+          - 评估与改进演绎论点
+          - 评估与改进归纳论点
+          - 回应反对意见与撰写反驳论证
+          - 反驳论证
+          - 撰写反驳论证
+          - 使反驳论证更有力
+          - 有效使用动词
+          - 使用具体明确的语言
+          - 使用有效的平行结构
+          - 使用期望效果的周期性和松散句子
+          - 使用正确的大小写和标点
+          - 避免用词陷阱
+          - 避免冗余
+          - 避免连词成句
+        - 长篇阅读与翻译技巧
+          - 阅读理解题解题技巧概述
+          - 长篇阅读段落信息匹配题解题技巧
+          - 翻译技巧概述
+          - 文化翻译技巧
+      - 英语文学与文化
+        - 新大学英语文化对比阅读
+          - Education
+          - Employment
+          - Social Life
+          - History and Culture
+          - Environment
+          - Sports
+          - Biography
+          - Media
+          - Tourism
+          - Economy
+      - 大学生活与学术准备
+        - 新大学英语教学手册
+          - 高中到大学的过渡
+          - 大学新生的挑战
+          - 健康饮食
+          - 校园生活
+          - 课外活动
+          - 人际关系
+          - 心理健康
+          - 丰富大学生经历
+          - 英雄
+          - 智能校园，智能生活
+          - 志愿服务作为教育形式
+      - 英语语音与发音
+        - 英语元音与辅音
+          - 前元音
+          - 中元音
+          - 后元音
+          - 合口双元音
+          - 集中双元音
+          - 英语元音发音音位图
+          - 英语字母
+          - 爆破音
+          - 摩擦音
+          - 破擦音
+          - 鼻辅音
+          - 舌边音
+          - 半元音
+          - 辅音连缀
+      - 英语阅读与写作
+        - 英语阅读技巧
+          - 快速阅读与精读
+          - 阅读理解与批判性思维
+          - 阅读策略与技巧
+          - 英语阅读材料分析
+          - 写作过程简介
+          - 中英文写作对比
+          - 写作风格与语体
+          - 主题句与段落写作
+          - 段落连贯性与衔接手段
+          - 写作中的谬误与语法问题
+          - 修辞手法
+          - 描述性写作
+          - 叙述性写作
+          - 说明性写作
+          - 论证性写作
+          - 摘要
+          - 读书报告与书评
+          - 论文写作
+      - 教育与教学
+        - 课堂管理
+          - Classroom Management: Theory
+          - Classroom Management: Methods 1
+          - Classroom Management: Methods 2
+        - 课程计划与评估
+          - Lesson Plan Formats
+          - Assessing the Lesson
+        - 教师特质与教育背景
+          - Traits of the Kindergarten Teacher
+          - Education and Certification
+          - Before the First Day
+          - The First Day
+      - 课堂与学习环境
+        - 教室与日常安排
+          - The Classroom
+          - Daily Schedule
+          - Arrival
+          - Mealtimes
+          - Naps and Rest
+          - Cleanup
+          - Dismissal
+        - 课堂用品与规则
+          - Classroom Supplies 1
+          - Classroom Supplies 2
+          - Classroom Rules
+      - 语言与数学技能
+        - 阅读与文学
+          - Language Skills 1: Reading
+          - Reading Strategies 1
+          - Language Skills 2: Literature
+          - Reading Strategies 2
+          - Stories and Reading
+        - 数学技能
+          - Math Skills 1: Counting and Cardinality
+          - Math Strategies 1
+          - Math Skills 2: Measurements and Data
+          - Math Strategies 2
+          - Math Skills 3: Geometry
+          - Math Strategies 3
+          - Play
+          - Recess
+      - 工程与医学
+        - 工程
+          - 基本概念
+            - 工程是什么
+            - 形状
+            - 材料
+            - 工具
+            - 能源
+          - 工程分类
+            - 土木工程
+            - 化学工程
+            - 机械工程
+            - 电气工程
+            - 航空航天工程
+            - 农业工程
+            - 工业工程
+            - 软件工程
+            - 遗传工程
+            - 环境工程
+            - 核工程
+            - 生物医学工程
+          - 工程原理
+            - 简单机械
+            - 牛顿定律
+            - 热力学定律
+            - 速率过程
+            - 静力学与动力学
+            - 电学
+            - 国际单位制
+            - 工程设计方法
+            - 模型
+          - 工程实践
+            - 与数字打交道
+            - 测量类型
+            - 科学方法
+            - 安全预防措施
+            - 信息呈现
+            - 解决问题
+            - 创造力
+            - 表格与图表
+            - 尺寸与绘图
+            - 材料与属性
+            - 销售工程
+          - 工程教育与职业
+            - 工程历史
+            - 工程师的教育
+            - 职业前景
+        - 医学
+          - 医学基础
+            - 解剖学1
+            - 解剖学2
+            - 解剖学3
+            - 解剖学方向
+            - 循环系统
+            - 呼吸系统
+            - 消化系统
+            - 覆盖系统
+            - 组织类型
+            - 常见缩写
+            - 测量
+            - 频率描述
+            - 常见疾病1
+            - 常见疾病2
+          - 医学实践
+            - 医师助理
+            - 医院
+            - 医院员工
+            - 医疗设备
+            - 体格检查
+            - 生命体征
+            - 症状
+            - 疼痛描述
+            - 诊断测试
+            - 诊断设备
+            - 影像设备
+            - 药物类型
+            - 保持卫生
+            - 教育与培训
+            - 轮转实习
+            - 时间表与工作时间
+            - 工作环境
+            - 沟通
+            - 咨询与治疗
+            - 伤口护理
+            - 感染
+            - 处方
+      - 哲学与思想
+        - 西方哲学
+          - Zeno_of_Elea_and_His_Paradoxes
+          - Heraclitus_of_Ephesus_and_the_Logos
+          - Protagoras_and_Humanism
+          - Socrates_Knowledge_Is_Virtue
+          - Plato_The_World_of_Being_and_the_World_of_Becoming
+          - Aristotle_and_His_Contributions_to_Western_Scholarship
+          - St_Augustine_and_Neo_Platonism
+          - Saint_Thomas_Aquinas_and_Scholasticism
+          - Ockhams_Razor_and_the_Law_of_Economy
+          - Francis_Bacon_and_the_Empirical_Method
+          - Thomas_Hobbes_and_Political_Philosophy
+          - René_Descartes_and_Rationalism
+          - John_Locke_Empiricism_and_Politics
+          - Immanuel_Kant_and_Transcendental_Idealism
+          - Arthur_Schopenhauer_The_World_as_Will
+          - Hegel_and_His_Philosophical_Contribution
+          - Husserl_and_His_Phenomenology
+          - Søren_Aabye_Kierkegaard_and_Existentialism
+          - Heidegger_and_His_Philosophy_of_Being
+          - Jean_Paul_Sartre_and_Existentialism
+          - Ludwig_Wittgenstein_and_His_Analytic_Philosophy
+        - 心理学与精神分析
+          - Sigmund_Freud_and_His_Psychoanalysis
+          - Carl_Jung_and_Lacan_The_Freudian_Development
+          - Nietzsche_The_Will_to_Power_and_the_Idea_of_Overmen
+      - 科学与技术
+        - 物理学
+          - Newton_The_Man_Who_Stands_on_the_Shoulders_of_Giants
+          - The_Father_of_Modern_Physics_Einstein_And_His_E=mc2
+      - 美国社会与文化
+        - 美国概况
+          - 美国社会与文化
+          - 美国快速事实
+          - 美国印第安人历史
+          - 殖民、独立与西进运动
+          - 美国历史专题选读
+          - 美国黑人历史
+          - 美国经济
+          - 美国政府
+          - 美国宗教
+          - 美国教育
+          - 美国华人历史
+          - 美国体育
+          - 美国生活方式
+          - 美国人的一生：从摇篮到坟墓
+          - 美国电影、音乐与文学
+          - 美国媒体
+      - 英语教育与技能
+        - 搏流英语视听说教程
+          - 心中的英雄
+          - 消遣与爱好
+          - 我们的地球
+          - 社会问题
+          - 当今科技
+          - 工作世界
+          - 健康生活
+          - 终身学习
+          - 时尚界
+          - 我们都是购物者
+          - 人际沟通
+          - 教育问题
+          - 媒体行业
+          - 环游世界
+          - 未解之谜
+          - 表演艺术
+          - 体育运动
+          - 文化万花筒
+          - 网络世界
+          - 低碳生活
+      - 航空与军事
+        - 飞机与武器
+          - 飞机基础知识
+            - 飞机部件
+            - 直升机部件
+            - 空间关系
+            - 无线电通信
+          - 飞机类型
+            - 战斗机
+            - 无人机
+            - 轰炸机
+            - 货运飞机
+            - 炮艇
+            - 加油机
+            - 侦察机
+            - 直升机
+            - 巡航导弹
+          - 军事行动与部队
+            - 压制敌防空
+            - 人道主义行动
+            - 反恐行动
+            - 反毒行动
+            - 小规模应急
+            - 近距空中支援
+            - 著名部队：战斗机部队
+            - 著名部队：轰炸机部队
+            - 著名部队：搜救部队
+          - 打击敌人
+            - 目标
+            - 空对空导弹
+            - 空对地导弹
+            - 地对空导弹
+            - 火炮
+            - 反舰和反潜
+        - 军事职业与生活
+          - 基地生活
+            - 军衔结构
+            - 基地建筑
+            - 北约组织
+            - 军事组织
+            - 训练
+            - 制服
+          - 军事职业
+            - 飞行员
+            - 空中交通管制
+            - 维修
+            - 伞降救援
+            - 气象
+        - 战术与攻击
+          - 攻击方式
+            - 重心
+            - 突袭
+            - 战略攻击
+            - 心理效应
+            - 联合空中攻击小组
+            - 攻击阶段
+          - 其他
+            - 作战
+      - 设计与艺术
+        - 工艺美术
+          - 设计领域
+            - 工业设计
+            - 园林艺术与刺绣
+            - 广告
+            - 包装设计
+            - 产品设计
+            - 时尚设计
+            - 室内设计
+            - 家具设计
+          - 艺术工艺
+            - 陶瓷
+            - 珠宝设计
+      - 计算机与技术
+        - 计算机硬件与设备
+          - 计算机工程师
+          - 网页
+          - 计算机类型
+          - 输入/输出设备1
+          - 输入/输出设备2
+          - 存储设备
+          - 计算机内部结构
+          - 故障排除指南
+          - 网络
+          - 操作系统
+          - 基础数学
+          - 分析数量
+          - 测量与单位换算
+          - 能量
+          - 电子学1
+          - 电子学2
+          - 教育
+          - 计算机工程师特质
+          - 科学方法
+          - 会计
+          - 国际单位制与国际电工委员会单位
+          - 描述变化
+          - 描述性能
+          - 物理学概念
+          - 计算理论
+          - 控制系统
+          - 固态电子学
+          - 设计流程
+          - 算法
+          - 内存
+          - 芯片
+          - 网络安全
+          - 计算机语言1
+          - 计算机语言2
+          - 计算机算术1
+          - 计算机算术2
+          - 计算机算术3
+          - 性能评估1
+          - 性能评估2
+          - 数据路径与控制
+          - 流水线1
+          - 流水线2
+          - 内存层次结构1
+          - 内存层次结构2
+          - 虚拟内存
+          - 磁盘存储
+          - 总线
+          - 电脑组件
+            - Types of Computers
+            - Monitors
+            - Keyboards
+            - Mice
+            - Inside the Computer
+          - 存储与输入设备
+            - Data Storage Devices
+            - Printers
+            - Scanners
+            - Cameras
+            - Smartphones
+        - 计算机软件与应用
+          - 用户界面与通讯
+            - The User Interface
+            - Email 1
+            - Email 2
+            - Email 3
+            - Instant Messaging
+            - Web Browsing: Parts
+            - Web Browsing: Actions
+            - Video Conferencing
+            - Social Media
+          - 办公与设计软件
+            - Word Processing: Uses
+            - Word Processing: Actions
+            - Word Processing: Formatting
+            - Spreadsheets: Uses
+            - Spreadsheets: Actions
+            - Spreadsheets: Formatting
+            - Desktop Publishing 1
+            - Desktop Publishing 2
+            - Image and Design 1
+            - Image and Design 2
+          - 网络与安全
+            - Networking: Devices and Equipment
+            - Networking: Types of Networks
+            - Networks: Troubleshooting
+            - Viruses
+            - Internet Crime
+            - Anti-virus Software
+            - Firewalls
+        - 互联网与远程
+          - 在线服务
+            - Online Banking
+            - Telecommuting and Remote Access
+          - 云计算
+            - Cloud Computing: Types of Clouds
+            - Cloud Computing: SaaS
+            - Cloud Computing: IaaS and PaaS
+      - 警察与执法
+        - 警察基础
+          - New Words and Expressions
+          - Glossary
+      - 文学作品与作者
+        - 英语文学作品
+          - My Father
+          - Why My Great-uncle Gave Up the Ministry
+          - Saved by His Mistakes
+          - The Two Roads
+          - Creating a Caribbean Spring Festival
+          - My First Class
+          - Genius Sacrificed for Failure
+          - A Horse and Two Goats
+          - Learning a Language
+          - Bargains
+          - Out of the Mists
+          - Where the Sun Always Rises
+          - Glue
+          - A Changing World
+          - William Shakespeare: His Life and Works
+          - I Wandered Lonely as a Cloud
+          - Mr. Boggis’s Secret
+          - Time to Stop Excuses for Lateness
+          - Hummingbird Winter
+          - The Power of a Good Name
+          - Chinese Food
+          - They Will Not Be Forgotten
+          - The Invisible Japanese Gentlemen
+          - In a Manner of Speaking
+          - The Dream of an Hour
+          - The Poets and the Housewife
+          - Science and Art
+          - The Power of Beliefs
+          - Package Design
+          - Hong Kong
+        - 中外散文比较
+          - 弗朗西斯·培根与荀子的散文风格比较
+          - 切斯特菲尔德与林则徐的教子观念
+          - 塞缪尔·约翰逊与陈独秀关于学术独立的观点
+          - 拉尔夫·沃尔多·爱默生与王国维对艺术的理解
+          - 亚伯拉罕·林肯与孙中山的演讲技巧
+          - 亨利·戴维·梭罗与孙犁对自然景观的描绘
+          - 马克·吐温与李广田关于童年梦想的描述
+          - 阿尔弗雷德·诺斯·怀特黑德与蔡元培关于大学教育的看法
+          - 斯蒂芬·巴特勒·莱科克与鲁迅关于家庭生活的描绘
+          - 伯特兰·罗素与范仲淹关于生活目标的思考
+          - 温斯顿·丘吉尔与诸葛亮的领导力与责任感
+          - 诺曼·林赛与郁达夫对文学人物的评述
+          - A. A. 米尔恩与许地山关于生活哲学的探讨
+          - E. B. 怀特与夏尊对季节变化的描绘
+          - W. H. 奥登与汪曾祺关于工作、劳动与娱乐的看法
+          - 弗朗西斯·拉塞尔与徐志摩关于海滨幻想的描绘
+          - 劳里·李与陆文夫关于饮食文化的探讨
+          - 简·莫里斯与叶圣陶关于城市生活的感悟
+          - 朱迪·赛弗斯与梁实秋关于性别角色的讨论
+          - 詹姆斯·索罗维奇基与贾平凹关于科技与幸福的思考
+      - 英语写作与研究方法
+        - 研究方法与过程
+          - 研究选题
+          - 破题立论
+          - 背景介绍
+          - 理论框架
+          - 方法选择
+          - 数据收集
+          - 分析研究
+          - 讨论展示
+          - 所得结论
+      - 阅读理解与写作技巧
+        - 阅读理解
+          - 阅读的目的
+          - 信息类阅读
+          - 享受类阅读
+          - 理解阅读
+          - 关键点
+          - 细节
+          - 全局视角
+          - 概括总结
+          - 推理
+          - 批判性思维
+          - 分析问题与答案
+      - 语音学与发音
+        - 语音学
+          - 语音学 - 言语科学
+          - 语音学的分支
+          - 言语产生
+          - 发音
+          - 应用
+          - 国际音标
+          - 狭义与广义音标
+        - 发音
+          - 元音与辅音
+          - 英语元音与辅音
+          - 英语辅音分类
+          - 浊音与清音
+          - 发音部位
+          - 发音方式
+          - 英语塞音、擦音和塞擦音
+          - 英语鼻音与接近音
+          - 英语元音分类
+          - 闭元音与开元音
+          - 前元音与后元音
+          - 圆唇元音与非圆唇元音
+          - 英语纯元音
+          - 英语双元音
+          - 闭音节元音与中心音节元音
+          - 元音长度
+          - 英语音节结构
+          - 英语单词重音与句子重音
+          - 重音形式与弱化形式
+          - 弱化形式中的音变
+          - 弱化形式的使用
+          - 连音与同化
+          - 辅音到元音与元音到元音的连音
+          - r 连音与侵入性 r
+          - 协同发音与同化
+          - 英语节奏结构
+          - 英语语调单元
+          - 声调语言与语调语言
+          - 英语语调结构
+          - 语调单元的核心
+          - 英语语调的实际应用
+          - 语调的态度功能
+          - 语调的语法功能
+          - 语调的话语功能
+          - 英语元音与辅音的音标符号
+          - 国际音标（修订至 2005 年）
+      - 经济与金融
+        - My Financial Career
+        - The Banking Business
+        - The IMF and the World Bank
+        - The ABC of the Negotiation Game
+        - Tax
+        - Tariff
+        - Financial Principles
+        - The Role of Banks in Theory
+        - Bretton Woods System
+        - Being Your Own Boss
+        - The World Trade Organization
+        - Trade Barriers
+        - The Solution to Everything: HR
+        - Human Relations at Sony
+        - Public Relations (PR)
+        - Stock and the Stock Market (Part Ⅰ)
+        - Stock and the Stock Market (Part Ⅱ)
+        - Electronic Commerce
+        - Credit Cards
+        - The World’s First Insurance Company
+        - Global Management for Global Business
+        - The Joy of SOHO: Making a Life While Making a Living
+        - IBM’s Transformation — From Survival to Success
+        - What Makes a Successful Entrepreneur?
+        - Chief Executive Off icer
+        - The Man Who Turned Rejection into A Career
+        - Time Management
+        - Yuppies
+        - Scholarship
+      - 旅游英语
+        - 旅游服务
+          - 导游服务
+          - 国家导游
+          - 旅游领队
+          - 旅行咨询
+          - 行程设计
+          - 境外旅行社
+          - 酒店接待
+          - 酒店营销
+          - 餐饮服务
+          - 酒店会议与展览
+          - 安全问题处理
+          - 博物馆礼仪
+        - 旅游文化
+          - 山西旅游英语
+          - 山西简介
+          - 山西历史
+          - 山西面食
+          - 三皇
+          - 山西文化与中华文明
+          - 山西醋文化
+          - 山西地理与民俗
+          - 山西历史名人
+          - 山西文学历史人物
+          - 山西饮酒文化
+          - 山西名山大川
+          - 山西历史遗址
+          - 山西民居
+          - 云冈石窟
+          - 中国石窟
+          - 云冈石窟传说
+          - 悬空寺
+          - 中国悬空寺
+          - 山西民歌
+          - 显通寺
+          - 淮北显通寺
+          - 面塑
+          - 五台山佛光寺
+          - 中国佛光寺
+          - 皮影戏
+          - 山西民间刺绣
+          - 山西晋祠
+          - 山西大院文化
+          - 乔家大院
+          - 山西社火
+          - 平遥古城
+          - 日升昌票号
+          - 山西商人
+          - 双林寺
+          - 双林寺彩绘雕塑
+          - 山西戏曲
+          - 应县木塔
+          - 中国古塔
+          - 山西锣鼓
+          - 中国佛教名山
+          - 五台山、普陀山、峨眉山、九华山
+          - 皇家首相府
+          - 中国宫殿
+          - 山西民间传统服饰
+        - 旅游实用技能
+          - Travel Arrangements
+          - Hotel Accommodation
+          - Food & Drink
+          - Transportation
+          - Sightseeing & Culture
+          - Shopping
+          - Recreational Activities
+          - Handling Problems & Complaints
+          - Cultural Link Traveling
+          - Cultural Link Choose the Best Accommodation
+          - Cultural Link History of “Buffet”
+          - Cultural Link Airplane Travel
+          - Cultural Link The Culture of Tipping
+          - Cultural Link Shopping for Souvenirs
+          - Cultural Link The Importance of Recreation
+          - Cultural Link Handling the Complaints
+      - 机械行业英语
+        - 基本工具与设备
+          - Hand_Tools
+          - Fasteners
+          - Power_Tools
+          - Bench_and_Machinery
+          - Gauges_and_Meters
+          - Electrical_System
+          - Ignition_System
+          - Fuel_System
+          - Lubrication_System
+          - Exhaust_System
+          - Cooling_System
+          - Brake_System
+          - Steering_System
+          - Suspension_System
+          - Transmission_System
+          - Differentials_and_Joints
+          - Basic_Electricity
+          - Electrical_Tools_and_Equipment
+        - 车辆知识
+          - Car_Types
+          - Exterior_Car_Parts
+          - Interior_Car_Parts
+          - Tires
+          - Internal_Combustion_Engine
+          - Diesel_vs_Gasoline
+          - Two-stroke_Engine
+          - Four-stroke_Engine
+          - Hybrids
+          - Electric_Cars
+          - Troubleshooting_Problems
+          - Motorcycle_Parts
+        - 维修与操作
+          - Basic_Actions
+          - Materials
+          - Numbers
+          - Measurements
+          - Shop_Practices
+          - Common_Problems
+          - Heating
+          - Ventilation
+          - Air_Conditioning_and_Refrigeration
+          - Farm_Machines
+          - Construction_and_Demolition_Machines
+          - Welding
+          - Frame_Repair
+          - Refinishing
+      - 文秘行业英语
+        - 办公室管理
+          - Office Supplies
+          - Office Furniture
+          - Reference Books
+          - Office Machinery
+          - Office Documents
+          - Filing Equipment
+          - Filing Systems
+          - Record-keeping
+          - Office Routines
+          - Using Computers
+          - Word Processing
+          - Meetings
+          - Conferences
+          - Conference Equipment
+          - Company Activities
+          - Administrative Assistant
+          - Employment
+          - Business Transactions
+          - Agendas
+          - Meetings Minutes
+          - The Mail
+          - Official Letters
+          - Telecommunications
+          - Business Abbreviations
+          - Money
+          - Banking
+          - Wages
+          - Bookkeeping
+          - Requests for Payment
+      - 医学与护理
+        - 护理知识
+          - 医院人员名录
+          - 医院部门宣传册
+          - 病房和设备清单
+          - 人体指南
+          - 血液循环系统海报
+          - 呼吸系统海报
+          - 消化系统患者总结
+          - 体格检查指南
+          - 识别症状海报
+          - 疼痛评估表
+          - 药物信息清单
+          - 实用护士职位列表
+          - 注册护士报纸文章
+          - 护士执业者文章
+          - 营养宣传册
+          - 卫生海报
+          - 给药医院程序
+          - 患者入院表
+          - 生命体征患者状况检查表
+          - 事故、紧急情况和急救海报
+          - 伤口护理手册
+          - 医学标本和检测医学报告
+          - 出院患者出院表
+          - 产科护理手册
+          - 儿科护理网页
+          - 外科护理发布
+          - 家庭卫生护理宣传册
+          - 公共卫生护理活动日程
+          - 代理护理广告
+          - 班次和时间报纸文章
+          - 与患者及家属沟通备忘录
+          - 慢性病与急性病文章
+          - 糖尿病小册子
+          - 癌症网页
+          - 心脏病海报
+          - 创伤与分诊护理指南
+          - 与员工沟通电子邮件
+          - 静脉护理笔记
+          - 为手术准备患者清单
+          - 预防感染传单
+          - 产科/妇科护理小册子
+          - 老年护理宣传册
+          - 精神病学护理文章
+          - 临终护理网页
+      - 会计与金融
+        - 会计知识
+          - 会计行业工作
+          - 数字图表
+          - 办公材料与发票
+          - 电子工具与提案
+          - 会计周期与博客
+          - 美国通用会计准则与国际会计准则委员会
+          - 收益表与杂志文章
+          - 资产负债表与杂志文章
+          - 现金流量表与现金流量表/期刊文章
+          - 描述变化与报告
+          - 从财务报表中获取信息与电子邮件
+          - 透支与银行通知
+          - 成本与杂志文章
+          - 税收与广告
+          - 折旧与备忘录
+          - 后台管理与期刊文章
+          - 会计指导原则与教科书文章
+          - 会计主管与职位广告
+          - 现金与流动性与期刊文章
+          - 无形资产与杂志文章
+          - 展示损益表与声明/备忘录
+          - 内部控制防范错误与盗窃与期刊文章
+          - 权责发生制会计 - 非现金账户与教科书文章
+          - 未付费用与教科书文章
+          - 杠杆 - 好还是坏? 与杂志文章
+          - 变动费用与报告
+          - 期末程序与电子邮件
+          - 会计软件与广告
+          - 报告非常规收益与损失与期刊文章
+          - 利润是否合乎道德与文章
+          - 会计语言与杂志文章
+          - 分析资产负债表与杂志文章
+          - 欺诈与杂志文章
+          - 偿债能力与电子邮件
+          - 直接与间接成本与教科书文章
+          - 预算与教科书文章
+          - 审计与信件
+          - 盈亏平衡点与电子邮件
+          - 全球化与期刊文章
+          - 与客户沟通与博客
+          - 生存能力与电子邮件
+          - 购买还是租赁? 与杂志文章
+          - 避税天堂与广告
+          - 税务会计与宣传资料
+          - 会计的未来与期刊文章
+      - 阅读与写作技巧
+        - 词汇学习
+          - 词汇学习
+          - 同音异义词、同义词、反义词和同形异音词
+          - 上下文中的词汇和派生词
+      - 英语文学与诗歌
+        - 美国诗歌传统
+          - 爱默生与美国诗歌传统
+          - 拉尔夫·沃尔多·爱默生
+          - 沃尔特·惠特曼
+          - 罗伯特·弗罗斯特
+          - 威廉·卡洛斯·威廉斯
+          - 查尔斯·奥尔森
+          - 美国诗歌
+          - 意象主义
+          - 自然
+          - 诗人角色
+      - 免疫学
+        - 免疫基本概念
+          - 免疫的概念
+          - 免疫学的兴起与发展
+          - 影响抗原免疫原性的因素
+          - 抗原的特异性与交叉反应
+          - 抗原的种类
+        - 免疫球蛋白
+          - 佐剂
+          - 免疫球蛋白的结构
+          - 免疫球蛋白的免疫原性
+          - 各类免疫球蛋白的特性和功能
+          - 抗体的生物学作用
+          - 人工制备抗体
+        - 补体系统
+          - 补体系统概述
+          - 补体系统的激活
+          - 补体活化的调控
+          - 补体的生物学作用
+        - 免疫器官与细胞
+          - 免疫器官
+          - 免疫细胞
+          - 人类MHC的基因结构
+          - HLA的遗传特点
+          - HLA分子的结构､分布和功能
+          - HLA的医学意义
+        - 免疫应答
+          - 细胞因子
+          - 白细胞分化抗原和黏附分子
+          - 适应性免疫应答的基本过程
+          - 免疫应答的抗原识别
+          - B细胞介导的免疫应答
+          - T细胞介导的免疫应答
+          - 抗细菌免疫
+          - 抗病毒免疫
+          - 抗真菌免疫
+          - 抗寄生虫免疫
+        - 超敏反应
+          - Ⅰ型超敏反应
+          - Ⅱ型超敏反应
+          - Ⅲ型超敏反应
+          - Ⅳ型超敏反应
+        - 免疫检测与治疗
+          - 免疫检测
+          - 免疫预防
+          - 免疫治疗
+          - 肿瘤免疫
+          - 免疫缺陷病
+          - 自身免疫病
+        - 微生物与病原微生物
+          - 微生物的发现与发展
+          - 正常菌群
+          - 微生态平衡与失调
+          - 细菌的形态
+          - 细菌的结构
+          - 细菌的形态检查法
+          - 细菌的生长繁殖与代谢
+          - 细菌的人工培养
+          - 细菌变异的类型与现象
+          - 细菌遗传变异的物质基础
+          - 遗传型变异发生的机制
+          - 遗传与变异在医学中的应用
+          - 细菌的致病性
+          - 感染的发展
+          - 细菌感染的检查程序
+          - 医院内感染及控制
+          - 消毒与灭菌的概念
+          - 物理消毒灭菌法
+          - 化学消毒灭菌法
+          - 生物因素对细菌的影响
+          - 葡萄球菌属
+          - 链球菌属
+          - 肠球菌属
+          - 奈瑟菌属
+          - 肠杆菌
+          - 弧菌属
+          - 空肠弯曲菌
+          - 幽门螺杆菌
+          - 结核分枝杆菌
+          - 麻风分枝杆菌
+          - 白喉棒状杆菌
+          - 嗜肺军团菌
+          - 炭疽杆菌
+          - 鼠疫耶尔森菌
+          - 布鲁菌
+          - 厌氧芽胞梭菌属
+          - 无芽胞厌氧菌
+          - 铜绿假单胞菌
+          - 流感嗜血杆菌
+          - 百日咳鲍特菌
+          - 梅毒螺旋体
+          - 钩端螺旋体
+          - 立克次体
+          - 衣原体
+          - 支原体
+          - 放线菌
+          - 病毒的形态结构及化学组成
+          - 病毒的增殖与干扰现象
+          - 理化因素对病毒的影响
+          - 病毒的致病性
+          - 病毒感染的实验室检查
+          - 病毒感染的防治原则
+          - 流行性感冒病毒
+          - 麻疹病毒
+          - 腮腺炎病毒
+          - 风疹病毒
+          - SARS冠状病毒
+          - 脊髓灰质炎病毒
+          - 柯萨奇病毒､埃可病毒与新型肠道病毒
+          - 急性胃肠炎病毒
+          - 甲型肝炎病毒
+          - 乙型肝炎病毒
+          - 丙型肝炎病毒
+          - 其他类型肝炎病毒
+          - 单纯疱疹病毒
+          - 水痘-带状疱疹病毒
+          - 巨细胞病毒
+          - EB病毒
+          - 人类疱疹病毒6型和7型
+          - 流行性乙型脑炎病毒
+          - 登革病毒
+          - 汉坦病毒
+          - 人类免疫缺陷病毒
+          - 人类嗜T细胞病毒
+          - 狂犬病毒
+          - 人乳头瘤病毒
+          - 真菌概述
+          - 主要病原性真菌
+          - 真菌感染的微生物学检查
+          - 真菌感染的防治原则
+          - 原虫形态及生理
+          - 原虫生活史类型
+          - 溶组织内阿米巴
+          - 其他阿米巴
+          - 杜氏利什曼原虫
+          - 蓝氏贾第鞭毛虫
+          - 阴道毛滴虫
+          - 疟原虫
+          - 刚地弓形虫
+          - 华支睾吸虫
+          - 布氏姜片吸虫
+          - 肝片形吸虫
+          - 并殖吸虫
+          - 日本裂体吸虫(日本血吸虫)
+          - 链状带绦虫
+          - 肥胖带绦虫
+          - 曼氏迭宫绦虫
+          - 细粒棘球绦虫
+          - 似蚓蛔线虫
+          - 钩虫
+          - 旋毛形线虫
+          - 丝虫
+          - 其他线虫
+          - 蜱
+          - 蠕形螨
+          - 疥螨
+          - 蚊
+          - 蝇
+          - 其他常见昆虫
+      - 汽车行业
+        - 汽车制造与设计
+          - 汽车内饰
+          - 仪表盘和计量器
+          - 汽车外观
+          - 轮胎
+          - 配置选项
+          - 轿车与SUV
+          - 卡车与货车
+          - 豪华与运动汽车
+          - 商用车
+          - 内燃机
+          - 四冲程发动机
+          - 汽油与柴油发动机
+          - 燃油效率与排放
+          - 混合动力汽车
+          - 电动汽车
+          - 制动系统
+          - 转向系统
+          - 安全特性
+          - 制造集团
+          - 汽车设计
+          - 制造过程
+          - 自动化
+        - 汽车销售与服务
+          - 汽车运输
+          - 分销
+      - 生物与农业行业
+        - 生物技术与应用
+          - 公司结构
+          - 制药公司
+          - 转基因生物
+          - 巧克力的基因秘密
+          - 癌症治疗与生物技术
+          - DNA
+          - 生物燃料
+          - 新型航空燃料
+          - 酶
+          - 微生物应用
+          - 生物产品销售
+          - 售后服务
+          - 生物技术进展
+          - 生物技术专业毕业生职业选择
+          - 中国生物技术的主要成就
+        - 农业知识与技术
+          - 农业历史
+          - 植物与动物产品
+          - 土壤与水资源
+          - 种子与植物生长
+          - 收获与储存
+          - 饲料与营养
+          - 动物住房与繁殖
+          - 屠宰与加工
+          - 种植与耕作设备
+          - 收获设备
+          - 牛肉与猪肉产业
+          - 家禽与乳制品产业
+          - 绵羊与马匹产业
+          - 养蜂业
+          - 土壤分类与组成
+          - 盐分与酸碱度
+          - 氮循环
+          - 土壤保护
+          - 种植制度
+          - 生长季节
+          - 杂草、害虫与疾病
+          - 诊断作物问题
+          - 农业企业管理
+          - 国际贸易
+          - 期货市场
+          - 可持续农业
+          - 技术进步
+          - 有机农业
+          - 转基因生物
+        - 农业经济与市场
+          - 定价
+          - 政府干预
+          - 动物行为
+          - 动物健康
+          - 动物与谷物
+      - 建筑行业
+        - 建筑工程与设计
+          - 设计过程
+          - 伦敦千禧塔
+          - 基础工程
+          - 德国区域供暖再思考
+          - 实体墙与隔墙
+          - 香港银行
+          - 实木地板与木制地板
+          - Nullifire系统
+          - 屋顶结构
+          - 计算机在建筑中的应用
+          - 预制建筑
+          - 高效节能废水处理技术
+          - 分包合同
+          - 现场管理
+          - 交通隧道建设
+          - 绘图
+          - 电子邮件
+          - 索赔与反索赔
+          - 现代道路
+          - 项目成本差异
+          - 传真消息
+          - 施工进度
+      - 地理与文化
+        - 国家与地区
+          - 新西兰
+          - 美国
+          - 加拿大
+          - 印度
+          - 撒哈拉沙漠
+          - 尼罗河
+          - 斯威士兰
+          - 北欧
+          - 尤利乌斯·凯撒
+          - 汉尼拔
+          - 马达加斯加
+          - 安第斯山脉
+          - 瑞士
+          - 阿拉斯加
+          - 巴黎
+          - 火星
+        - 社会与政治
+          - 政治体系
+          - 教育
+          - 经济
+          - 国际关系
+          - 多元文化
+          - 妇女解放运动
+          - 社会问题
+          - 环境问题与环保运动
+          - 外交政策
+    - 法语
+      - 法语基础与交流
+        - 问候语与自我介绍
+        - 询问与提供个人信息
+        - 日常交流
+        - 数字与时间
+        - 购物与价格
+        - 食物与餐厅
+        - 天气与日常生活
+        - 学校与学习
+        - 课余活动
+        - 寻找住房
+        - 旅行与交通
+        - 体育与爱好
+        - 电影与娱乐
+        - 节日与庆祝
+      - 法语语法与结构
+        - 代词
+        - 动词时态与语态
+        - 形容词与副词
+        - 宾语代词的顺序
+        - 间接引语
+        - 关系代词
+        - 副动词
+        - 不定式过去时
+        - 先将来时
+        - 结构 ce qui et ce qui/ce que
+      - 法国文化与社会
+        - 法国文化
+        - 法国节假日
+        - 法国教育
+        - 法国农业
+        - 法国银行服务
+        - 社会保障
+        - 法国中小学教育
+        - 法国高等教育
+        - 法国人与运动
+        - 法国学校假期
+        - 法国职业社会
+        - 圣女贞德
+        - 经济危机
+        - 保护地球
+        - 动物保护
+        - 保护我们的遗产
+        - 创造美好的未来
+      - 法语学习与提高
+        - 学习外语的方法
+        - 不同的学习方法
+        - 职业生涯的开始
+        - 个人学校经历
+        - 制作精美的简历
+        - 面试技巧
+        - 新工作方式的出现
+        - 罢工和抗议活动
+        - 人际交往
+        - 教育娱乐
+        - 文化社会
+        - 单词表
+      - 法语休闲与生活
+        - 法语休闲时光
+        - 度假
+        - 享受阅读
+        - 去电影院
+        - 生活的多样性
+        - 健康
+        - 家庭生活
+        - 节日计划
+        - 服务
+        - 事件
+      - 文化与社会
+        - 饮食
+        - 法国年轻人
+        - 处世哲学
+        - 妇女与家庭
+        - 电影艺术
+        - 阅读与书籍
+        - 健康
+        - 儿童睡眠的重要性
+        - 社会
+        - 关爱地球
+        - 艺术
+        - 文学
+        - 伊索寓言
+        - 生活教育
+        - 品格教育
+        - 教孩子分享
+        - 孔融让梨
+        - Assurer sa santé
+        - Assurer son logement
+        - Assurer le travail
+        - Assurer le loisir
+        - Le français de débat
+        - Le français de bénévolat
+        - Le français de stage
+        - Le français de soutenance
+        - Visiter les expositions
+        - Profiter de loisirs
+        - Déguster de la gastronomie
+        - Suivre la mode
+        - Bénéficier des pédagogies du numérique
+        - Maîtriser les nouvelles technologies
+        - Appliquer les logiciels de traduction
+        - Se profiter des innovations sociales
+        - Les instants loisirs
+        - Les vacances
+        - La lecture
+        - Le cinéma
+        - La vie variée
+        - La vie scolaire
+        - Apprendre une langue étrangère
+        - Apprendre… autrement
+        - La vie professionnelle
+        - Le parcours scolaire
+        - Faire un CV
+        - L'entretien
+        - Les nouveaux modes d'emploi
+        - Les grèves et manifestations
+        - Protéger la planète
+        - Les animaux
+        - Le patrimoine
+        - Créer un avenir
+      - 教育与科技
+        - 信息科学
+        - 法国教育
+        - 科学
+        - 智能手机如何改善儿童学习
+        - 艾萨克·牛顿
+        - 大学日语教学指南(2021版）
+        - 大学俄语教学指南（2021版）
+        - 大学通用俄语（第二版）1
+        - 新大学法语1（第三版）教学参考书
+        - 直通法国留学教程——听力与会话4
+        - 直通法国留学教程——听力与会话3
+      - 国际组织与合作
+        - 联合国
+        - 联合国教科文组织
+        - 世界卫生组织
+        - 国际奥林匹克委员会
+        - 上合组织
+        - 欧盟
+        - 非洲联盟
+        - 经济组织
+    - 翻译
+      - 翻译与语言研究
+        - 翻译研究
+        - 《三字经》英译课堂
+        - 翻译理论
+          - 词层翻译
+          - 句层翻译
+          - 话语层翻译
+          - 小句转换单位
+          - 英汉话语建构类型
+          - 话语翻译认知模型
+          - 互文性翻译
+          - 归化/异化翻译
+          - 大翻译与文化记忆
+        - 翻译实践
+          - 杜甫《秋兴》诗互文性
+          - 《红楼梦》英译得失
+          - 耶鲁解构学派互文性研究
+          - 梁启超小说翻译
+          - 鲁迅翻译
+          - 硬译与易解
+          - 文化记忆与翻译研究
+          - 中国形象建构与传播
+        - 教育与翻译
+          - 翻译作为教育行为
+          - 早期清华案例研究
+          - 文学革命
+      - 英语演讲与辩论
+        - 演讲技巧
+          - Planning a Persuasive Speech
+          - Outlining Your Persuasion
+          - Logos—Rational Appeal
+          - Pathos—Emotional Appeal
+          - Ethos—Credibility Appeal
+          - Persuasion on Questions of Value
+          - Persuasion on Questions of Policy
+        - 辩论技巧
+          - Basics of Debate
+          - Definition of Motion
+          - Evidence and Status Quo
+          - Case Building in Debate
+          - Constructive Speech in Debate
+          - Clash and Refutation in Debate
+          - Concluding Speech in Debate
+          - Questioning and Team Skills in Debate
+      - 旅游职业英语
+        - 旅游业务
+          - 旅行社
+          - 预订与交通
+          - 景点
+          - 导游
+          - 接待
+          - 客房服务与客房整理
+          - 娱乐与会议服务
+          - 处理投诉
+        - 口笔译实务
+          - 口译实务
+          - 笔译实务
+          - 文化与技能沙龙
+      - 英语泛读
+        - 金融与经济
+          - 金融生涯
+          - 银行业
+          - 国际货币基金组织与世界银行
+          - 谈判基本原则
+          - 税收
+          - 关税
+          - 金融原理
+          - 银行理论中的作用
+          - 布雷顿森林体系
+        - 企业管理与创业
+          - 自主创业
+          - 世界贸易组织
+          - 贸易壁垒
+          - 人力资源
+          - 索尼的人际关系
+          - 公共关系（PR）
+          - 公司（第一部分）
+          - 股票与股票市场（第一部分）
+          - 公司（第二部分）
+          - 股票与股票市场（第二部分）
+        - 职场与技能
+          - 学徒制
+          - 广告真实性
+          - 电子商务
+          - 信用卡
+          - 阅读技巧一
+          - 阅读技巧二
+          - 阅读技巧三
+          - 伦敦大火
+          - 办公室自动化
+          - 无纸化办公室
+          - 世界上第一家保险公司
+          - 未来职场趋势
+          - 全球企业管理
+          - SOHO的快乐生活
+          - IBM的转型 - 从生存到成功
+          - 成功企业家的特质
+          - 首席执行官
+          - 拒绝转化为职业
+          - 时间管理
+          - 雅皮士
+          - 感恩是一种伟大的投资
+          - 成绩提升
+          - 奖学金
+      - 文化与教育
+        - 中西文化比较
+        - 儒家思想
+        - 文化身份和文化形象
+        - 中西价值观比较
+        - 国学与汉学
+        - Education
+        - Broad Education
+        - How Education Promotes Success
+      - 个人成长与职业
+        - First Job
+        - Your First Job
+        - Treasured Memory
+        - A Payment Greater Than Money
+        - My Mother’s Desk
+        - 为人子
+        - 子不学
+        - 养不教
+        - 苟不教
+        - 曰士农
+        - 曰仁义
+      - 科技与互联网
+        - The Internet
+        - E-pals
+      - 体育与竞技
+        - Sports Hero
+        - Michael Jordan
+        - Tragic Heroes of Sports
+        - Business Competition
+        - Thank the Competition
+        - Battle of the Colas
+      - 历史与哲学
+        - 中西文化与哲学
+        - 中西经济与社会
+        - 中西文学比较
+        - 有古文
+        - 若广学
+        - 礼乐射
+        - 惟书学
+        - 凡训蒙
+        - 为学者
+        - 论语者
+        - 孟子者
+        - 作中庸
+        - 作大学
+        - 孝经通
+        - 诗书易
+        - 有连山
+        - 有典谟
+        - 我周公
+        - 大小戴
+        - 曰国风
+        - 诗既亡
+        - 三传者
+        - 经既明
+        - 五子者
+        - 经子通
+        - 自羲农
+        - 唐有虞
+        - 夏有禹
+        - 夏传子
+        - 汤伐夏
+        - 周武王
+        - 周辙东
+        - 始春秋
+        - 嬴秦氏
+        - 高祖兴
+        - 光武兴
+        - 魏蜀吴
+        - 宋齐继
+        - 北元魏
+        - 迨至隋
+        - 唐高祖
+        - 二十传
+        - 梁唐晋
+        - 炎宋兴
+        - 辽与金
+        - 舆图广
+        - 太祖兴
+        - 迨成祖
+        - 阉祸后
+        - 古今史
+        - 史虽繁
+        - 后汉三
+        - 读史者
+        - 口而诵
+        - 昔仲尼
+        - 赵中令
+        - 披蒲编
+        - 头悬梁
+        - 如囊萤
+        - 如负薪
+        - 苏老泉
+        - 彼既老
+        - 若梁灏
+        - 彼既成
+        - 莹八岁
+        - 彼颖悟
+        - 蔡文姬
+        - 彼女子
+        - 唐刘晏
+        - 彼虽幼
+        - 犬守夜
+        - 蚕吐丝
+        - 幼而学
+        - 扬名声
+        - 人遗子
+        - 勤有功
+      - 情感与生活
+        - Coping with Crisis
+        - Turn a Failure into Success
+        - 香九龄
+        - 融四岁
+        - 首孝悌
+        - 一而十
+        - 三才者
+        - 三纲者
+        - 曰春夏
+        - 曰南北
+        - 曰水火
+        - 十干者
+        - 曰黄道
+        - 赤道下
+        - 寒燠均
+        - 曰江河
+        - 曰岱华
+        - 稻粱菽
+        - 马牛羊
+        - 曰喜怒
+        - 青赤黄
+        - 酸苦甘
+        - 膻焦香
+        - 匏土革
+        - 曰平上
+        - 高曾祖
+        - 自子孙
+        - 父子恩
+        - 长幼序
+        - 此十义
+        - 斩齐衰

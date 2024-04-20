@@ -1,0 +1,2514 @@
+- 统计学类
+  - 理学
+    - 数据科学
+      - 动态系统与非线性系统
+        - 线性与非线性动态系统
+        - 二次非线性系统
+        - 向量场与流
+        - 系统稳定性与分岔
+      - 贝叶斯推断与统计模型
+        - 贝叶斯推断方法
+        - 计算方法与软件包
+        - 混合效应与时空模型
+        - 非高斯数据处理
+        - 生存分析与预测
+      - 金融优化与风险管理
+        - 优化模型与算法
+        - 资产负债管理
+        - 投资组合优化
+        - 风险测度与鲁棒优化
+      - 代数曲线与编码理论
+        - 代数环与域扩张
+        - 有限域与代数曲线
+        - 曲线的算术与几何
+        - 纠错码与信息安全
+        - 整数与多项式
+        - 数论基础
+        - 代数方程与根
+        - 集合与概率
+        - 向量空间与基
+        - 线性变换与矩阵表示
+        - 特殊矩阵与性质
+        - 行列式与张量积
+        - 内积空间与正交性
+        - 特征值与特征向量
+        - 矩阵分解与范数
+        - Householder变换与三角化
+        - 值域与不变子空间
+        - 图与矩阵
+      - 统计学基础
+        - 基本概念
+          - 紧集
+          - 函数的连续性
+          - 连通性
+          - Peano曲线
+          - 凸函数
+          - Cantor集
+          - 数字系统
+          - Cantor-Lebesgue函数
+          - 距离空间
+          - 不动点定理
+          - Newton迭代法
+          - 压缩映射定理
+          - 迭代函数系统IFS
+          - Hausdorff距离
+          - 不变集
+          - 自相似和相似的分形例子
+          - 相似变换迭代函数系统
+        - 样本与总体
+        - 分布与估计
+          - 参数估计
+            - 点估计
+            - 区间估计
+            - 最小二乘估计
+            - Bayes 估计
+          - 假设检验
+            - 显著性检验
+              - Fisher 显著性检验
+              - Neyman-Pearson 引理
+              - 假设检验方法
+            - 最大功效检验
+            - p 值
+          - 分布检验
+            - 正态性检验
+            - Pearson _2 拟合优度检验
+            - 列联表的独立性检验
+            - Kolmogorov 检验
+        - 数据初步分析
+          - 直方图
+          - 茎叶图
+          - 五数概括
+          - 盒子图
+          - 试验结果直观分析
+          - 方差分析
+          - 回归分析
+          - 有交互作用正交设计
+          - 最优回归设计
+          - 信息矩阵
+          - 回归设计最优准则
+          - 等价性定理
+          - D-最优设计
+          - 一元多项式模型
+          - 多元多项式回归模型
+          - 确定性D-最优设计构造方法
+          - KL算法
+          - 最优回归设计其他准则
+          - D_s-最优
+          - E-最优
+          - A-最优
+          - 均匀设计计算机试验应用
+          - 计算机试验设计注记
+          - 微分方程数值解
+          - 动力系统概念
+          - Lyapunov稳定性
+          - Lyapunov直接法
+          - 平面平衡点分析
+          - 周期轨道与Poincare映射
+          - 平面Hamilton系统
+        - 抽样与分布
+          - 抽样分布
+          - 充分统计量
+          - 数据初步分析
+        - 统计方法
+          - 经验分布函数
+          - 完备统计量
+          - 信息不等式及有效估计
+          - 相合估计
+          - 无偏估计与一致最小方差无偏估计
+          - 信念推断方法
+      - 统计计算与模拟
+        - 统计模拟
+        - 随机数产生
+        - 随机模拟计算
+        - Bootstrap 和经验似然
+          - Bootstrap 方法
+          - 经验似然简介
+      - 随机分析
+        - 概率与测度
+          - 随机变量的概率分布
+          - 样本统计量的概率分布
+          - 参数估计的基本原理
+          - 总体均值的区间估计
+          - 总体比例的区间估计
+          - 总体方差的区间估计
+          - 样本量的确定
+          - 测度
+          - 勒贝格积分
+          - 概率论基础
+          - 高斯测度
+          - 测度集中
+          - 傅里叶分析
+          - 特征
+          - 卷积
+          - 泊松求和公式
+          - 变量影响
+          - 无限群
+          - 有限群表示
+          - 基本定义和例子
+          - 不可约分解
+          - 正交性
+          - 对称群的不可约表示
+          - 通信复杂性应用
+          - 多项式
+          - 环
+          - 域
+          - 多项式恒等式测试
+          - 插值
+          - 联合
+          - 传染性消失
+          - 代数簇
+          - 理想
+          - 希尔伯特基定理
+          - Nullstellensatz
+          - 平面贝祖等式
+          - 代数簇的更多性质
+          - 连接组件数量的界限
+          - 拓扑学
+          - 拓扑空间
+          - 连续映射
+          - 一般拓扑学
+          - 紧性
+          - 同伦
+          - 同伦等价
+          - Borsuk-Ulam定理
+          - 拓扑空间操作
+          - 单纯复形及其相关
+          - 非嵌入性
+          - 同伦群
+          - 单纯复形的同调
+          - 单纯逼近
+          - 同调不依赖于三角剖分
+          - 流形
+        - 随机变量的收敛性
+        - 条件数学期望
+        - 鞅与伊藤积分
+          - 离散时间鞅
+          - 离散时间鞅不等式与极限定理
+          - 流与停时
+          - 连续时间鞅
+          - 布朗运动
+          - 布朗运动与嵌入定理
+          - 伊藤积分
+          - 二次变差过程
+          - 连续局部鞅的伊藤积分
+          - 伊藤公式
+          - 随机指数
+          - 鞅表示定理
+        - 测度变换与费曼-卡茨公式
+        - 莱维过程与泊松过程
+          - 莱维过程
+          - 泊松过程
+          - 复合泊松过程
+        - 金融统计概要
+      - 统计学原理
+        - 统计学基本概念与发展
+          - 统计学的产生与发展
+          - 统计学的基本概念
+          - 社会经济统计学的研究对象、特点与作用
+          - 统计与统计工作
+          - 中国统计体制
+        - 数据的量化与处理
+          - 数据的概念、量化尺度与分类
+          - 统计调查
+          - 统计报表
+          - 专项调查
+          - 数据整理的含义与步骤
+            - 统计分组
+            - 频数分布
+          - 数据展示
+        - 统计指标与分析
+          - 总量指标
+          - 相对指标
+          - 平均指标
+          - 标志变动指标
+          - 动态数列
+          - 动态分析
+            - 水平指标
+            - 速度指标
+            - 长期趋势分析
+            - 季节波动分析
+          - 统计指数
+            - 基本概念
+            - 个体指数
+            - 综合指数
+            - 平均数指数
+            - 平均指标对比指数
+            - 统计指数体系
+            - 常用价格指数
+        - 抽样调查与误差
+          - 抽样调查概念与程序
+          - 随机抽样的基本概念与理论依据
+          - 抽样误差
+          - 抽样估计
+          - 抽样组织方式
+          - 必要样本容量
+        - 相关关系与回归分析
+          - 相关关系的基本概念
+          - 一元线性相关分析
+          - 一元线性回归分析
+          - 多元线性回归分析
+          - 可线性化的曲线回归分析
+          - 相关分析与回归分析的关系
+      - 群论与代数结构
+      - 图论与随机过程
+        - 扩展图与边展开
+        - 随机游走与随机图
+        - 图的谱性质
+        - 组合筛选与筛分
+      - 数论与几何
+        - 有限子群与群的代数描述
+        - 非集中不等式与筛分性质
+        - Cayley图与群的代数
+        - Hasse-Weil界与Lang-Weil界
+        - 整数与多项式
+        - 数论基础
+        - 代数方程与根
+        - 集合与概率
+      - 线性代数
+        - 特殊线性群与诱导表示
+        - Lie群与Chevalley群
+        - Cartan子代数与根空间
+        - Chevalley基与Casimir算子
+        - 向量空间与基
+        - 线性变换与矩阵表示
+        - 特殊矩阵与性质
+        - 行列式与张量积
+        - 内积空间与正交性
+        - 特征值与特征向量
+        - 矩阵分解与范数
+        - Householder变换与三角化
+        - 值域与不变子空间
+        - 图与矩阵
+        - 行列式与矩阵
+          - 行列式
+          - 矩阵
+          - 逆矩阵
+          - 矩阵的分块
+          - 矩阵的秩
+          - 矩阵的特征值与特征向量
+          - 相似矩阵
+          - 实对称矩阵的对角化
+        - 线性方程组与向量空间
+          - 线性空间的定义与性质
+          - 线性空间的简单性质
+          - 线性空间的同构
+          - 基变换与坐标变换
+          - 线性子空间的交与和
+          - 子空间的性质
+          - 子空间的交
+          - 子空间的和
+          - 线性子空间的直和
+          - 线性映射
+          - 线性映射的概念
+          - 线性映射的性质
+          - 线性映射在基下的矩阵
+          - 线性映射的运算
+          - 线性变换
+          - 定义与性质
+          - 可逆线性映射
+          - 线性变换的运算与矩阵
+          - 线性变换在不同基下矩阵的关系
+          - 线性映射的像与核
+          - 特征值与特征向量
+          - 方阵与线性变换的特征值
+          - 特征值与特征向量的计算
+          - Hamilton-Cayley定理
+          - 相似对角化
+          - 问题的提出
+          - 矩阵的相似
+          - 矩阵的相似对角化
+          - 不变子空间
+          - A－不变子空间
+          - A－子空间分解
+          - 广义特征子空间分解
+          - 对偶空间
+          - Jordan标准形与λ－矩阵
+          - 最小多项式
+          - Jordan-Chevalley分解
+          - 幂零与半单
+          - 中国剩余定理
+          - 循环不变子空间与Jordan标准形
+          - 循环不变子空间
+          - 幂零线性变换的Jordan标准形
+          - 复线性空间上一般线性变换的Jordan标准形
+          - λ－矩阵
+          - λ－矩阵的定义及其基本性质
+          - λ－矩阵的相抵标准形
+          - 相抵标准形的惟一性
+          - 矩阵相似性的判定与有理标准形
+          - 方阵的相似与λ－矩阵的相抵
+          - 矩阵的有理标准形
+          - 初等因子与Jordan标准形
+          - 初等因子
+          - 初等因子组的计算
+          - Jordan标准形
+          - Jordan标准形的应用举例
+      - 概率与统计
+        - 应用场景
+          - 覆盖空间与分支覆盖空间
+          - 曲面上的同伦与同位
+          - 映射类群
+        - 博弈论
+          - 博弈论基础
+          - 广度形式博弈
+          - 正规形式的双人博弈
+          - 零和博弈
+          - 非零和博弈
+          - 纳什均衡与囚徒困境
+          - 简单多人博弈
+          - 权力指数
+      - 数学游戏与博彩
+        - 游戏规则与策略
+          - 西洋双陆棋简介
+          - Chuck-a-Lu
+          - 排列、组合及其应用
+          - 小心计数：顺序重要吗
+        - 投注系统
+          - 加倍杯
+          - 克拉克
+          - 简短的21点突破
+        - 赛马与彩票
+          - 赛马
+          - 彩票与期望
+      - Riemann曲面与拓扑
+        - Riemann曲面理论
+          - Riemann曲面的模空间
+          - 映射类群
+          - 双曲几何
+          - 层叠和 foliations
+          - Nielsen-Thurston 分类定理
+          - Mumford 猜想
+          - Madsen-Weiss 定理
+          - 同调稳定性
+          - Torelli 群
+          - Johnson 同态
+          - Modg,n(p) 的 abelianization
+          - Modg(p) 的第二有理同调群
+          - Tautological 代数
+          - 模空间的 tautological 环
+          - Witten-Kontsevich 定理
+          - Teichmüller 曲线
+          - Hodge 结构变化
+          - 实数乘法
+        - 拓扑与代数
+          - 度量空间
+          - 拓扑空间
+          - 紧集
+          - 连通的拓扑空间
+          - 完备度量空间
+          - 拓扑空间的连续映射
+          - 压缩映射原理
+          - 流形
+          - 微分形式及其在流形上的积分
+          - 流形上的闭微分形式和恰当微分形式
+          - 逐点收敛性与一致收敛性
+          - 函数项级数的一致收敛性
+          - 极限函数的函数性质
+      - 拓扑学与流形
+        - 高级概念
+          - 范畴等价
+          - 连接和
+          - Schönflies定理
+          - 主但可约的3-流形
+          - 不可压缩曲面
+          - Dehn引理
+          - 层次结构
+          - Seifert纤维化空间
+          - JSJ分解
+          - 3-流形中的结与链
+          - Reidemeister移动
+          - 基本构造
+          - 结不变量
+          - 动物学
+          - 辫子
+          - Alexander多项式
+          - 结与高度函数
+          - 结群
+          - 覆盖空间
+          - 单纯复形
+          - 法向曲面
+          - Diophantine系统
+          - 2-球面
+          - 主分解
+          - 识别算法
+          - PL最小曲面
+          - Heegaard分解
+          - 柄分解
+          - Heegaard图
+          - 可约性与稳定化
+          - Waldhausen定理
+          - 结构定理
+          - Rubinstein-Scharlemann图
+          - 弱可约性与不可压缩曲面
+          - 广义Heegaard分解
+          - Heegaard基因与基本群的秩
+          - 基本双曲几何
+          - 双曲n-流形
+          - Dehn手术I
+          - Dehn手术II
+          - foliations
+          - 层压板
+          - Curve Complex
+      - 复分析
+        - Riemannian Metrics
+        - Complex Analysis
+        - Conformal Metrics and Curvature
+        - Poincaré Metric
+        - Ahlfors–Schwarz Lemma
+        - Picard’s Theorems
+        - Bergman Kernel
+        - Bergman Projection
+        - Painlevé’s Conformal Mapping Theorem
+        - Analytic Number Theory
+        - Jacobi’s Two- and Four-Square Theorems
+        - Dirichlet Series
+        - Riemann Zeta and Dirichlet L-Function
+        - Dirichlet’s Prime Progression Theorem
+        - Prime Number Theorem
+        - Ordinary Differential Equations
+        - Monodromy
+        - Linear ODEs
+        - Punctured Disks
+        - Hypergeometric Functions
+        - Bessel and Airy Functions
+        - Nonlinear ODEs
+        - Integral Representation
+        - Asymptotic Methods
+        - Asymptotic Series
+        - Laplace’s Method
+        - Gaussian Approximation
+        - Watson’s Lemma
+        - Method of Stationary Phase
+        - Method of Steepest Descent
+        - WKB Approximation
+        - Univalent Functions
+        - Loewner Evolution
+        - Slit Domains
+        - SLE: A First Glimpse
+        - Nevanlinna Theory
+        - First Main Theorem
+        - Cartan’s Identity
+        - Second Main Theorem
+        - Ahlfors’ Proof of the SMT
+      - 随机过程
+        - 数学性质
+          - 条件数学期望
+          - 随机事件发生条件下的分布与数学期望
+          - 关于随机变量的条件数学期望
+          - 条件数学期望的推广与一般化
+          - 特征函数
+          - 拉普拉斯变换
+          - 概率母函数
+          - 收敛性与极限定理
+          - 三类收敛性
+          - 博雷尔-坎泰利引理
+          - 柯西基本列
+          - 收敛的简单性质
+        - 马尔可夫链
+          - 马尔可夫链与转移概率矩阵
+          - 条件独立与马尔可夫链
+          - 马尔可夫链的等价刻画
+          - 转移概率矩阵与查普曼--柯尔莫哥洛夫方程
+          - 状态分类
+          - 互通、本质与不可约
+          - 周期性
+          - 常返与非常返
+          - 首访概率与时间
+          - 访问概率与分布
+          - 平均访问时间
+          - 正常返与平稳分布
+          - 正常返与零常返
+          - 平稳分布
+          - 遍历性定理
+          - 可逆马尔可夫链与蒙特卡罗模拟
+          - 可逆马尔可夫链
+          - 马尔可夫链蒙特卡罗方法
+      - 复分析与复数理论
+        - 复数与基本性质
+        - 复数的进一步研究
+        - 解析函数与积分
+        - 复变函数的拓扑与几何
+      - 代数几何
+        - 概形与态射
+          - 概形与态射的局部性质
+          - 基变换与平坦性
+          - 平坦模层与忠实平坦模层
+          - 平坦态射的拓扑性质
+          - 广泛开态射与平坦态射
+          - 模层性质的保持
+          - 态射的集合论性质和拓扑性质的保持
+          - 1 维正则基概形
+          - 支承素轮圈与准素分解
+          - 平坦性条件的关系
+          - 层F/tF的性质
+          - 代数概形的基域变换
+          - 代数概形的维数
+          - 几何不可约概形与连通概形
+          - 几何既约的代数概形
+          - 准素分解的重数
+          - 自定义域
+          - 局部Noether 概形中的维数，深度和正则性
+          - 模层的支集的维数与Hilbert 多项式
+          - 态射的像的维数
+          - 有限型态射的维数公式
+          - 维数公式和广泛匀垂环
+          - 深度与(Sk) 性质
+          - 正则概形与(Rk) 性质
+          - Z 纯净模层与Z 封闭模层
+          - (S2) 性质与Z 封包
+          - 凝聚性判别法
+          - Noether 局部环A 和商环A/tA 的性质之间的关系
+          - 局部Noether 概形之间的平坦态射
+          - 平坦性条件与投射维数
+          - 平坦性条件与深度
+          - 平坦性条件与(Sk) 性质
+          - 平坦性条件与(Rk) 性质
+          - 传递性
+          - 全盘正则态射
+          - 总体平坦性定理
+          - 沿着闭子概形法向平坦的模层的维数和深度
+          - Noether 局部环和它的完备化之间的关系
+          - 分层解析均维环
+          - 分层严格解析均维环
+          - Noether 局部环的形式纤维
+          - 形式纤维的各种性质的保持情况
+          - P 态射的判别法
+          - 优等环
+          - 优等环与奇异点解消
+      - 微积分与实分析
+        - 实数与微积分基础
+        - 实数空间上的微积分
+        - 实分析的一些结果
+        - 实数的极限与连续性
+      - 几何与拓扑
+      - 线性动态系统与编码
+        - 线性动态系统
+        - 人口群模型
+        - 线性码与纠错码
+      - 数值方法与特殊矩阵
+        - 数值范围与凸性
+        - 同时三角化
+        - 循环矩阵与块循环矩阵
+        - 零一矩阵与图论
+        - 双随机矩阵与Birkhoff定理
+        - Ryser定理与块设计
+        - 有限射影平面
+        - 二次型与Witt消去定理
+        - Hadamard矩阵
+      - 数学分析
+        - Lebesgue测度与积分
+        - 空间Cm(Ω)和Cm(Ω)
+        - 空间Lp与Lebesgue空间Lp(Ω)
+        - 变分原理与极小极大方法
+        - 非线性边值问题与分歧
+        - 非线性常微分方程解的存在性
+        - 积分与级数
+        - 线性偏微分方程
+        - Sobolev空间与Hilbert空间
+        - 变分不等式与二次极小化问题
+        - 非线性弹性与松弛
+        - 自由非连续问题与相变问题
+        - Morse理论与形变定理
+        - Hamilton系统与周期轨道
+        - 级数与极限
+          - 级数的收敛性
+          - 正项级数
+          - 一般项级数
+          - 一致收敛性
+          - 一致收敛函数列与函数项级数的性质
+          - 幂级数与幂级数的性质
+          - 函数的幂级数展开
+          - 傅里叶级数与周期函数的傅里叶展开
+          - 二元函数的极限
+        - 函数与微分
+          - Sierpiński三角形
+          - Vitali覆盖引理
+          - Newton位势
+          - 质量分布
+          - 有界变差函数
+          - 可求长度曲线
+          - 绝对连续函数
+          - 高维可求长度集合
+          - 高维有界变差函数
+          - 连续函数稠密性
+          - 有界凸集合边界测度
+          - Brouwer定理
+          - 光滑函数行列式
+          - 零化Lagrange泛函
+          - 连续函数光滑逼近
+        - 积分与应用
+          - 含参量正常积分
+          - 含参量反常积分
+          - 欧拉积分
+          - 第一型曲线积分
+          - 第二型曲线积分
+          - 二重积分的概念
+          - 直角坐标系下二重积分的计算
+          - 格林公式•曲线积分与路线的无关性
+          - 二重积分的变量变换
+          - 三重积分
+          - 重积分的应用
+          - n重积分
+          - 反常二重积分
+          - 第一型曲面积分
+          - 第二型曲面积分
+          - 高斯公式与斯托克斯公式
+          - 场论初步
+          - n维欧氏空间与向量函数
+          - 向量函数的微分
+          - 反函数定理和隐函数定理
+      - 数学与统计学
+        - Hamiltonian理论与应用
+          - Quantization
+          - Hamiltonian cobordism ring
+          - Equivariant vector bundles
+          - Kawasaki Riemann-Roch formula
+          - Atiyah-Bott-Berline-Vergne localization formula
+          - The linearization theorem
+          - Polarizations
+          - Kahler reduction
+          - Complex Del zant construction
+          - Spin°-structures
+          - Proper actions of Lie groups
+          - Cobordism invariance of the index of a transversally elliptic operator
+          - Equivariant cohomology
+          - Stable complex structures
+          - Non-degenerate cobordisms
+          - Dolbeault Quantization
+          - Geometric quantization
+          - Hamiltonian cobordism
+          - Reduction
+          - Spin°quantization
+          - Characteristic classes
+          - Group actions and equivariant cohomology
+          - Abstract moment maps
+          - Stable complex quantization
+          - Duistermaat-Heckman and Guillemin-Lerman-Sternberg formulas
+          - Riemann-Roch formula
+          - Hamiltonian group actions
+          - (Pre-)symplectic reduction
+          - Kirillov-Kostant pre-quantization
+        - 紧闭包理论
+          - Regular Rings
+          - Test Elements
+          - Uniform Art in-Rees Theorems
+          - Direct Summands
+          - Applications of Big Cohen-Macaulay Algebras
+          - Tight Closure
+          - Hilbert-Kunz Multiplicity
+          - Colon-Capturing
+          - Regular Base Change
+          - Rational Singularities
+          - Persistence of Tight Closure
+          - Big Cohen-Macaulay Algebras
+          - Integral Closure
+          - Phantom Homology
+          - Basic Notions
+          - Localization Problem
+          - Tight Closure in Equal Characteristic Zero
+          - F-Rational Rings
+        - Fourier分析及其应用
+          - 装配传动机构
+          - 制作多边凹凸模
+          - 装配固定连接
+          - 装调液压缸与液压阀
+          - 攻螺纹和套螺纹
+          - 装调C620-1车床主
+          - 分度板装配
+          - 孔加工
+          - 制作装配体
+          - 模板镶配
+          - 制作冲模
+          - 总装配CA6140卧式车床
+          - 装调CA6140车床尾座
+          - 刮削与研磨
+          - 角度变位配
+          - 长方转位对配
+          - 錾削、锯削与锉削
+          - 制作进给凸轮
+          - 制作燕尾镶配件
+          - 零件划线
+          - 制作五角合套
+          - 装调M1432A型外圆磨床头架
+          - 装调M2110A内圆磨床磨具
+          - 矫正、弯形和铆接
+      - 概率论与数理统计
+        - 概率论基础
+          - 概率论语言
+          - 样本空间与事件
+          - 概率测度
+          - 有限与可数样本空间
+          - 概率论在可数空间上
+          - 均匀概率与抛硬币
+          - 锦标赛
+          - 对称随机游走
+          - 德莫ivre中心极限定理
+          - 独立事件
+          - 反正弦律
+          - 条件概率
+          - 非均匀概率测度
+          - 随机变量及其分布
+          - 偏硬币
+          - 随机游走的复发与暂态
+          - 期望值
+          - 基本示例
+          - 独立性与矩生成函数
+          - 基本收敛结果
+          - 概率论在不可数样本空间上
+          - 一点测度论
+          - σ代数、可测函数和测度
+          - Π-和Λ-系统
+          - {0, 1}Z+的度量空间
+          - {0, 1}Z+的概率构造
+          - 其他概率测度
+          - 区间[0, 1]上的均匀概率测度
+          - 实数域R上的Lebesgue测度
+          - 分布函数与概率测度
+          - Lebesgue积分
+          - 函数积分
+          - Lebesgue积分的一些性质
+          - 基本收敛定理
+          - 不等式
+          - Fubini定理
+          - RN上的Lebesgue测度
+          - 极坐标
+          - 高斯计算与Stirling公式
+          - 概率论的一些应用
+        - 数理统计
+          - 统计学和概率论
+          - 统计学三大分布的推导
+          - $[0,1]$ 中数的\ $g$ 进制展开与概率论
+          - 切比雪夫不等式与大数定律的证明
+          - 强大数定律证明途径评述
+          - 参数估计与假设检验
+          - 回归分析与因子试验的方差分析
+      - 统计分布
+        - 随机变量
+          - 独立随机变量
+          - 条件
+          - 条件期望的一些性质
+          - 具有密度的分布
+          - 密度
+          - 密度与条件
+          - 独立随机变量之和
+          - 分布的卷积
+          - 一些重要示例
+          - Kolmogorov不等式与强律
+          - 中心极限定理
+          - Lindeberg定理
+          - 正态随机变量族
+          - 多维正态分布
+          - 标准正态随机变量
+          - 更一般的正态随机变量
+          - 正态分布的集中性质
+          - 正态随机变量的线性变换
+          - 正态家族
+        - 分布类型
+          - 离散型均匀分布
+          - 两点分布
+          - 二项分布
+          - 泊松分布
+          - 超几何分布
+          - 几何分布
+          - 负二项分布
+          - 有限区间上的均匀分布
+          - 韦布尔分布
+          - 伽玛分布
+          - 贝塔分布
+          - 幂函数分布
+          - 柯西分布
+          - 逻辑斯谛分布
+          - 极值分布
+          - 拉普拉斯分布
+        - 分布参数估计和检验
+          - 分布参数的估计和检验
+          - 计算统计分布的R函数
+          - 求离散型分布矩的方法
+          - 正态分布及其有关分布
+          - 对数正态分布
+          - chi^2分布
+          - chi分布
+          - t分布
+          - F分布
+          - 非中心chi^2分布
+          - 非中心t分布
+          - 非中心F分布
+          - 最大似然估计
+          - 分布拟合检验
+          - 皮尔逊的chi^2检验
+          - 经验分布函数
+          - 柯尔莫哥洛夫检验
+          - 斯米尔诺夫检验
+          - A^2和W^2检验
+          - 参数未知的A^2和W^2检验
+        - 多元分布
+          - 多元分布
+          - 多项分布
+          - 多元超几何分布
+          - 多元负二项分布
+          - 多元正态分布
+          - 狄利克雷分布
+      - 应用统计学
+        - 数据获取与展示
+          - 统计及其应用领域
+          - 怎样获得统计数据
+          - 统计与计算机
+          - 用图表展示类别数据
+          - 用图表展示定量数据
+          - 合理使用图表
+        - 描述性统计
+          - 数据描述性分析
+          - 一维数据的数字特征
+          - 表示位置的数字特征
+          - 表示分散性的数字特征
+          - 表示分布形状的数字特征
+          - 数据的分布
+          - 直方图
+          - 经验分布函数
+          - QQ图
+          - 茎叶图
+          - 分布拟合检验
+          - 正态性检验
+        - 假设检验
+          - 假设检验的基本原理
+          - 总体均值的检验
+          - 总体比例的检验
+          - 总体方差的检验
+          - 一个类别变量的拟合优度检验
+          - 两个类别变量的独立性检验
+          - 两个类别变量的相关性度量
+        - 回归分析与预测
+          - 变量间关系的度量
+          - 一元线性回归
+          - 利用回归方程进行预测
+          - 时间序列的成分和预测方法
+          - 平稳序列的预测
+          - 趋势预测
+          - 多成分序列的预测
+        - 指数编制
+          - 指数的含义与分类
+          - 加权指数的编制
+          - 几种常用的价格指数
+      - 代数与环论
+        - 群论
+          - 现代代数起源
+          - 群的定义与性质
+          - 子群与同态
+          - 置换群与对称群
+          - 拓扑群与自由群
+          - 群作用与轨道
+          - 群表示与循环群
+          - p-群与Sylow定理
+        - 环论
+          - 环的定义与性质
+          - 环的子结构
+          - 环的同态与商
+          - 环的直和与张量积
+          - 环的乘积与自由模
+          - 环的理想与同态
+          - 环的有限性条件
+        - 域论
+          - 域与代数扩张
+          - 特征与素域
+          - 有限域与扩张
+          - 可分性与范数
+          - 伽罗瓦理论
+      - 线性代数与动力系统
+        - 线性系统
+          - 线性微分方程
+          - 线性差分方程
+          - 线性动态系统
+          - Lyapunov指数
+          - Grassmannians上的线性系统
+          - 线性空间的定义与性质
+          - 线性空间的简单性质
+          - 线性空间的同构
+          - 基变换与坐标变换
+          - 线性子空间的交与和
+          - 子空间的性质
+          - 子空间的交
+          - 子空间的和
+          - 线性子空间的直和
+          - 线性映射
+          - 线性映射的概念
+          - 线性映射的性质
+          - 线性映射在基下的矩阵
+          - 线性映射的运算
+          - 线性变换
+          - 定义与性质
+          - 可逆线性映射
+          - 线性变换的运算与矩阵
+          - 线性变换在不同基下矩阵的关系
+          - 线性映射的像与核
+          - 特征值与特征向量
+          - 方阵与线性变换的特征值
+          - 特征值与特征向量的计算
+          - Hamilton-Cayley定理
+          - 相似对角化
+          - 问题的提出
+          - 矩阵的相似
+          - 矩阵的相似对角化
+          - 不变子空间
+          - A－不变子空间
+          - A－子空间分解
+          - 广义特征子空间分解
+          - 对偶空间
+          - Jordan标准形与λ－矩阵
+          - 最小多项式
+          - Jordan-Chevalley分解
+          - 幂零与半单
+          - 中国剩余定理
+          - 循环不变子空间与Jordan标准形
+          - 循环不变子空间
+          - 幂零线性变换的Jordan标准形
+          - 复线性空间上一般线性变换的Jordan标准形
+          - λ－矩阵
+          - λ－矩阵的定义及其基本性质
+          - λ－矩阵的相抵标准形
+          - 相抵标准形的惟一性
+          - 矩阵相似性的判定与有理标准形
+          - 方阵的相似与λ－矩阵的相抵
+          - 矩阵的有理标准形
+          - 初等因子与Jordan标准形
+          - 初等因子
+          - 初等因子组的计算
+          - Jordan标准形
+          - Jordan标准形的应用举例
+        - 动力系统
+          - 链式传递性
+          - 极限集与链式递归集
+          - Morse分解
+          - 吸引子与遍历理论
+          - 不变测度与随机线性动态系统
+      - 调和分析
+        - 傅里叶分析
+          - 傅里叶级数与变换
+          - 求和核与卷积
+          - 不确定性原理
+          - 多重傅里叶级数
+          - 哈代空间与BMO
+          - 奇异积分与分数积分
+        - 泛函分析
+          - Maximal and Birkhoff Ergodic Theorems
+          - Applications of Ergodic Theorems
+          - Subadditive Ergodic Theorem and Lyapunov Behavior
+          - Martingale Inequalities and Convergence
+          - Christ–Kiselev Maximal Inequality
+          - H2
+          - First Factorization (Riesz) and Hp
+          - Caratheodory Functions and Herglotz Representation
+          - Conjugate Functions and M. Riesz’s Theorem
+          - Lieb–Thirring and Cwikel–Lieb–Rosenblum Inequalities
+          - Restriction to Submanifolds
+          - Lorentz Spaces and Real Interpolation
+          - Hardy-Littlewood–Sobolev and Stein–Weiss Inequalities
+          - Sobolev Spaces
+          - Sobolev and Rellich–Kondrachov Embedding Theorems
+          - Calderon–Zygmund Method
+          - Pseudodifferential Operators on Sobolev Spaces
+          - Calderon–Vaillancourt Theorem
+          - Hypercontractivity and Logarithmic Sobolev Inequalities
+      - 地理空间健康数据与建模
+        - 疾病制图与空间数据分析
+          - 地理空间健康数据
+          - 疾病制图
+          - 空间数据类型
+          - 坐标参考系统
+          - shapefiles
+          - R软件包制作地图
+          - 贝叶斯推断
+          - 积分嵌套拉普拉斯近似
+          - R-INLA软件包
+          - 线性预测因子
+          - inla()函数
+          - 先验的指定
+          - 近似计算的控制变量
+          - 空间邻域矩阵
+          - 标准化发病率
+          - 小区域疾病风险估计
+          - 时空小区域疾病风险估计
+          - 区域数据的问题
+          - 苏格兰唇癌数据
+          - 相对风险地图绘制
+          - 超额概率
+          - 俄亥俄州肺癌数据
+          - SIR时间图
+          - 地理统计数据
+          - 高斯随机场
+          - 随机偏微分方程法
+          - 巴西Paraná州降雨空间模型
+          - 冈比亚疟疾数据
+          - 疟疾感染率地图
+          - 西班牙空气污染数据
+          - 空气污染预测地图
+        - 可视化与交互式应用
+          - R Markdown
+          - YAML
+          - Markdown语法
+          - R代码块
+          - 图形
+          - 表格
+          - flexdashboard
+          - 全球空气污染可视化仪表盘
+          - Shiny应用程序
+          - 输入
+          - 输出
+          - 反应性
+          - HTML内容
+          - 布局
+          - 上传和可视化时空数据
+          - SpatialEpiApp
+          - 疾病监测
+      - 离散优化与算法
+        - 离散优化问题与算法
+          - 离散优化
+          - 经典问题
+          - 算法简介
+          - 图论
+          - 线性规划
+          - 最小生成树问题
+          - 经典算法
+          - 最小生成树与线性规划
+          - 最小树形图
+          - Steiner树问题
+          - 贪心算法
+          - 拟阵
+          - 贪心算法的正确性
+          - 最短路问题
+          - 无圈有向图
+          - 非负费用
+          - 网络流问题
+          - 最大流问题
+          - 增广路的寻找方法
+          - 二部图的匹配
+          - Menger定理
+          - 有向图中的最优闭包问题
+          - 多商品流问题
+          - 匹配问题
+          - 匹配与交错路
+          - 一般图的匹配
+          - 最小权完美匹配
+          - 中国邮递员问题
+          - Euler环游
+          - 无向图上的中国邮递员问题
+          - 有向图上的中国邮递员问题
+          - 随机算法
+          - 边割问题
+          - 最大-适定性问题
+          - 素数判定问题
+        - 计算复杂性与近似算法
+          - 计算复杂性理论
+          - 多项式时间归约
+          - P与NP类
+          - NP-完全问题
+          - 近似算法
+          - 顶点覆盖问题
+          - 旅行售货商问题
+          - 背包问题
+      - 复杂系统建模与数学问题
+        - 复杂系统建模
+          - Bezier曲线基础应用
+          - 布鲁塞尔器的复杂周期演化
+          - 连续小波变换在振动冲击系统中的间歇性和准周期过渡到混沌分析
+          - 旋转流体中孤子的复杂动力学
+          - 具有内生碳强度的气候-经济模型
+          - 制裁下的受监管市场：石油、黄金和德黑兰证券交易所指数之间的尾部依赖
+          - 受气候变化影响的水资源受限经济体动力学：非线性和随机效应
+          - 可变阶分数最优控制问题的高效运算矩阵技术
+          - 用广义多项式求解非线性可变阶时间分数对流-扩散方程
+          - 某些抛物线方程系统的反问题
+          - 具有漂移的某些非弗雷德霍姆算子的序列意义解
+      - 二维二次非线性系统
+        - 系统类型与动力学
+          - Two-Dimensional Linear-Bivariate Linear Systems
+          - Single-Linear-Bivariate Quadratic Systems
+          - Linear-Bivariate Quadratic Dynamics
+          - Linear-Bivariate Product Quadratic Systems
+          - Nonlinear-Bivariate Quadratic Systems
+      - 偏微分方程控制
+        - 控制理论
+          - Carleman Estimates
+          - Saturated Boundary Stabilization
+          - Control-Lyapunov Functions
+          - State Observation
+          - Stochastic Partial Differential Equations
+          - Kalman’s Rank Condition
+          - Asymptotic Synchronization
+          - Second Order Dissipative Systems
+      - 数据分析方法
+        - 多维数据与回归分析
+          - 多维数据的数字特征及相关分析
+          - 二维数据的数字特征
+          - 相关系数
+          - 多维数据的数字特征
+          - 相关矩阵
+          - 总体数字特征
+          - 多维正态分布
+          - 回归分析
+          - 线性回归模型
+          - 参数估计
+          - 回归方程的显著性检验
+          - 回归系数的统计推断
+          - 预测
+          - 假设检验的一般方法
+          - 残差分析
+          - 误差项的正态性检验
+          - 残差图分析
+          - Box Cox变换
+          - 回归方程的选取
+          - 穷举法
+          - 逐步回归法
+          - Logistic回归模型
+          - 参数的最大似然估计
+          - Newton-Raphson迭代解法
+          - Logistic回归的统计推断
+        - 方差分析与多元统计分析
+          - 方差分析
+          - 单因素方差分析
+          - 两因素等重复试验下的方差分析
+          - 两因素非重复试验下的方差分析
+          - 主成分分析
+          - 典型相关分析
+          - 判别分析
+          - 距离判别
+          - Bayes判别
+          - 聚类分析
+          - 样品间相近性的度量
+          - 快速聚类法
+          - 谱系聚类法
+          - 类间距离
+          - 变量聚类
+        - 统计推断与Bayes统计分析
+          - Bayes统计分析
+          - Bayes统计模型
+          - Bayes统计推断原则
+          - 先验分布
+          - 共轭先验分布
+          - Bayes点估计
+          - Bayes区间估计
+          - Bayes假设检验
+        - 统计软件应用
+          - SAS软件
+          - SAS基础知识
+          - SAS过程
+          - 描述性统计分析
+          - 线性回归分析
+          - Logistic回归分析
+          - 方差分析
+          - 主成分分析
+          - 典型相关分析
+          - 判别分析
+          - 矩阵语言程序设计
+      - 混沌系统与动力学
+        - 混沌系统
+          - 运动状态的切换性
+          - Hamiltonian
+          - 映射
+          - 标准映射
+          - Fermi–Ulam模型
+          - 弹跳模型
+          - 混合Fermi–Ulam弹跳模型
+          - 映射族
+          - 混沌扩散现象
+          - 半现象学描述
+          - 扩散方程解
+          - 连续相变特征
+          - 耗散标准映射
+          - 从有限到无限扩散的转变特征
+          - 带有移动边界的弹珠模型
+          - 椭圆形弹珠中的无限扩散速度
+          - 费米加速抑制
+          - 耗散动力学
+          - 长时动力学
+          - 时间依赖制度
+          - 现象学结果讨论
+          - 时间平均
+          - 临界指数确定
+          - 速度分布
+          - 相变元素
+          - 相变抑制
+          - 能量增益无限抑制
+      - Kähler Geometry
+        - Complex manifolds
+        - Almost complex structures
+        - Hermitian and Kähler metrics
+        - Covariant derivatives and curvature
+        - Vector bundles
+        - Connections and curvature of line bundles
+        - Line bundles and projective embeddings
+        - Harmonic functions on Rn
+        - Elliptic differential operators
+        - Schauder estimates
+        - The Laplace operator on Kähler manifolds
+        - Kähler-Einstein Metrics
+          - The strategy
+          - The C0- and C2-estimates
+          - The C3- and higher-order estimates
+          - The case c1(M) = 0
+          - Extremal Metrics
+          - The Calabi functional
+          - Holomorphic vector fields and the Futaki invariant
+          - The Mabuchi functional and geodesics
+          - Extremal metrics on a ruled surface
+          - Toric manifolds
+          - Moment Maps and Geometric Invariant Theory
+            - Moment maps
+            - Geometric invariant theory (GIT)
+            - The Hilbert-Mumford criterion
+            - The Kempf-Ness theorem
+            - Relative stability
+            - K-stability
+            - The scalar curvature as a moment map
+            - The Hilbert polynomial and flat limits
+            - Test-configurations and K-stability
+            - Automorphisms and relative K-stability
+            - Relative K-stability of a ruled surface
+          - Filtrations
+          - Toric varieties
+        - The Bergman Kernel
+          - Proof of the asymptotic expansion
+          - The equivariant Bergman kernel
+          - The algebraic and geometric Futaki invariants
+          - Lower bounds on the Calabi functional
+          - The partial C0-estimate
+        - CscK Metrics on Blow-ups
+          - The basic strategy
+          - Analysis in weighted spaces
+          - Solving the non-linear equation when n > 2
+          - The case when n = 2
+          - The case when M admits holomorphic vector fields
+          - K-stability of cscK manifolds
+      - 常微分方程
+        - 基本概念与线性方程
+        - 存在与唯一性
+        - 解的附加属性
+        - 连续场的解存在性
+        - 相位图
+        - 流形上的方程
+        - 线性方程与共轭
+        - 非自伴线性方程
+        - 常系数方程
+        - 参数变化公式
+        - 周期系数方程
+        - 线性方程之间的共轭
+        - 稳定性与李亚普诺夫函数
+        - 线性方程的稳定性
+        - 非线性扰动下的稳定性
+        - 李亚普诺夫函数
+        - 超定性与拓扑共轭
+        - 临界点的超定性
+        - Grobman–Hartman定理
+        - Hölder共轭
+        - 结构稳定性
+        - 不变流形的存在性
+        - Hadamard–Perron定理
+        - Lipschitz不变流形
+        - 不变流形的正则性
+        - 平面中的方程
+        - 指标理论
+        - 平面向量场的指标
+        - 指标概念的应用
+        - 孤立临界点的指标
+        - Poincaré–Bendixson理论
+        - 极限集
+        - Poincaré–Bendixson定理
+        - 分岔与中心流形
+        - 分岔理论简介
+        - 中心流形及应用
+        - 正规形理论
+      - 哈密顿系统
+        - 基本概念
+        - 线性哈密顿系统
+        - 平衡稳定性
+        - 可积性与作用角度坐标
+        - KAM定理
+      - 数学基础
+        - 实分析和函数论
+        - 集合与映射
+        - 拓扑空间及其性质
+        - 赋范向量空间与相关定理
+        - 内积空间与Hilbert空间
+        - 泛函分析
+        - Banach空间及其性质
+        - 紧性和有限维赋范向量空间
+        - 线性算子与多重线性映射
+        - 凸集与凸函数
+        - 度量空间与紧性
+        - 线性与非线性泛函分析
+      - 数学史与逻辑
+        - 近世数学史
+        - 人因结构与逻辑
+        - 通用学习问题与结构搜寻
+        - 熵与大脑中的数学流
+        - 问题与世界和心智
+      - 非线性离散系统中的分岔与稳定性
+        - 局部稳定性与分岔
+          - 固定点与稳定性
+          - 局部分岔
+          - 稳定性切换
+          - 单调与振荡稳定性
+          - 螺旋稳定性
+        - 高维离散系统
+          - 低维离散系统
+          - 一维离散系统
+          - 二维离散系统
+        - 分岔类型
+          - 鞍点分岔
+            - 鞍点出现分岔
+            - 鞍点切换分岔
+            - 三阶单调汇分岔
+            - 三阶单调源分岔
+          - 内马克分岔
+        - 离散系统分类与计算
+          - 离散系统分类
+          - 固定点全局稳定性
+            - 一固定点系统
+            - 两固定点系统
+            - 三固定点系统
+          - 正向与反向离散系统
+            - 正向离散系统
+            - 反向离散系统
+          - 阴阳离散理论
+          - 固定点计算
+            - 正则形式
+            - 无限固定点系统
+            - 一无限固定点系统
+            - 二无限固定点系统
+            - 高阶无限固定点系统
+            - 无限固定点网络系统
+      - 动力系统与映射
+        - 标度律
+        - 稳定性与固定点
+          - 渐近稳定固定点
+          - 中性稳定性
+          - 不稳定固定点
+        - Logistic映射
+          - Logistic映射的固定点
+          - Logistic映射的动态特性
+          - 收敛到稳态
+          - 倍周期分岔路线
+          - 通过倍周期分岔通往混沌
+          - 切线分岔现象
+        - 其他映射
+          - Hassell映射
+          - Maynard映射
+          - 二维映射简介
+          - 线性映射
+          - 非线性映射
+          - 二维映射的应用
+          - Hénon映射
+          - Ikeda映射
+          - Fermi加速器模式
+          - Fermi-Ulam模型
+          - 间接碰撞的雅可比矩阵
+          - 直接碰撞的雅可比矩阵
+          - 固定点
+          - 相空间
+          - 相空间测度保持
+          - Fermi-Ulam模型的简化版本
+          - 混沌区域的标度特性
+          - 第一不变跨度曲线的定位
+          - 增长区域
+          - 耗散现象
+          - 通过非弹性碰撞的耗散
+          - 直接碰撞的雅可比矩阵（耗散）
+          - 间接碰撞的雅可比矩阵（耗散）
+          - 相空间（耗散）
+          - 流形的构建
+          - 流形穿越与暂态确定
+          - 从鞍点的特征值确定δ指数
+          - 阻力耗散
+          - 类型F = −˜η的阻力
+          - 类型F = ±˜η的阻力
+          - 类型F = −˜ηv的阻力
+          - 弹跳模型的动态特性
+          - 完整版的弹跳模型
+          - 连续碰撞
+          - 间接碰撞
+          - 雅可比矩阵（弹跳模型）
+          - 相空间（弹跳模型）
+          - 弹跳模型的简化版本
+          - 弹跳模型简化版本的数值研究
+          - 连续时间的近似
+          - 不变跨度曲线的定位
+          - 相空间中的重新缩放
+          - 非耗散映射中的混沌扩散
+          - 离散映射族
+          - 混沌海的动态特性：现象学描述
+          - 半现象学方法
+          - 通过扩散方程求解概率
+          - 耗散标准映射的标度
+          - 扩散方程的解
+          - 特定限制
+      - 比尔雅德动力学
+        - 椭圆形比尔雅德
+          - 椭圆形比尔雅德
+          - 椭圆形比尔雅德的时变版本
+          - 椭圆形比尔雅德的LRA猜想
+          - 卵形比尔雅德
+          - Fermi加速器在卵形比尔雅德中的抑制
+          - 模型与映射
+          - F ∝ −V情况下的结果
+          - F ∝ ±V2情况下的结果
+          - F ∝ −Vδ情况下的结果
+          - 时变比尔雅德的热力学模型
+          - 动机
+          - 热传递
+          - 比尔雅德形式化
+          - 稳态
+          - 动态模式
+          - 数值模拟
+          - n次平均速度
+          - 临界指数
+          - 速度分布
+          - 两个形式化之间的联系
+          - 时间依赖卵形比尔雅德中t和n之间的联系
+      - 分析与拓扑
+        - 调和分析
+          - Notation and Terminology
+          - Real Analysis Results
+          - Complex Analysis Results
+          - Green’s Theorem
+          - Pointwise Convergence Almost Everywhere
+          - Maximal Functions
+          - Distribution Functions
+          - Weak-L1 and Interpolation
+          - Harmonic Functions
+          - Subharmonic Functions
+          - Eremenko–Sodin Proof of Picard’s Theorem
+          - Perron’s Method and Dirichlet Problem
+          - Spherical Harmonics
+          - Potential Theory
+          - Polynomials and Potential Theory
+          - Harmonic Function Theory of Riemann Surfaces
+          - Uncertainty Principle
+          - Wavefront Sets and Products of Distributions
+          - Microlocal Analysis
+          - Boundary Value Measures
+          - Homogeneous Spaces and Fourier Series Convergence
+          - Boundary Values of Analytic Functions in Upper Half-Plane
+          - Tauberian Theorems
+        - 微分几何
+          - 微分几何
+          - 曲线
+          - 曲面
+          - 流形
+          - Frenet曲线
+          - 平面曲线
+          - 空间曲线
+          - 曲率与扭率关系
+          - Frenet方程
+          - 局部曲线理论基本定理
+          - Minkowski空间中的曲线
+          - 全局曲线理论
+          - 表面元素
+          - 第一基本形式
+          - Gauss映射
+          - 表面曲率
+          - 旋转表面
+          - 规则表面
+          - 最小表面
+          - Minkowski空间中的表面
+          - IRn+1中的超曲面
+          - 协变导数
+          - 平行位移
+          - 测地线
+          - Gauss方程
+          - Theorema Egregium
+          - 局部表面理论基本定理
+          - 特殊参数下的高斯曲率
+          - Gauss-Bonnet定理
+          - 曲面全局理论选题
+          - Riemannian流形
+          - 切空间
+          - Riemannian度量
+          - Riemannian连接
+          - 曲率张量
+          - 截面曲率
+          - Ricci张量
+          - Einstein张量
+          - 常曲率空间
+          - 双曲空间
+          - 测地线与Jacobi场
+          - 空间形式问题
+          - 三维欧几里得与球面空间形式
+          - Weyl张量
+          - 四维流形的对偶性与Petrov类型
+      - 随机过程与极限理论
+        - Markov链与过程
+          - 离散参数随机过程
+          - 随机游走回顾
+          - 即时回报
+          - 通过条件计算
+          - 具有Markov性质的过程
+          - 依赖随机变量序列
+          - Markov链
+          - 长期行为
+          - 一个扩展
+          - 可数状态空间上的Markov链
+          - Markov性质
+          - 返回时间与更新方程
+          - 一点遍历理论
+          - 连续时间过程
+          - 转移概率函数与Markov过程
+          - 转移概率函数
+          - 用泊松钟运行的Markov链
+          - 简单泊松过程
+          - 一个推广
+        - Martingale与极限理论
+          - Martingale
+          - 离散参数Martingale
+          - Doob不等式
+          - Martingale收敛定理
+          - 收敛定理
+          - 应用于Radon-Nikodym定理
+          - 停止时间
+          - 停止时间定理
+          - 逆Martingale
+          - 可交换序列
+          - 连续参数Martingale
+          - 逐步可测函数
+          - Martingale与Submartingale
+          - 再次讨论停止时间
+          - 连续Martingale与布朗运动
+        - 布朗运动与微分方程
+          - 布朗运动
+          - 一些预备知识
+          - Lévy构造
+          - 布朗运动的基本性质
+          - 路径性质
+          - Ornstein-Uhlenbeck过程
+      - 网络渗流与模型
+        - 网络基本概念
+        - 网络模型
+        - 经典渗流模型
+        - 相变与临界现象
+        - 有限尺度标度律
+        - 分形与重整化
+        - 无向网络渗流
+        - 有向网络
+        - 爆炸渗流
+        - 依赖渗流
+        - 数值模拟方法
+        - 渗流过程模拟
+        - 数据分析与处理
+        - 随机性
+        - 传播模型
+        - 网络上的免疫
+        - 经典渗流与网络鲁棒性
+        - 随机攻击
+        - 蓄意攻击
+        - 局域攻击
+        - 依赖渗流与传播过程
+        - 阈值模型
+        - 信息传播模型
+        - 投票模型
+        - 依赖渗流与级联过程
+        - k核渗流
+        - 靴襻渗流
+        - 非局域关联渗流
+        - 多层网络上的渗流
+        - 双层相依网络渗流
+        - 多层扩展渗流模型
+        - 渗流过程其他应用
+        - k派系渗流与社团发现
+        - 城市交通
+        - 博弈理论
+      - 黎曼几何与不变量理论
+        - Hodge理论
+        - 和乐群
+        - 非紧非负曲率流行
+        - Gauss-Bonnet定理
+        - 黎曼流形的收敛性
+        - 超代数 Super[J4]
+        - 构造 Super[A]
+        - 张量积
+        - 余积 A
+        - 协合律
+        - 拉普拉斯配对
+        - 四元代数
+        - 拉普拉斯配对的例子
+        - 两个词的表格
+        - 标准基定理
+        - 跨度
+        - 双线性 Z 值形式
+        - Gale-Ryser 插值矩阵
+        - 不变理论
+        - GLn(K) 在 Super[L | P) 上的作用
+        - 伞线线性泛函
+        - 第一基本定理
+        - 协变项
+        - 经典群
+        - 斜对称张量
+        - Meet
+        - 协变项例子
+        - 不变量例子
+      - 算子理论
+        - 算子基础与性质
+          - 算子基础
+          - 拓扑与特殊类算子
+          - 紧算子
+          - 紧算子基础
+          - 希尔伯特-施密特定理
+          - 里斯-舍德尔定理
+          - 林德罗斯结构定理
+          - 奇异值与典范分解
+          - 迹与迹类
+          - 迹理想
+          - 希尔伯特-施密特算子
+          - 舒尔基与舒尔-拉莱斯科-韦伊不等式
+          - 行列式与弗雷德霍姆理论
+          - 具有连续积分核的算子
+          - 利茨基定理
+          - 正则化行列式
+          - 韦伊的不变量定理
+          - 弗雷德霍姆算子及其指数
+          - 正交多项式
+          - 实线上的正交多项式与法瓦德定理
+          - 博赫纳-布伦克定理
+          - L2-和L∞-变分原理：切比雪夫多项式
+          - 单位圆上的正交多项式：维尔布鲁斯基与舍格奥定理
+          - 多重性理论
+          - 秩一扰动
+          - 迹类与希尔伯特-施密特扰动
+        - 谱理论
+          - 谱
+          - 解析函数计算法
+          - 平方根引理与极分解
+          - 希尔伯特-施密特定理
+          - 谱定理
+          - 循环向量
+          - 谱定理的证明
+          - 酉算子的谱定理
+          - 自伴正常算子
+          - 谱定理的其他证明
+        - 巴拿赫代数与表示论
+          - 巴拿赫代数
+          - 巴拿赫代数基础与例子
+          - 盖尔范德谱与盖尔范德变换
+          - 对称反演
+          - 交换的盖尔范德-奈马克定理与有界正常算子的谱定理
+          - 紧化
+          - 几乎周期函数
+          - GNS构造与非交换盖尔范德-奈马克定理
+          - 局部紧群的表示
+          - LCA群上的傅里叶分析
+          - 函数代数简介
+          - L1(R) Wiener与Ingham Tauberian定理
+          - 通过Tauberian定理的素数定理
+        - 无界自伴算子
+          - 无界自伴算子
+          - 基本定义与自伴性的基本准则
+          - 无界算子的谱定理
+          - 斯通定理
+          - 冯诺伊曼自伴扩张理论
+          - 二次型方法
+          - 点态正性与半群方法
+          - 自伴性与矩问题
+          - 紧扰动、秩一扰动与迹类扰动
+          - 伯曼-施温格原理
+      - 泛函分析
+        - 有限维与无穷维空间
+          - 有限维空间的坐标分解和算子分解
+          - 无穷维空间的类比和联想
+          - 无穷维空间的坐标分解
+          - 无穷维空间的线性算子与谱分解
+        - 距离空间与赋范空间
+          - 距离空间的基本概念
+          - 开集和连续映射
+          - 闭集 可分性 列紧性
+          - 完备的距离空间
+          - 完备距离空间的性质和一些应用
+          - 赋范空间的基本概念
+          - 完备的赋范空间
+          - 赋范空间的几何结构
+          - 有限维的赋范空间
+          - 赋范空间的进一步性质
+        - 内积空间与正交性
+          - 内积空间的基本性质
+          - 正交与正交分解
+          - 正交系 正交投影和 Fourier 级数
+          - 正交基和正交列的完备性
+          - 可分的 Hilbert 空间
+        - 线性算子与共轭空间
+          - 有界线性算子与有界线性泛函
+          - 有界线性算子空间的收敛与完备性
+          - 一致有界原则
+          - 开映射定理与逆算子定理
+          - 闭算子与闭图像定理
+          - Hahn-Banach 定理
+          - 共轭空间
+      - 大数据分析与应用
+        - 数据分析方法
+          - 试验结果直观分析
+          - 方差分析
+          - 回归分析
+          - 有交互作用正交设计
+          - 最优回归设计
+          - 信息矩阵
+          - 回归设计最优准则
+          - 等价性定理
+          - D-最优设计
+          - 一元多项式模型
+          - 多元多项式回归模型
+          - 确定性D-最优设计构造方法
+          - KL算法
+          - 最优回归设计其他准则
+          - D_s-最优
+          - E-最优
+          - A-最优
+          - 均匀设计计算机试验应用
+          - 计算机试验设计注记
+          - 微分方程数值解
+          - 动力系统概念
+          - Lyapunov稳定性
+          - Lyapunov直接法
+          - 平面平衡点分析
+          - 周期轨道与Poincare映射
+          - 平面Hamilton系统
+          - 什么是大数据
+          - 数据分析过程
+          - 大数据的数据结构和形式
+          - 数据清洗
+          - 云计算和云存储
+          - 数据可视化
+          - 多元统计分析
+            - 多元线性模型
+            - 多元正态分布
+            - 变量选择
+            - 回归诊断
+            - 回归预测
+            - 广义线性模型
+            - 指数族分布
+            - 二元变量和logistic模型
+            - 分类变量和名义及有序logit模型
+            - 计数变量和Poisson对数线性模型
+            - 列联表和对数线性模型
+            - 聚类分析
+            - 相似性度量
+            - 系统聚类法
+            - k均值聚类法
+            - EM聚类法
+            - 判别分析
+            - 距离判别
+            - Fisher判别
+            - Bayes判别
+            - 二次判别
+          - 概率与统计模型
+            - 线性回归
+            - 线性回归的推广
+            - 逻辑斯谛回归
+            - 判别分类
+            - k最近邻分类
+            - 决策树
+            - Bagging分类
+            - 随机森林分类
+            - AdaBoost算法分类
+            - 支持向量机
+            - 聚类分析
+            - EM算法
+            - 文本分析
+            - 关联规则和推荐系统
+            - 经典降维方法
+            - 正则化方法
+            - 自编码器
+            - 贝叶斯方法在变量选择中的应用
+          - 机器学习与深度学习
+            - 人工智能、机器学习和深度学习的关系
+            - 神经网络
+            - 深度神经网络
+            - 卷积神经网络
+            - 循环神经网络
+            - 强化学习
+            - 无人驾驶汽车
+            - 自然语言处理
+            - 医疗健康
+            - 图神经网络
+            - 推荐系统
+        - 贝叶斯统计
+          - 贝叶斯基本概念
+            - 贝叶斯统计推断基本概念
+            - 贝叶斯统计决策基本概念
+            - 主观概率
+            - 先验信息
+            - 边缘分布
+            - 无信息先验分布
+            - 共轭先验分布
+            - 分层先验(多阶段先验)
+            - 后验分布与充分性
+          - 贝叶斯方法应用
+            - 关于鞅的中心极限定理
+            - 鞅的弱不变原理
+            - Wiener过程及其基本性质
+            - Wiener过程的增量有多大
+            - Wiener过程的重对数律
+            - Skorohod嵌入原理
+            - 强不变原理
+            - B值随机变量的基本性质
+            - Banach空间上的中心极限定理
+            - Banach空间上的大数律
+            - Banach空间上的重对数律
+            - Tracy-Widom分布
+            - Airy过程
+            - 蒙特卡洛抽样方法
+            - 马尔可夫链蒙特卡洛(MCMC)方法简介
+            - Metropolis-Hastings算法
+            - Gibbs抽样方法
+            - R与WinBUGS软件
+        - 概率极限理论
+          - 随机变量与概率分布
+          - 数学期望及其性质
+          - 特征函数及其性质
+          - 分布函数序列与特征函数序列的收敛性
+          - 随机变量序列的收敛性
+          - 鞅的基本概念
+          - 无穷可分分布函数
+          - 独立随机变量和的极限分布
+          - L族和稳定分布族
+          - 独立同分布情形
+          - 独立不同分布情形
+          - 中心极限定理的收敛速度
+          - 大偏差
+          - 弱大数律
+          - 独立随机变量和的收敛性
+          - 强大数律
+          - 完全收敛性
+          - 重对数律
+          - 度量空间上的概率测度
+          - 常见的度量空间上概率测度的弱收敛性
+          - 随机元序列的收敛性
+          - 胎紧性和Prokhorov定理
+          - C[0,1]中概率测度弱收敛
+          - Donsker定理
+          - D[0,1]空间
+          - Skorohod拓扑
+          - D[0,1]中概率测度弱收敛
+          - 经验过程的弱收敛性
+      - 金融数学与随机过程
+        - 随机过程与偏微分方程
+          - 随机过程基本知识
+          - 几个常用的随机过程
+          - Itô公式
+          - Feynman-Kac公式
+          - 动态规划原理
+          - 偏微分方程的基本知识
+          - 函数空间
+          - 二阶线性抛物型方程的先验估计和存在定理
+          - 二阶退化偏微分方程与边界条件(Fichera定理)
+          - Black-Scholes方程和公式
+          - 一些有用的定理
+          - 不动点定理
+          - 几个收敛定理
+          - Hopf原理
+        - 金融衍生品与数值计算
+          - 经典的自由边界问题
+          - 障碍问题
+          - 椭圆障碍问题
+          - 抛物障碍问题
+          - 变分不等式
+          - Stefan问题(冰水问题)
+          - 模型
+          - 一维问题
+          - 一相Stefan问题解的存在性
+          - 一相Stefan问题自由边界x=s(t)的性质
+          - 守恒形式——Stefan问题的弱形式
+          - 障碍问题与一相Stefan问题的互相转换
+          - 美式期权
+          - 永久美式期权
+          - 带跳的永久美式期权
+          - 具有有限到期日的美式期权
+          - 模型推导
+          - 变分不等式问题的解
+          - 自由边界的性质
+          - 证实定理
+          - 美式期权的数值计算和最佳实施边界的收敛速率
+          - 美式回望期权
+          - 问题(3.3.14)的解的存在唯一性
+          - 美式利率期权
+          - 问题(3.4.7)的解的存在唯一性
+          - 嵌入选择类期权的金融产品
+          - 分期支付期权金的期权
+          - 问题(4.1.12)的解的存在唯一性
+          - 关于自由边界位置的估计
+          - 自由边界的局部光滑性
+          - 自由边界的整体光滑性
+          - 自由边界的非单调性
+          - 自由边界与参数之间的关系
+          - 数值计算结果
+          - 可赎回债券
+          - 模型假设
+          - 现金流
+          - 自由边界问题
+          - 模型扩展——加限制条件的可赎回条款
+          - 数值结果
+          - 可转换债券
+          - 在不同条件下的模型求解和自由边界讨论
+          - 灵活还款方式的贷款
+          - 贷款的现金流分析
+          - 自由边界问题模型
+          - 剩余贷款期望价值解的存在唯一性
+          - 优化投资问题
+          - 带交易费的投资问题
+          - 投资者的问题
+          - 没有交易费时Merton的结论
+          - 有交易费时最优控制模型的推导
+          - 降维
+          - 将梯度约束变换为函数约束
+          - 问题解的存在唯一性和正则性
+          - 等价性
+          - 投资项目的最佳退出问题
+          - 建立模型
+          - 问题(5.2.16)的解的存在唯一性以及最优退出边界的性质
+          - 最优减资边界的特征
+          - 选择最优停止的投资问题
+          - HJB 方程
+          - 对偶变换
+          - 对偶自由边界问题
+          - 原自由边界问题
+          - 对偶变换注意要点
+          - 信用等级变换评估
+          - 同升降等级边界模型
+          - PDE问题
+          - 磨光近似问题
+          - 近似解的估计
+          - 自由边界的近似
+          - 解的存在唯一性
+          - 自由边界的光滑性
+          - 渐近性和行波解
+          - 模型的推广
+          - 异升降等级边界模型
+          - 模型改进
+          - 改进的自由边界问题
+          - 解的渐近形态
+      - 基本粒子与物理学原理
+        - 基本粒子与相互作用
+          - 基本粒子理论
+          - 分类与表格
+          - 各种粒子
+          - 相互作用
+          - 运动学
+          - 叠加原理
+          - 对称性与可观测量
+          - 量子化与二次量子化
+          - 拉格朗日力学
+          - 规范场和规范不变性
+          - 拉格朗日量的结构
+          - 从拉格朗日量到物理实在
+      - 数学理论及其应用
+        - 岩泽理论与p进L函数
+          - 相对Lubin-Tate群
+          - Coleman幂级数
+          - 单位上的测度
+          - 显式互反律
+          - 椭圆单位
+          - Eisenstein数
+          - p进L函数
+          - Kronecker极限公式的p进类比
+          - 函数方程
+          - 主猜想
+          - Iwasawa不变量
+          - 下降法和BSD猜想
+          - Coates-Wiles定理
+          - Greenberg定理
+      - 代数学
+        - 高等代数
+          - 连加
+          - 连乘
+          - 数学归纳法
+          - 映射
+          - 变换
+          - 等价关系
+          - 代数系统
+          - 群的概念
+          - 域的概念
+          - 数域
+          - 整数的算术
+          - Z上的带余除法
+          - 最大公因子
+          - 算术基本定理
+          - 矩阵及其运算
+          - 矩阵的线性运算
+          - 矩阵的乘法
+          - 矩阵的转置
+          - Gauss消元法
+          - 矩阵的初等变换
+          - 初等矩阵
+          - 逆矩阵
+          - 用行初等变换求逆矩阵
+          - 分块矩阵
+          - 行列式
+          - n阶行列式的定义
+          - 行列式的性质与计算
+          - 方阵乘积的行列式
+          - Laplace展开定理
+          - 分块矩阵的初等变换
+          - 矩阵的逆与行列式
+          - 矩阵的秩
+          - 矩阵秩的概念
+          - 矩阵秩的计算
+          - 矩阵秩的性质
+          - n维向量空间的概念
+          - Pn的子空间
+          - 向量组的线性相关性
+          - 向量组的线性组合
+          - 向量组的秩与极大无关组
+          - Fn的基
+          - 维数
+          - 坐标
+          - 线性方程组解的结构
+          - 齐次线性方程组
+          - 非齐次线性方程组
+          - 一元多项式
+          - 多项式的运算
+          - 一元多项式函数
+          - 带余除法
+          - 整除的性质
+          - 多项式的最大公因式
+          - 多项式互素
+          - 因式分解定理
+          - 不可约多项式
+          - 重因式
+          - 多项式的根与重根
+          - 复系数与实系数多项式的因式分解
+          - 有理系数多项式
+          - 本原多项式
+          - 整系数多项式的有理根
+          - 有理数域上不可约多项式的判别方法
+          - 多元多项式
+          - 对称多项式
+      - 欧几里得空间
+        - 内积空间
+          - 欧氏空间
+          - 内积与欧氏空间
+          - 定义与实例
+          - Cauchy不等式
+          - 度量矩阵
+          - 标准正交基
+          - Gram-Schmidt正交化
+          - 正交矩阵
+          - 欧氏空间上的同构
+          - 正交变换与正交补
+          - 正交变换
+          - 正交补
+          - 内射影与最小二乘解
+          - 实对称矩阵的标准形
+          - 实对称矩阵
+          - 对称变换
+          - 酉空间简介
+          - 二次型与双线性函数
+          - 二次型
+          - 二次型的定义
+          - 可逆线性替换
+          - 标准形与规范形
+          - 配方法
+          - 规范形及其惟一性
+          - 正定二次型
+          - 正交线性替换化实二次型为标准形
+          - 正定二次型与正定矩阵
+          - 正定矩阵与欧氏空间的度量矩阵
+          - 负定、半正定、半负定与不定二次型
+          - 双线性函数
+          - 非退化双线性函数
+          - 对称与反称双线性函数
+      - 试验设计与建模
+        - 试验设计
+          - 试验设计基本概念
+          - 科学试验
+          - 试验重要性
+          - 试验重要元素
+          - 试验类型
+          - 因子试验设计
+          - 单因素试验
+          - 双因素试验
+          - 双因素试验分类
+          - 主效应
+          - 交互作用
+          - 回归模型
+          - 随机效应
+          - 模型未知单因素试验
+          - 基函数法
+          - 近邻多项式估计
+          - 样条估计
+          - 区组设计
+          - 完全随机区组设计
+          - 拉丁方设计
+          - 平衡不完全随机区组设计
+          - 全面试验
+          - 单因素试验轮换法
+          - 部分因子设计
+          - 正交试验设计
+          - 正交表
+          - 正交表定义
+          - 正交表性质
+          - 无交互作用正交设计
+          - 有交互作用正交设计
+          - 水平数不等试验设计
+          - 混合水平正交表
+          - 拟水平法
+          - 正交设计原则
+          - 自由度原则
+          - 避免混杂现象
+          - 正交设计优良性准则
+          - 最大分辨度
+          - 最小低阶混杂
+          - 纯净效应准则
+          - 最优回归设计
+          - 信息矩阵
+          - 回归设计最优准则
+          - 等价性定理
+          - D-最优设计
+          - 一元多项式模型
+          - 多元多项式回归模型
+          - 确定性D-最优设计构造方法
+          - KL算法
+          - 最优回归设计其他准则
+          - D_s-最优
+          - E-最优
+          - A-最优
+          - 均匀试验设计
+          - 传统试验设计未知参数
+          - 模型未知
+          - 总体均值模型
+          - 均匀性度量
+          - 偏差
+          - L_p-星偏差
+          - 改进偏差
+          - 再生核希尔伯特空间
+          - 常见偏差表达式
+          - 均匀设计表构造
+          - 均匀设计基本要素
+          - 均匀设计理论求解
+          - 均匀设计近似解
+          - 好格子点法
+          - 好格子点法推广
+          - 切割法
+          - 随机优化法
+          - 门限接受法
+          - 偏差下界
+          - 均匀设计应用
+          - 定量变量试验
+          - 定性变量试验
+          - 正交性与均匀性联系
+          - 计算机试验
+          - 超拉丁方抽样
+          - 随机化正交阵列
+          - 正交超拉丁方设计
+          - 均匀设计计算机试验应用
+          - 计算机试验设计注记
+          - 序贯设计
+          - 优选法
+          - 单因素优选法
+          - 响应曲面法
+          - 最陡上升法
+          - 二阶响应曲面
+          - 中心复合设计
+          - 均匀序贯试验
+          - SNTO
+          - 另一种序贯方法
+          - 混料试验设计
+          - 常见混料设计
+          - 单纯形格子点设计
+          - 单纯形重心设计
+          - 轴设计
+          - Scheff\`{e  型设计
+          - 混料均匀设计
+          - 逆变换方法
+          - T^s 上均匀性测度
+          - 有限制混料均匀设计
+          - 设计方法简介
+          - 混料回归方程检验
+      - 计算共形几何
+      - 数学奥林匹克
+        - 数学分支
+          - 对称函数
+          - 正交多项式
+          - 特征值间距的度量
+          - 特征值间距的期望值
+          - 特征值间距极限的存在性、普遍性和差异定理
+          - 紧致群上的Haar测度的函子性质
+          - 证明定理1.2.3和1.2.6的经济性
+          - 定理1.2.6的推广
+          - 有限点在线上的间距的组合数学
+          - G(N)上的朴素间距度量
+          - 有限点在线上的间距的组合数学讨论
+          - 关于Clump(a)的变体
+          - G(N)上的朴素间距度量与INT、COR和TCOR的关系
+          - 通过INT、COR和TCOR计算期望值度量
+          - 证明定理2.1.3的公理系统
+          - 大N COR极限和极限度量的公式
+          - 证明主要定理的约简步骤
+          - 测试函数
+          - Haar测度
+          - Weyl积分公式
+          - 测试函数Z[n,F,G(N)]的期望值和方差估计
+          - 尾估计
+          - 有限秩算子及其特征多项式
+          - 多变量下的Predholm行列式及其测度论意义
+          - 大N极限和Predholm行列式的公式
+          - 多个变量下的Predholm行列式
+          - GUE差异
+          - 低秩Frobenius特征值在各种家族中的分布
+          - 低秩Frobenius特征值的等分布性质
+          - 大N极限
+          - Widom的结果
+      - 对称函数与正交多项式
+      - 群论与几何
+        - 群作用
+          - 群作用的固定化
+          - 伊甸园定理：旧与新
+          - 直角Coxeter群的大规模几何
+          - 手柄体群简介
+          - 低维右角Artin群的作用
+          - 具有无限维全纯自同构群的流形与线性化问题
+          - 几何群论主题
+          - 动力学Zeta函数与轨道分布
+          - 几复变中的Kleinian群
+      - 分形与现代分析
+        - 测度论与维数
+          - 测度论
+          - 测度概念
+          - 可测函数
+          - 可积函数
+          - Lebesgue测度
+          - Brunn-Minkowski不等式
+          - 等周不等式
+          - Hausdorff测度
+          - n维Hausdorff测度
+          - 等直径不等式
+          - 分形维数
+          - Hausdorff维数
+          - 盒子维数
+          - 拓扑维数
+      - 科学方法与实践
+        - 科学哲学与方法论
+          - 没有哲学的科学
+          - 物质世界和客观实在
+          - 逻辑与第一性原理
+          - 自然现象和实验至上
+          - 观察和实验
+          - 科学中的信任
+          - 对自然现象近似且有限的描述
+          - 假设和假说
+          - 理论
+          - 理论的角力
+          - 一个理论能从另一个理论中“推导”出来吗？
+          - 证明？证伪？什么意思？
+          - 不要自讨苦吃
+          - 科学“共识”？那是什么？
+          - 科学方法的流程图
+          - “是什么”和“为什么”的问题
+          - “科学主义”：对科学方法的滥用
+    - 应用统计学
+      - 随机模拟与优化方法
+        - 随机模拟
+          - 逆变换法
+          - 接受拒绝抽样法
+          - 随机表示法
+          - 常见离散型随机变量的生成
+          - 常见连续型随机变量的生成
+          - 多维随机变量的生成
+          - 对偶变量法
+          - 条件期望法
+          - 重要性抽样法
+          - 刀切法
+          - 自助法
+          - 非参数自助法
+          - 参数化B 估计
+          - Metropolis-Hastings 算法
+          - Metropolis 算法
+          - Gibbs 抽样
+          - 分块Gibbs 抽样
+          - Gibbs 算法的收敛定理
+          - 数据增强技术
+          - 切片抽样
+          - 切片算法的收敛性
+          - 图示法
+          - 诊断统计量
+          - 均匀网格
+          - 低偏差序列
+          - 分布函数的代表点
+          - FM 代表点
+          - k 均值算法
+          - 重要性抽样重抽样技术
+          - 拟蒙特卡罗SIR 技术
+          - 随机化拟蒙特卡洛重要性重采样(RQSIR)
+          - 全局似然比抽样器
+          - GLR 在一维分布中的应用
+          - 多维多峰分布中的使用
+          - GLR-Gibbs 算法
+          - 多维积分的近似
+          - 随机方法
+          - 拟随机方法
+          - 无约束优化问题
+          - 约束优化问题
+        - 贝叶斯推断与模型选择
+          - 贝叶斯推断
+          - 分层贝叶斯模型
+          - 贝叶斯变量选择
+          - 超参数的选择
+      - 空间模型与生存分析
+        - 空间模型
+          - 基于R-INLA的SPDE空间模型的高级分析
+          - 积分嵌套拉普拉斯近似
+          - R-INLA包
+          - 空间建模
+          - 随机偏微分方程法
+          - 随机场投影
+          - 预测
+          - 三角剖分
+          - 非高斯响应
+          - 多个似然
+          - 协同区域模型
+          - 测量误差模型
+          - 点过程
+          - 对数高斯–Cox过程
+          - 优先抽样法
+          - 空间非平稳性
+          - 协方差解释变量
+          - 屏障模型
+          - 风险评估
+          - 生存分析
+          - 极值模型
+          - 时空模型
+          - 离散时域
+          - 连续时域
+          - 时空协同区域模型
+          - 动态回归
+          - 时空点过程
+          - 大型点过程数据集
+          - 累积降雨量
+          - Hurdle伽马模型
+        - 生存分析
+          - 生存树
+          - 生存分析
+      - 机器学习方法
+        - 递归划分方法及其应用
+        - CART 运用实例
+        - 树构建的基本元素
+        - 逻辑斯谛回归模型
+        - 二元分类树
+        - 流行病学中的风险因素分析
+        - 客户信用评估
+        - 随机森林
+        - 删失数据分析
+        - 连续响应变量的回归树
+        - 自适应性样条
+        - 纵向数据分析
+        - 多元离散响应分析
+    - 生物统计学
+      - 生物统计学与临床试验设计
+        - 临床试验设计的统计方法
+        - 统计基础知识
+        - 参数估计
+        - 假设检验
+        - 图表分析
+        - 方差分析
+        - 回归分析
+        - 类别变量统计分析
+        - 生存分析和可靠性
+      - 播音创作与表达技巧
+        - 播音创作的研究内容和意义
+        - 播音创作的正确道路
+        - 播音创作实用基础的指导思想
+        - 播音创作的逻辑思维
+        - 提炼稿件的中心思想
+        - 理清稿件的脉络关系
+        - 稿件的深度解读
+        - 播音创作的形象思维
+        - 利用感知器官引发思想感情
+        - 把握思想情感引导立意纵深
+        - 升华立意,力求气韵生动
+        - 播音创作的交流思维
+        - 播音创作的准备——体验交流
+        - 播音创作的过程——互动交流
+        - 播音创作的目的——拟态交流
+        - 播音创作的稿件层次
+        - 稿件的多级层次划分
+        - 稿件多级层次分析的方法
+        - 稿件各层次间的转换
+        - 语句内部层次关系——停连的处理
+        - 停连的基本类型
+        - 稿件层次的表达技巧
+        - 播音创作的稿件重点
+        - 稿件语句重点——重音的把握
+        - 有声语言表达形式的内在依据
+        - 有声语言表达的外在形式
+        - 有声语言表达外在形式与内在依据的对应关系
+        - 播音创作的起伏变化
+        - 起伏变化是播音创作表达规律的总体体现
+        - 声音弹性控制和播音创作起伏变化的对比规律
+        - 播音创作的文体与语体
+        - 稿件的结构语体
+        - 新闻性文体表达技巧
+        - 稿件的表达样式
+        - 播音创作的创作状态
+        - 良好创作状态的特征
+        - 进入良好创作状态的方法
+        - 不同场合下创作状态的获得与调整
+      - MINITAB软件应用
+        - MINITAB功能简介
+        - 数据管理
+        - 简单统计功能
+        - 过程控制
+      - 统计学基础
+        - 统计学入门
+        - 抽样与数据结构
+        - 描述性统计学
+        - 概率与随机变量
+      - 统计推断
+        - 抽样分布
+        - 统计推断简介
+        - 点估计
+        - 置信区间
+        - 假设检验
+        - 比较两个样本
+      - 回归分析
+        - 线性回归
+        - 一个伯努利响应
+      - 结构方程模型
+        - 测量模型
+        - 结构模型
+        - 模型表达方程
+        - 模型识别
+        - 模型估计
+        - 模型评估
+        - 模型修正
+        - 验证性因子分析模型
+        - 高阶因子分析模型
+        - LISREL 模型
+        - Bentler-Weeks 模型
+        - 多元Probit 验证性因子分析模型
+        - 非线性结构方程模型
+        - 混合连续和有序分类变量的非线性结构方程模型
+        - 两水平非线性结构方程模型
+        - 含跨水平效应的两水平非线性结构方程模型
+        - 多组非线性结构方程模型
+        - 有限混合结构方程模型
+        - 含协变量的结构方程模型
+        - 连续和有序分类变量的结构方程模型
+        - 贝叶斯模型比较
+        - 含缺失数据的结构方程模型
+        - 含指数分布族的结构方程模型
+      - 贝叶斯方法与蒙特卡罗模拟
+        - 结构方程模型:贝叶斯方法
+        - 蒙特卡罗方法与随机过程
+        - Metropolis-Hastings 算法
+        - Gibbs 采样
+        - 路径抽样
+        - 蒙特卡罗模拟法估计样本量
+        - Satorra-Saris 法估计样本量
+      - 高级统计方法
+        - 探索性因子分析
+        - 验证性因子分析模型
+        - MIMIC 模型
+        - 单标识变量中测量误差的校正
+        - 检验涉及潜变量的交互作用
+        - 线性潜发展模型
+        - 非线性潜发展模型
+        - 多结局测量发展过程的线性潜发展模型
+        - 两部式潜发展模型
+        - 分类结局测量的潜发展模型
+        - 多组验证性因子分析模型
+        - 多组结构方程模型
+        - 多组潜发展模型
+        - 结构方程模型样本量估计
